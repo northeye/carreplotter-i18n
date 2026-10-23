@@ -286,6 +286,7 @@
   "auto_backup_description": "Settings screen",
   "auto_backup_folder": "Settings screen",
   "auto_backup_no_folder": "Settings screen",
+  "auto_backup_folder_lost": "Settings screen",
   "auto_backup_choose_folder": "Settings screen",
   "auto_backup_frequency": "Settings screen",
   "freq_daily": "Settings screen",

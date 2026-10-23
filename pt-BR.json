@@ -286,6 +286,7 @@
   "auto_backup_description": "Grava periodicamente o mesmo arquivo de \"Exportar dados de viagem\" na pasta escolhida. Se você escolher a pasta de um app de nuvem (OneDrive, Dropbox…), esse app faz o upload. Não acontece durante a gravação (é feito depois).",
   "auto_backup_folder": "Pasta",
   "auto_backup_no_folder": "Nenhuma pasta escolhida",
+  "auto_backup_folder_lost": "O acesso à pasta de backup foi perdido. Escolha a pasta novamente.",
   "auto_backup_choose_folder": "Escolher pasta",
   "auto_backup_frequency": "Frequência",
   "freq_daily": "Diária",

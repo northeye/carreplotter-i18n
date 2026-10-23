@@ -286,6 +286,7 @@
   "auto_backup_description": "Scrive periodicamente lo stesso file di «Esporta i dati dei viaggi» nella cartella scelta. Se scegli la cartella di un'app cloud (OneDrive, Dropbox…), è quell'app a caricarlo. Non avviene durante la registrazione (viene fatto dopo).",
   "auto_backup_folder": "Cartella",
   "auto_backup_no_folder": "Nessuna cartella scelta",
+  "auto_backup_folder_lost": "Accesso alla cartella di backup perso. Scegli di nuovo la cartella.",
   "auto_backup_choose_folder": "Scegli cartella",
   "auto_backup_frequency": "Frequenza",
   "freq_daily": "Ogni giorno",

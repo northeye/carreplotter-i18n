@@ -286,6 +286,7 @@
   "auto_backup_description": "Escribe periódicamente el mismo archivo que «Exportar datos de viajes» en la carpeta elegida. Si eliges la carpeta de una app en la nube (OneDrive, Dropbox…), esa app lo sube. No se hace mientras grabas (se hace después).",
   "auto_backup_folder": "Carpeta",
   "auto_backup_no_folder": "Ninguna carpeta elegida",
+  "auto_backup_folder_lost": "Se perdió el acceso a la carpeta de copias. Vuelve a elegir la carpeta.",
   "auto_backup_choose_folder": "Elegir carpeta",
   "auto_backup_frequency": "Frecuencia",
   "freq_daily": "Diaria",

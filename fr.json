@@ -286,6 +286,7 @@
   "auto_backup_description": "Écrit régulièrement le même fichier qu'« Exporter les données de trajet » dans le dossier choisi. Si vous choisissez le dossier d'une appli cloud (OneDrive, Dropbox…), c'est elle qui le téléverse. Rien n'est fait pendant l'enregistrement (ce sera fait plus tard).",
   "auto_backup_folder": "Dossier",
   "auto_backup_no_folder": "Aucun dossier choisi",
+  "auto_backup_folder_lost": "Accès au dossier de sauvegarde perdu. Choisissez à nouveau le dossier.",
   "auto_backup_choose_folder": "Choisir un dossier",
   "auto_backup_frequency": "Fréquence",
   "freq_daily": "Quotidienne",

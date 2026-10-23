@@ -286,6 +286,7 @@
   "auto_backup_description": "\"주행 데이터 내보내기\"와 같은 파일을 선택한 폴더에 정기적으로 저장합니다. 클라우드 앱(OneDrive·Dropbox 등)의 폴더를 고르면 그 앱이 업로드합니다. 기록 중에는 하지 않고 나중에 합니다.",
   "auto_backup_folder": "저장 위치",
   "auto_backup_no_folder": "폴더를 선택하지 않았습니다",
+  "auto_backup_folder_lost": "백업 폴더에 접근할 수 없게 되었습니다. 폴더를 다시 선택하세요.",
   "auto_backup_choose_folder": "폴더 선택",
   "auto_backup_frequency": "빈도",
   "freq_daily": "매일",

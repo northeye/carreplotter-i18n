@@ -286,6 +286,7 @@
   "auto_backup_description": "「走行データを書き出す」と同じファイルを、選んだフォルダに定期的に書きます。クラウドストレージアプリ（OneDrive・Dropbox など）のフォルダを選ぶと、そのアプリがアップロードします。走行記録中はバックアップを実行せず、あとからバックアップされます。",
   "auto_backup_folder": "保存先",
   "auto_backup_no_folder": "フォルダが選ばれていません",
+  "auto_backup_folder_lost": "保存先のフォルダにアクセスできなくなりました。フォルダを選び直してください",
   "auto_backup_choose_folder": "フォルダを選ぶ",
   "auto_backup_frequency": "頻度",
   "freq_daily": "毎日",

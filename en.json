@@ -286,6 +286,7 @@
   "auto_backup_description": "Writes the same file as \"Export trip data\" to the folder you choose on a schedule. If you choose a folder of a cloud app (such as OneDrive or Dropbox), that app uploads it. Not done while recording (it runs later).",
   "auto_backup_folder": "Folder",
   "auto_backup_no_folder": "No folder selected",
+  "auto_backup_folder_lost": "Lost access to the backup folder. Choose the folder again.",
   "auto_backup_choose_folder": "Choose folder",
   "auto_backup_frequency": "Frequency",
   "freq_daily": "Daily",

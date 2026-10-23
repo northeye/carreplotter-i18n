@@ -286,6 +286,7 @@
   "auto_backup_description": "Schreibt regelmäßig dieselbe Datei wie „Fahrtdaten exportieren“ in den gewählten Ordner. Wählen Sie den Ordner einer Cloud-App (OneDrive, Dropbox …), lädt diese App sie hoch. Während der Aufzeichnung passiert nichts (wird später nachgeholt).",
   "auto_backup_folder": "Ordner",
   "auto_backup_no_folder": "Kein Ordner gewählt",
+  "auto_backup_folder_lost": "Kein Zugriff mehr auf den Sicherungsordner. Bitte den Ordner erneut auswählen.",
   "auto_backup_choose_folder": "Ordner wählen",
   "auto_backup_frequency": "Häufigkeit",
   "freq_daily": "Täglich",
