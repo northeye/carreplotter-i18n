@@ -431,6 +431,7 @@
   "trips_empty_text": "アダプターにつないでエンジンをかけると、自動で記録を始めます。アダプターなしで GPS だけで記録するときは、メーターの「記録開始」から始めてください。",
   "trips_delete_text": "削除した走行は元に戻せません。",
   "trip_recording": "記録中",
+  "mini_event_ago": "%1$d秒前",
   "trip_analyzing": "集計中…",
   "no_gps": "GPS なし",
   "trip_title": "走行",

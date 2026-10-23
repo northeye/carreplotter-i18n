@@ -435,6 +435,7 @@
   "trips_empty_text": "Die Aufzeichnung startet automatisch, wenn Sie sich mit einem Adapter verbinden und den Motor starten. Um nur mit GPS ohne Adapter aufzuzeichnen, tippen Sie im Tab Anzeige auf „Aufzeichnung starten“.",
   "trips_delete_text": "Gelöschte Fahrten können nicht wiederhergestellt werden.",
   "trip_recording": "Aufzeichnung",
+  "mini_event_ago": "vor %1$d Sek.",
   "trip_analyzing": "Wird ausgewertet …",
   "no_gps": "Kein GPS",
   "trip_title": "Fahrt",

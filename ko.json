@@ -431,6 +431,7 @@
   "trips_empty_text": "어댑터에 연결하고 시동을 걸면 자동으로 기록을 시작합니다. 어댑터 없이 GPS만으로 기록하려면 계기판의 \"기록 시작\"을 누르세요.",
   "trips_delete_text": "삭제한 주행은 되돌릴 수 없습니다.",
   "trip_recording": "기록 중",
+  "mini_event_ago": "%1$d초 전",
   "trip_analyzing": "집계 중…",
   "no_gps": "GPS 없음",
   "trip_title": "주행",

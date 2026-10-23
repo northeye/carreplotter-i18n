@@ -435,6 +435,7 @@
   "trips_empty_text": "L'enregistrement démarre automatiquement quand vous vous connectez à un adaptateur et démarrez le moteur. Pour enregistrer avec le GPS seul, sans adaptateur, utilisez « Démarrer l'enregistrement » dans l'onglet Compteur.",
   "trips_delete_text": "Les trajets supprimés ne peuvent pas être restaurés.",
   "trip_recording": "Enregistrement",
+  "mini_event_ago": "il y a %1$d s",
   "trip_analyzing": "Analyse…",
   "no_gps": "Pas de GPS",
   "trip_title": "Trajet",

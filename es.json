@@ -435,6 +435,7 @@
   "trips_empty_text": "La grabación empieza automáticamente al conectar un adaptador y arrancar el motor. Para grabar solo con GPS, sin adaptador, usa «Iniciar grabación» en la pestaña Panel.",
   "trips_delete_text": "Los viajes eliminados no se pueden recuperar.",
   "trip_recording": "Grabando",
+  "mini_event_ago": "hace %1$d s",
   "trip_analyzing": "Analizando…",
   "no_gps": "Sin GPS",
   "trip_title": "Viaje",

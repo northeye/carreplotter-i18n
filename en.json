@@ -435,6 +435,7 @@
   "trips_empty_text": "Recording starts automatically when you connect to an adapter and start the engine. To record with GPS only, without an adapter, use \"Start recording\" on the Meter tab.",
   "trips_delete_text": "Deleted trips cannot be restored.",
   "trip_recording": "Recording",
+  "mini_event_ago": "%1$ds ago",
   "trip_analyzing": "Analyzing…",
   "no_gps": "No GPS",
   "trip_title": "Trip",

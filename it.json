@@ -435,6 +435,7 @@
   "trips_empty_text": "La registrazione parte automaticamente quando ti connetti a un adattatore e avvii il motore. Per registrare solo con il GPS, senza adattatore, usa «Avvia registrazione» nella scheda Strumenti.",
   "trips_delete_text": "I viaggi eliminati non possono essere recuperati.",
   "trip_recording": "In registrazione",
+  "mini_event_ago": "%1$d s fa",
   "trip_analyzing": "Analisi…",
   "no_gps": "Nessun GPS",
   "trip_title": "Viaggio",
