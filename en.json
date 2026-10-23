@@ -53,6 +53,7 @@
   "metric_accel_x": "Acceleration X",
   "metric_accel_y": "Acceleration Y",
   "metric_accel_z": "Acceleration Z",
+  "metric_recent_events": "Events",
   "pid_engine_load": "Engine load",
   "pid_coolant_temp": "Coolant temp",
   "pid_map": "Intake manifold pressure",

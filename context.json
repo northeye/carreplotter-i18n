@@ -53,6 +53,7 @@
   "metric_accel_x": "Names of values, events, choices and connection errors",
   "metric_accel_y": "Names of values, events, choices and connection errors",
   "metric_accel_z": "Names of values, events, choices and connection errors",
+  "metric_recent_events": "Names of values, events, choices and connection errors (meter item: list of events while recording)",
   "pid_engine_load": "Names of values, events, choices and connection errors",
   "pid_coolant_temp": "Names of values, events, choices and connection errors",
   "pid_map": "Names of values, events, choices and connection errors",

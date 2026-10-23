@@ -53,6 +53,7 @@
   "metric_accel_x": "Beschleunigung X",
   "metric_accel_y": "Beschleunigung Y",
   "metric_accel_z": "Beschleunigung Z",
+  "metric_recent_events": "Fahrereignisse",
   "pid_engine_load": "Motorlast",
   "pid_coolant_temp": "Kühlmitteltemp.",
   "pid_map": "Saugrohrdruck",

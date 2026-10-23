@@ -53,6 +53,7 @@
   "metric_accel_x": "Aceleração X",
   "metric_accel_y": "Aceleração Y",
   "metric_accel_z": "Aceleração Z",
+  "metric_recent_events": "Eventos da viagem",
   "pid_engine_load": "Carga do motor",
   "pid_coolant_temp": "Temp. do líquido de arrefecimento",
   "pid_map": "Pressão do coletor",

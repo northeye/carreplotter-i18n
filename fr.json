@@ -53,6 +53,7 @@
   "metric_accel_x": "Accélération X",
   "metric_accel_y": "Accélération Y",
   "metric_accel_z": "Accélération Z",
+  "metric_recent_events": "Événements du trajet",
   "pid_engine_load": "Charge moteur",
   "pid_coolant_temp": "Temp. liquide de refroidissement",
   "pid_map": "Pression d'admission",

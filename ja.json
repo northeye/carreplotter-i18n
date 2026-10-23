@@ -53,6 +53,7 @@
   "metric_accel_x": "加速度 X",
   "metric_accel_y": "加速度 Y",
   "metric_accel_z": "加速度 Z",
+  "metric_recent_events": "走行中のイベント",
   "pid_engine_load": "エンジン負荷",
   "pid_coolant_temp": "水温",
   "pid_map": "吸気管圧力",

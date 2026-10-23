@@ -53,6 +53,7 @@
   "metric_accel_x": "가속도 X",
   "metric_accel_y": "가속도 Y",
   "metric_accel_z": "가속도 Z",
+  "metric_recent_events": "주행 중 이벤트",
   "pid_engine_load": "엔진 부하",
   "pid_coolant_temp": "냉각수 온도",
   "pid_map": "흡기 매니폴드 압력",
