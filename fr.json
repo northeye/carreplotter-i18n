@@ -229,7 +229,7 @@
   "resume_label": "Fusionner un trajet après une pause (ex. aire de repos)",
   "resume_never": "Ne pas fusionner",
   "short_trip_title": "Supprimer les trajets courts",
-  "short_trip_description": "À l’arrêt de l’enregistrement, les trajets plus courts que la distance ci-dessous sont supprimés (par exemple moteur démarré sans rouler). Si le trajet peut reprendre après une pause, il est conservé ; si la pause dépasse le réglage, il est supprimé.",
+  "short_trip_description": "Les trajets plus courts que la distance ci-dessous sont supprimés (par exemple moteur démarré sans rouler). Si l’enregistrement s’est arrêté automatiquement, le trajet est conservé pendant la durée de pause réglée ci-dessus ; si vous repartez et qu’il continue, c’est le trajet complet qui compte (par exemple, un arrêt rapide dans un magasin proche avant un long trajet reste un seul trajet).",
   "short_trip_keep": "Tout garder",
   "short_trip_under": "Moins de %1$s",
   "disconnect_title": "Si vous vous déconnectez manuellement pendant l'enregistrement",

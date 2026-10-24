@@ -229,7 +229,7 @@
   "resume_label": "Unir el viaje tras una pausa (p. ej., área de servicio)",
   "resume_never": "No unir",
   "short_trip_title": "Descartar viajes cortos",
-  "short_trip_description": "Al detener la grabación, se eliminan los viajes más cortos que la distancia de abajo (por ejemplo, si se arrancó el motor sin circular). Si el viaje puede continuar tras un descanso, se conserva; si el descanso supera el ajuste, se elimina.",
+  "short_trip_description": "Se eliminan los viajes más cortos que la distancia de abajo (por ejemplo, si se arrancó el motor sin circular). Si la grabación se detuvo automáticamente, el viaje se conserva durante el descanso ajustado arriba; si sigues conduciendo y continúa, cuenta el viaje completo (por ejemplo, una parada rápida en una tienda cercana antes de un viaje largo queda como un solo viaje).",
   "short_trip_keep": "Conservar todos",
   "short_trip_under": "Menos de %1$s",
   "disconnect_title": "Al desconectar manualmente mientras grabas",

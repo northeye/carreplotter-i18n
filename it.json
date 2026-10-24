@@ -229,7 +229,7 @@
   "resume_label": "Unisci un viaggio dopo una sosta (es. area di servizio)",
   "resume_never": "Non unire",
   "short_trip_title": "Elimina i viaggi brevi",
-  "short_trip_description": "Quando la registrazione si ferma, i viaggi più brevi della distanza qui sotto vengono eliminati (ad esempio motore acceso senza muoversi). Se il viaggio può proseguire dopo una pausa viene conservato; se la pausa supera l’impostazione, viene eliminato.",
+  "short_trip_description": "I viaggi più brevi della distanza qui sotto vengono eliminati (ad esempio motore acceso senza muoversi). Se la registrazione si è fermata automaticamente, il viaggio viene conservato per la durata della pausa impostata sopra; se riparti e prosegue, conta l’intero viaggio (ad esempio, una breve sosta in un negozio vicino prima di un lungo viaggio resta un unico viaggio).",
   "short_trip_keep": "Conserva tutti",
   "short_trip_under": "Sotto %1$s",
   "disconnect_title": "Se ti disconnetti manualmente durante la registrazione",

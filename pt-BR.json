@@ -229,7 +229,7 @@
   "resume_label": "Unir a viagem após uma parada (ex.: posto na estrada)",
   "resume_never": "Não unir",
   "short_trip_title": "Descartar viagens curtas",
-  "short_trip_description": "Ao parar a gravação, as viagens mais curtas que a distância abaixo são excluídas (por exemplo, quando o motor foi ligado mas o carro não andou). Se a viagem puder continuar após uma pausa, ela é mantida; se a pausa passar do ajuste, ela é excluída.",
+  "short_trip_description": "As viagens mais curtas que a distância abaixo são excluídas (por exemplo, quando o motor foi ligado mas o carro não andou). Se a gravação parou automaticamente, a viagem é mantida durante a pausa ajustada acima; se você voltar a dirigir e ela continuar, vale a viagem inteira (por exemplo, uma parada rápida numa loja próxima antes de uma viagem longa fica como uma só viagem).",
   "short_trip_keep": "Manter todas",
   "short_trip_under": "Menos de %1$s",
   "disconnect_title": "Ao desconectar manualmente durante a gravação",

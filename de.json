@@ -229,7 +229,7 @@
   "resume_label": "Fahrt nach einer Pause fortsetzen (z. B. Rastplatz)",
   "resume_never": "Nicht verbinden",
   "short_trip_title": "Kurze Fahrten verwerfen",
-  "short_trip_description": "Wenn die Aufzeichnung endet, werden Fahrten unter der folgenden Strecke gelöscht (z. B. wenn der Motor lief, das Auto aber nicht fuhr). Kann die Fahrt nach einer Pause fortgesetzt werden, bleibt sie erhalten; dauert die Pause länger als eingestellt, wird sie gelöscht.",
+  "short_trip_description": "Fahrten unter der folgenden Strecke werden gelöscht (z. B. wenn der Motor lief, das Auto aber nicht fuhr). Wurde die Aufzeichnung automatisch beendet, bleibt die Fahrt während der oben eingestellten Pausenzeit erhalten; fährst du weiter und sie wird fortgesetzt, zählt die gesamte Fahrt (z. B. bleibt ein kurzer Einkauf in der Nähe vor einer langen Fahrt eine Fahrt).",
   "short_trip_keep": "Alle behalten",
   "short_trip_under": "Unter %1$s",
   "disconnect_title": "Beim manuellen Trennen während der Aufzeichnung",
