@@ -169,6 +169,7 @@
   "plan_manage": "Abo verwalten",
   "plan_restore": "Kauf erneut prüfen",
   "premium_about": "Über Premium",
+  "premium_meter_limit": "Im kostenlosen Tarif zeigt die Anzeige bis zu %1$d Elemente pro Seite und %2$d Seiten. Weitere Elemente werden ausgeblendet (hier kannst du sie entfernen). Mit Premium gibt es keine Grenze.",
   "premium_vehicles_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Fahrzeuge anlegen. Mit Premium gibt es keine Grenze.",
   "premium_places_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Orte speichern. Mit Premium gibt es keine Grenze.",
   "premium_older_trips": {

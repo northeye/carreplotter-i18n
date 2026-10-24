@@ -169,6 +169,7 @@
   "plan_manage": "Gestionar suscripción",
   "plan_restore": "Volver a comprobar la compra",
   "premium_about": "Acerca de Premium",
+  "premium_meter_limit": "El plan gratuito muestra hasta %1$d elementos por página y %2$d páginas. Los demás se ocultan (puedes quitarlos aquí). Con Premium no hay límite.",
   "premium_vehicles_limit": "El plan gratuito permite registrar hasta %1$d vehículos. Con Premium no hay límite.",
   "premium_places_limit": "El plan gratuito permite guardar hasta %1$d lugares. Con Premium no hay límite.",
   "premium_older_trips": {

@@ -169,6 +169,7 @@
   "plan_manage": "Manage subscription",
   "plan_restore": "Check purchase again",
   "premium_about": "About Premium",
+  "premium_meter_limit": "The free plan shows up to %1$d items per page and %2$d pages. Items beyond that are hidden on the meter (you can still remove them here). With Premium there is no limit.",
   "premium_vehicles_limit": "The free plan can register up to %1$d vehicles. With Premium there is no limit.",
   "premium_places_limit": "The free plan can save up to %1$d places. With Premium there is no limit.",
   "premium_older_trips": {

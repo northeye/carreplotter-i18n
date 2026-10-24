@@ -169,6 +169,7 @@
   "plan_manage": "Gestisci abbonamento",
   "plan_restore": "Verifica di nuovo l’acquisto",
   "premium_about": "Informazioni su Premium",
+  "premium_meter_limit": "Il piano gratuito mostra fino a %1$d elementi per pagina e %2$d pagine. Gli altri vengono nascosti (puoi rimuoverli qui). Con Premium non ci sono limiti.",
   "premium_vehicles_limit": "Il piano gratuito consente di registrare fino a %1$d veicoli. Con Premium non ci sono limiti.",
   "premium_places_limit": "Il piano gratuito consente di salvare fino a %1$d luoghi. Con Premium non ci sono limiti.",
   "premium_older_trips": {
