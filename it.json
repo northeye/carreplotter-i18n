@@ -172,6 +172,7 @@
   "plan_canceled": "Annullato. Puoi usare Premium fino alla fine del periodo pagato. Controlla la data di fine in Gestisci abbonamento (Play Store).",
   "plan_restore": "Ripristina acquisti",
   "premium_about": "Informazioni su Premium",
+  "premium_events_settings": "Con Premium, gli eventi che si verificano durante la registrazione vengono mostrati in tempo reale negli strumenti e nella mini finestra.",
   "premium_auto_backup": "Il backup automatico è disponibile con Premium. L’esportazione e l’importazione manuali qui sopra funzionano con qualsiasi piano.",
   "premium_live_events": "Non visibile con il piano gratuito. Al termine della registrazione, li trovi nei dettagli del viaggio.",
   "premium_meter_limit": "Il piano gratuito mostra fino a %1$d elementi per pagina e %2$d pagine. Gli elementi attenuati non compaiono negli strumenti (puoi rimuoverli qui). Con Premium non ci sono limiti.",

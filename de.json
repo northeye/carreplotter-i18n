@@ -172,6 +172,7 @@
   "plan_canceled": "Gekündigt. Premium bleibt bis zum Ende des bezahlten Zeitraums verfügbar. Das Enddatum findest du unter „Abo verwalten“ (Play Store).",
   "plan_restore": "Käufe wiederherstellen",
   "premium_about": "Über Premium",
+  "premium_events_settings": "Mit Premium werden Ereignisse während der Aufzeichnung live in der Anzeige und im Mini-Fenster angezeigt.",
   "premium_auto_backup": "Die automatische Sicherung ist mit Premium verfügbar. Das manuelle Exportieren und Importieren oben funktioniert in jedem Tarif.",
   "premium_live_events": "Im kostenlosen Tarif nicht sichtbar. Nach dem Ende der Aufzeichnung findest du sie in den Fahrtdetails.",
   "premium_meter_limit": "Im kostenlosen Tarif zeigt die Anzeige bis zu %1$d Elemente pro Seite und %2$d Seiten. Abgeblendete Elemente erscheinen nicht in der Anzeige (hier kannst du sie entfernen). Mit Premium gibt es keine Grenze.",
