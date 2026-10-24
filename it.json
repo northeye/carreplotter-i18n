@@ -600,6 +600,12 @@
   "notes_memo_count": "%1$d / %2$d",
   "filter_all": "Tutti",
   "filter_unset": "Senza scopo",
+  "filter_purpose": "Scopo",
+  "filter_source": "Origine",
+  "filter_source_recorded": "Registrato qui",
+  "filter_source_imported": "Importato",
+  "filter_vehicle": "Veicolo",
+  "filter_vehicle_none": "Veicolo non impostato",
   "trips_select_shown": "Seleziona tutti quelli mostrati",
   "trips_export": "Esporta",
   "trips_selected": {

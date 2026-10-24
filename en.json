@@ -599,6 +599,12 @@
   "notes_memo_count": "%1$d / %2$d",
   "filter_all": "All",
   "filter_unset": "No purpose",
+  "filter_purpose": "Purpose",
+  "filter_source": "Source",
+  "filter_source_recorded": "Recorded here",
+  "filter_source_imported": "Imported",
+  "filter_vehicle": "Vehicle",
+  "filter_vehicle_none": "Vehicle not set",
   "trips_select_shown": "Select all shown",
   "trips_export": "Export",
   "trips_selected": {

@@ -599,6 +599,12 @@
   "notes_memo_count": "%1$d / %2$d",
   "filter_all": "Alle",
   "filter_unset": "Ohne Zweck",
+  "filter_purpose": "Zweck",
+  "filter_source": "Herkunft",
+  "filter_source_recorded": "Hier aufgezeichnet",
+  "filter_source_imported": "Importiert",
+  "filter_vehicle": "Fahrzeug",
+  "filter_vehicle_none": "Fahrzeug nicht festgelegt",
   "trips_select_shown": "Alle angezeigten auswählen",
   "trips_export": "Exportieren",
   "trips_selected": {

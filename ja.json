@@ -594,6 +594,12 @@
   "notes_memo_count": "%1$d / %2$d",
   "filter_all": "すべて",
   "filter_unset": "用途なし",
+  "filter_purpose": "用途",
+  "filter_source": "記録元",
+  "filter_source_recorded": "この端末で記録",
+  "filter_source_imported": "取り込み",
+  "filter_vehicle": "車両",
+  "filter_vehicle_none": "車両未設定",
   "trips_select_shown": "表示中をすべて選ぶ",
   "trips_export": "書き出す",
   "trips_selected": {

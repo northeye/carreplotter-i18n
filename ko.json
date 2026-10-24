@@ -594,6 +594,12 @@
   "notes_memo_count": "%1$d / %2$d",
   "filter_all": "전체",
   "filter_unset": "용도 없음",
+  "filter_purpose": "용도",
+  "filter_source": "출처",
+  "filter_source_recorded": "이 기기에서 기록",
+  "filter_source_imported": "가져옴",
+  "filter_vehicle": "차량",
+  "filter_vehicle_none": "차량 미설정",
   "trips_select_shown": "표시 중인 항목 모두 선택",
   "trips_export": "내보내기",
   "trips_selected": {
