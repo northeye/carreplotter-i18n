@@ -169,6 +169,10 @@
   "plan_manage": "Abo verwalten",
   "plan_restore": "Kauf erneut prüfen",
   "premium_about": "Über Premium",
+  "premium_older_trips": {
+    "one": "%1$d ältere Fahrt ist gespeichert und mit Premium sichtbar. Im kostenlosen Tarif werden die neuesten %2$d angezeigt.",
+    "other": "%1$d ältere Fahrten sind gespeichert und mit Premium sichtbar. Im kostenlosen Tarif werden die neuesten %2$d angezeigt."
+  },
   "debug_plan": "Tarif (zum Testen)",
   "debug_plan_store": "Wie gekauft",
   "settings_locale": "Sprache, Einheiten und Formate",

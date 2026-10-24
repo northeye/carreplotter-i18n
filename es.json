@@ -169,6 +169,10 @@
   "plan_manage": "Gestionar suscripción",
   "plan_restore": "Volver a comprobar la compra",
   "premium_about": "Acerca de Premium",
+  "premium_older_trips": {
+    "one": "%1$d viaje anterior está guardado y se puede ver con Premium. El plan gratuito muestra los %2$d más recientes.",
+    "other": "%1$d viajes anteriores están guardados y se pueden ver con Premium. El plan gratuito muestra los %2$d más recientes."
+  },
   "debug_plan": "Plan (para pruebas)",
   "debug_plan_store": "Según la compra",
   "settings_locale": "Idioma, unidades y formatos",

@@ -169,6 +169,9 @@
   "plan_manage": "購読の管理",
   "plan_restore": "購入を確かめ直す",
   "premium_about": "プレミアムについて",
+  "premium_older_trips": {
+    "other": "古い走行 %1$d 件は記録が残っていて、プレミアムで見られます（無料プランでは最新 %2$d 件）。"
+  },
   "debug_plan": "プラン（テスト用）",
   "debug_plan_store": "購入のとおり",
   "settings_locale": "言語と単位/書式",

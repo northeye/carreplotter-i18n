@@ -169,6 +169,10 @@
   "plan_manage": "Manage subscription",
   "plan_restore": "Check purchase again",
   "premium_about": "About Premium",
+  "premium_older_trips": {
+    "one": "%1$d older trip is kept and can be viewed with Premium. The free plan shows the latest %2$d.",
+    "other": "%1$d older trips are kept and can be viewed with Premium. The free plan shows the latest %2$d."
+  },
   "debug_plan": "Plan (for testing)",
   "debug_plan_store": "As purchased",
   "settings_locale": "Language, units & formats",

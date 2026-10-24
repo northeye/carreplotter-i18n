@@ -169,6 +169,10 @@
   "plan_manage": "Gérer l’abonnement",
   "plan_restore": "Vérifier à nouveau l’achat",
   "premium_about": "À propos de Premium",
+  "premium_older_trips": {
+    "one": "%1$d trajet plus ancien est conservé et visible avec Premium. La formule gratuite affiche les %2$d derniers.",
+    "other": "%1$d trajets plus anciens sont conservés et visibles avec Premium. La formule gratuite affiche les %2$d derniers."
+  },
   "debug_plan": "Formule (pour les tests)",
   "debug_plan_store": "Selon l’achat",
   "settings_locale": "Langue, unités et formats",
