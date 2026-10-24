@@ -504,6 +504,7 @@
   "trip_import_button": "Import",
   "trip_import_no_vehicle": "The trip is imported without a vehicle (it is not added to your vehicles' records). To make it a trip of your own vehicle, choose the vehicle in the trip details.",
   "trip_vehicle_none": "Not set (imported)",
+  "trip_original_vehicle": "Original vehicle: %1$s",
   "trip_import_duplicate": "This trip has already been imported.",
   "trip_import_done": "Trip imported.",
   "trip_import_hidden": "Imported. The trip is older than the latest %1$d and can be shown with Premium.",

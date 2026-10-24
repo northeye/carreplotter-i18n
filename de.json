@@ -504,6 +504,7 @@
   "trip_import_button": "Importieren",
   "trip_import_no_vehicle": "Die Fahrt wird ohne Fahrzeug importiert (sie wird nicht deinen Fahrzeugen zugeordnet). Um sie einem eigenen Fahrzeug zuzuordnen, wähle das Fahrzeug in den Fahrtdetails.",
   "trip_vehicle_none": "Nicht festgelegt (importiert)",
+  "trip_original_vehicle": "Ursprüngliches Fahrzeug: %1$s",
   "trip_import_duplicate": "Diese Fahrt wurde bereits importiert.",
   "trip_import_done": "Fahrt importiert.",
   "trip_import_hidden": "Importiert. Die Fahrt ist älter als die neuesten %1$d und mit Premium sichtbar.",
