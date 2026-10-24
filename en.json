@@ -176,8 +176,8 @@
   "premium_vehicles_limit": "The free plan can register up to %1$d vehicles. With Premium there is no limit.",
   "premium_places_limit": "The free plan can save up to %1$d places. With Premium there is no limit.",
   "premium_older_trips": {
-    "one": "%1$d older trip is kept and can be viewed with Premium. The free plan shows the latest %2$d.",
-    "other": "%1$d older trips are kept and can be viewed with Premium. The free plan shows the latest %2$d."
+    "one": "The remaining %1$d earlier trip can be shown with Premium. (The Free plan is limited to %2$d trips.)",
+    "other": "The remaining %1$d earlier trips can be shown with Premium. (The Free plan is limited to %2$d trips.)"
   },
   "debug_plan": "Plan (for testing)",
   "debug_plan_store": "As purchased",

@@ -176,8 +176,8 @@
   "premium_vehicles_limit": "El plan gratuito permite registrar hasta %1$d vehículos. Con Premium no hay límite.",
   "premium_places_limit": "El plan gratuito permite guardar hasta %1$d lugares. Con Premium no hay límite.",
   "premium_older_trips": {
-    "one": "%1$d viaje anterior está guardado y se puede ver con Premium. El plan gratuito muestra los %2$d más recientes.",
-    "other": "%1$d viajes anteriores están guardados y se pueden ver con Premium. El plan gratuito muestra los %2$d más recientes."
+    "one": "El %1$d viaje anterior restante se puede mostrar con Premium. (El plan gratuito está limitado a %2$d viajes.)",
+    "other": "Los %1$d viajes anteriores restantes se pueden mostrar con Premium. (El plan gratuito está limitado a %2$d viajes.)"
   },
   "debug_plan": "Plan (para pruebas)",
   "debug_plan_store": "Según la compra",

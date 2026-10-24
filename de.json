@@ -176,8 +176,8 @@
   "premium_vehicles_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Fahrzeuge anlegen. Mit Premium gibt es keine Grenze.",
   "premium_places_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Orte speichern. Mit Premium gibt es keine Grenze.",
   "premium_older_trips": {
-    "one": "%1$d ältere Fahrt ist gespeichert und mit Premium sichtbar. Im kostenlosen Tarif werden die neuesten %2$d angezeigt.",
-    "other": "%1$d ältere Fahrten sind gespeichert und mit Premium sichtbar. Im kostenlosen Tarif werden die neuesten %2$d angezeigt."
+    "one": "Die restliche %1$d ältere Fahrt kann mit Premium angezeigt werden. (Der kostenlose Tarif ist auf %2$d Fahrten begrenzt.)",
+    "other": "Die restlichen %1$d älteren Fahrten können mit Premium angezeigt werden. (Der kostenlose Tarif ist auf %2$d Fahrten begrenzt.)"
   },
   "debug_plan": "Tarif (zum Testen)",
   "debug_plan_store": "Wie gekauft",
