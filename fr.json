@@ -503,6 +503,8 @@
   "trip_import_vehicle": "Véhicule",
   "trip_import_from": "De : %1$s",
   "trip_import_button": "Importer",
+  "trip_import_no_vehicle": "Le trajet est importé sans véhicule (il n’est pas ajouté aux trajets de vos véhicules). Pour l’attribuer à votre véhicule, choisissez-le dans le détail du trajet.",
+  "trip_vehicle_none": "Aucun (importé)",
   "trip_import_duplicate": "Ce trajet a déjà été importé.",
   "trip_import_done": "Trajet importé.",
   "trip_import_hidden": "Importé. Le trajet est plus ancien que les %1$d derniers et visible avec Premium.",

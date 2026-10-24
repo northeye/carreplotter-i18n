@@ -497,6 +497,8 @@
   "trip_import_vehicle": "車両",
   "trip_import_from": "送り元：%1$s",
   "trip_import_button": "読み込む",
+  "trip_import_no_vehicle": "車両なしで読み込みます（自分の車両の記録には入りません）。自分の車両の走行にするときは、走行詳細で車両を選んでください。",
+  "trip_vehicle_none": "なし（取り込み）",
   "trip_import_duplicate": "この走行はもう読み込んであります。",
   "trip_import_done": "走行を読み込みました。",
   "trip_import_hidden": "読み込みました。最新 %1$d 件より古い走行なので、プレミアムプランで表示できます。",
