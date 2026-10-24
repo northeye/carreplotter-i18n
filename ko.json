@@ -146,6 +146,7 @@
   "plan_premium_title": "프리미엄",
   "plan_description": "기록과 재생은 무료로 제한 없이 사용할 수 있습니다. 프리미엄을 이용하면 아래 제한이 없어집니다.",
   "plan_premium_thanks": "구독해 주셔서 감사합니다. 모든 기능을 사용할 수 있습니다.",
+  "plan_premium_active": "모든 기능을 사용할 수 있습니다.",
   "plan_column_free": "무료",
   "plan_column_premium": "프리미엄",
   "plan_feature_trips": "주행 기록",

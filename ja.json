@@ -146,6 +146,7 @@
   "plan_premium_title": "プレミアムプラン",
   "plan_description": "記録とリプレイは、フリープランでも制限なく使えます。プレミアムプランでは、下記の制限がなくなります。",
   "plan_premium_thanks": "ご購読ありがとうございます。すべての機能が使えます。",
+  "plan_premium_active": "すべての機能が使えます。",
   "plan_column_free": "フリー",
   "plan_column_premium": "プレミアム",
   "plan_feature_trips": "走行履歴",

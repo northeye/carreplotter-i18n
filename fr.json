@@ -146,6 +146,7 @@
   "plan_premium_title": "Premium",
   "plan_description": "L’enregistrement et la relecture sont gratuits et sans limite. Premium supprime les limites ci-dessous.",
   "plan_premium_thanks": "Merci pour votre abonnement. Toutes les fonctionnalités sont débloquées.",
+  "plan_premium_active": "Toutes les fonctionnalités sont débloquées.",
   "plan_column_free": "Gratuit",
   "plan_column_premium": "Premium",
   "plan_feature_trips": "Historique des trajets",
