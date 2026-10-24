@@ -160,7 +160,7 @@
   "plan_free_places": "Up to %1$d",
   "plan_unlimited": "Unlimited",
   "plan_included": "Yes",
-  "plan_not_included": "—",
+  "plan_not_included": "No",
   "plan_trial": "Both the monthly and yearly plans include a %1$d-day free trial. When the trial ends, the subscription renews automatically.",
   "plan_buy_monthly": "Monthly %1$s",
   "plan_buy_yearly": "Yearly %1$s",

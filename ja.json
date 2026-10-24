@@ -160,7 +160,7 @@
   "plan_free_places": "%1$d 個まで",
   "plan_unlimited": "制限なし",
   "plan_included": "あり",
-  "plan_not_included": "—",
+  "plan_not_included": "なし",
   "plan_trial": "月額、年額いずれのプランも%1$d日間の無料体験が利用できます。無料期間が終了すると自動更新されます。",
   "plan_buy_monthly": "月額 %1$s",
   "plan_buy_yearly": "年額 %1$s",
