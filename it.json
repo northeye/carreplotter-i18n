@@ -504,7 +504,7 @@
   "trip_import_from": "Da: %1$s",
   "trip_import_button": "Importa",
   "trip_import_no_vehicle": "Il viaggio viene importato senza veicolo (non viene aggiunto ai tuoi veicoli). Per assegnarlo a un tuo veicolo, sceglilo nei dettagli del viaggio.",
-  "trip_vehicle_none": "Nessuno (importato)",
+  "trip_vehicle_none": "Non impostato (importato)",
   "trip_import_duplicate": "Questo viaggio è già stato importato.",
   "trip_import_done": "Viaggio importato.",
   "trip_import_hidden": "Importato. Il viaggio è più vecchio degli ultimi %1$d ed è visibile con Premium.",
