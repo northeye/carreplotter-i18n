@@ -149,6 +149,7 @@
   "plan_premium_active": "모든 기능을 사용할 수 있습니다.",
   "plan_lifetime_title": "프리미엄 플랜(평생)",
   "plan_lifetime_thanks": "평생 라이선스를 가지고 있습니다. 모든 기능을 사용할 수 있습니다.",
+  "plan_lifetime_has_subscription": "평생 라이선스가 있으므로 정기 구독은 필요하지 않습니다. '구독 관리'에서 해지할 수 있습니다.",
   "plan_column_free": "무료",
   "plan_column_premium": "프리미엄",
   "plan_feature_trips": "주행 기록",

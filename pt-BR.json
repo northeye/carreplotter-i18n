@@ -149,6 +149,7 @@
   "plan_premium_active": "Todos os recursos estão liberados.",
   "plan_lifetime_title": "Premium (vitalício)",
   "plan_lifetime_thanks": "Você tem uma licença vitalícia. Todos os recursos estão liberados.",
+  "plan_lifetime_has_subscription": "Você tem uma licença vitalícia, então a assinatura não é necessária. Você pode cancelá-la em Gerenciar assinatura.",
   "plan_column_free": "Grátis",
   "plan_column_premium": "Premium",
   "plan_feature_trips": "Histórico de viagens",

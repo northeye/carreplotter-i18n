@@ -149,6 +149,7 @@
   "plan_premium_active": "すべての機能が使えます。",
   "plan_lifetime_title": "プレミアムプラン（永久）",
   "plan_lifetime_thanks": "永久ライセンスをお持ちです。すべての機能が使えます。",
+  "plan_lifetime_has_subscription": "永久ライセンスがあるので、定期購読は不要です。「購読の管理」から解約できます。",
   "plan_column_free": "フリー",
   "plan_column_premium": "プレミアム",
   "plan_feature_trips": "走行履歴",

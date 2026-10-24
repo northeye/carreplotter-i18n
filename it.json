@@ -149,6 +149,7 @@
   "plan_premium_active": "Tutte le funzioni sono sbloccate.",
   "plan_lifetime_title": "Premium (a vita)",
   "plan_lifetime_thanks": "Hai una licenza a vita. Tutte le funzioni sono sbloccate.",
+  "plan_lifetime_has_subscription": "Hai una licenza a vita, quindi l’abbonamento non serve. Puoi annullarlo in Gestisci abbonamento.",
   "plan_column_free": "Gratis",
   "plan_column_premium": "Premium",
   "plan_feature_trips": "Cronologia viaggi",
