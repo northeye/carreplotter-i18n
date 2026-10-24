@@ -168,6 +168,8 @@
   "plan_unavailable": "Settings screen",
   "plan_retry": "Settings screen",
   "plan_manage": "Settings screen",
+  "plan_auto_renewing": "Settings screen",
+  "plan_canceled": "Settings screen",
   "plan_restore": "Settings screen",
   "premium_about": "Settings screen",
   "premium_auto_backup": "Settings screen",

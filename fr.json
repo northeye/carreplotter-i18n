@@ -168,6 +168,8 @@
   "plan_unavailable": "Impossible d’obtenir les prix depuis Google Play. Vérifiez votre connexion et réessayez.",
   "plan_retry": "Réessayer",
   "plan_manage": "Gérer l’abonnement",
+  "plan_auto_renewing": "Renouvellement automatique : activé",
+  "plan_canceled": "Résilié. Premium reste disponible jusqu’à la fin de la période payée. Vérifiez la date de fin dans Gérer l’abonnement (Play Store).",
   "plan_restore": "Restaurer les achats",
   "premium_about": "À propos de Premium",
   "premium_auto_backup": "La sauvegarde automatique est disponible avec Premium. L’export et l’import manuels ci-dessus restent possibles avec toutes les formules.",

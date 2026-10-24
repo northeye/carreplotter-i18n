@@ -168,6 +168,8 @@
   "plan_unavailable": "Não foi possível obter os preços do Google Play. Verifique a conexão e tente novamente.",
   "plan_retry": "Tentar novamente",
   "plan_manage": "Gerenciar assinatura",
+  "plan_auto_renewing": "Renovação automática: ativada",
+  "plan_canceled": "Cancelada. Você pode usar o Premium até o fim do período pago. Veja a data de término em Gerenciar assinatura (Play Store).",
   "plan_restore": "Restaurar compras",
   "premium_about": "Sobre o Premium",
   "premium_auto_backup": "O backup automático está disponível com o Premium. A exportação e importação manual acima funcionam em qualquer plano.",

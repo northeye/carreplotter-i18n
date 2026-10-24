@@ -168,6 +168,8 @@
   "plan_unavailable": "Preise konnten nicht von Google Play abgerufen werden. Prüfe die Verbindung und versuche es erneut.",
   "plan_retry": "Erneut versuchen",
   "plan_manage": "Abo verwalten",
+  "plan_auto_renewing": "Automatische Verlängerung: an",
+  "plan_canceled": "Gekündigt. Premium bleibt bis zum Ende des bezahlten Zeitraums verfügbar. Das Enddatum findest du unter „Abo verwalten“ (Play Store).",
   "plan_restore": "Käufe wiederherstellen",
   "premium_about": "Über Premium",
   "premium_auto_backup": "Die automatische Sicherung ist mit Premium verfügbar. Das manuelle Exportieren und Importieren oben funktioniert in jedem Tarif.",

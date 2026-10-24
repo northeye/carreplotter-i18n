@@ -168,6 +168,8 @@
   "plan_unavailable": "Google Play から値段を取得できません。通信を確かめて、やり直してください。",
   "plan_retry": "やり直す",
   "plan_manage": "購読の管理",
+  "plan_auto_renewing": "自動更新：オン",
+  "plan_canceled": "解約済みです。支払い済みの期間の終わりまでプレミアムプランを使えます。期限は「購読の管理」（Play ストア）で確認できます。",
   "plan_restore": "購入を復元",
   "premium_about": "プレミアムについて",
   "premium_auto_backup": "自動バックアップはプレミアムプランで使えます。上の手動の書き出し・読み込みは、どのプランでも使えます。",
