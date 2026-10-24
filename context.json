@@ -296,6 +296,7 @@
   "live_address_description": "Settings screen",
   "backup_description": "Settings screen",
   "backup_export": "Settings screen",
+  "backup_share": "Settings screen",
   "backup_import": "Settings screen",
   "backup_import_title": "Settings screen",
   "backup_import_replace": "Settings screen",
