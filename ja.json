@@ -169,6 +169,8 @@
   "plan_manage": "購読の管理",
   "plan_restore": "購入を確かめ直す",
   "premium_about": "プレミアムについて",
+  "premium_vehicles_limit": "無料プランで登録できる車両は %1$d 台までです。プレミアムなら制限はありません。",
+  "premium_places_limit": "無料プランで登録できる地点は %1$d 個までです。プレミアムなら制限はありません。",
   "premium_older_trips": {
     "other": "古い走行 %1$d 件は記録が残っていて、プレミアムで見られます（無料プランでは最新 %2$d 件）。"
   },

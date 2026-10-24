@@ -169,6 +169,8 @@
   "plan_manage": "Settings screen",
   "plan_restore": "Settings screen",
   "premium_about": "Settings screen",
+  "premium_vehicles_limit": "Settings screen",
+  "premium_places_limit": "Settings screen",
   "premium_older_trips": "Trip list and trip details",
   "debug_plan": "Settings screen",
   "debug_plan_store": "Settings screen",

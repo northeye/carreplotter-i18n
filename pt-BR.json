@@ -169,6 +169,8 @@
   "plan_manage": "Gerenciar assinatura",
   "plan_restore": "Verificar a compra novamente",
   "premium_about": "Sobre o Premium",
+  "premium_vehicles_limit": "O plano gratuito permite cadastrar até %1$d veículos. Com o Premium não há limite.",
+  "premium_places_limit": "O plano gratuito permite salvar até %1$d locais. Com o Premium não há limite.",
   "premium_older_trips": {
     "one": "%1$d viagem mais antiga está guardada e pode ser vista com o Premium. O plano gratuito mostra as %2$d mais recentes.",
     "other": "%1$d viagens mais antigas estão guardadas e podem ser vistas com o Premium. O plano gratuito mostra as %2$d mais recentes."

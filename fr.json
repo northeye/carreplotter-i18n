@@ -169,6 +169,8 @@
   "plan_manage": "Gérer l’abonnement",
   "plan_restore": "Vérifier à nouveau l’achat",
   "premium_about": "À propos de Premium",
+  "premium_vehicles_limit": "La formule gratuite permet d’enregistrer jusqu’à %1$d véhicules. Avec Premium, il n’y a pas de limite.",
+  "premium_places_limit": "La formule gratuite permet d’enregistrer jusqu’à %1$d lieux. Avec Premium, il n’y a pas de limite.",
   "premium_older_trips": {
     "one": "%1$d trajet plus ancien est conservé et visible avec Premium. La formule gratuite affiche les %2$d derniers.",
     "other": "%1$d trajets plus anciens sont conservés et visibles avec Premium. La formule gratuite affiche les %2$d derniers."
