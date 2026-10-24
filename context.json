@@ -169,6 +169,8 @@
   "plan_manage": "Settings screen",
   "plan_restore": "Settings screen",
   "premium_about": "Settings screen",
+  "premium_auto_backup": "Settings screen",
+  "premium_live_events": "Meter (dashboard) screen",
   "premium_meter_limit": "Meter (dashboard) screen",
   "premium_vehicles_limit": "Settings screen",
   "premium_places_limit": "Settings screen",

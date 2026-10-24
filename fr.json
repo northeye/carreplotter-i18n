@@ -169,6 +169,8 @@
   "plan_manage": "Gérer l’abonnement",
   "plan_restore": "Vérifier à nouveau l’achat",
   "premium_about": "À propos de Premium",
+  "premium_auto_backup": "La sauvegarde automatique est disponible avec Premium. L’export et l’import manuels ci-dessus restent possibles avec toutes les formules.",
+  "premium_live_events": "Affiché avec Premium. Après le trajet, tous les événements apparaissent dans le détail du trajet.",
   "premium_meter_limit": "La formule gratuite affiche jusqu’à %1$d éléments par page et %2$d pages. Les éléments au-delà sont masqués (vous pouvez les supprimer ici). Avec Premium, il n’y a pas de limite.",
   "premium_vehicles_limit": "La formule gratuite permet d’enregistrer jusqu’à %1$d véhicules. Avec Premium, il n’y a pas de limite.",
   "premium_places_limit": "La formule gratuite permet d’enregistrer jusqu’à %1$d lieux. Avec Premium, il n’y a pas de limite.",

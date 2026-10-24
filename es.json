@@ -169,6 +169,8 @@
   "plan_manage": "Gestionar suscripción",
   "plan_restore": "Volver a comprobar la compra",
   "premium_about": "Acerca de Premium",
+  "premium_auto_backup": "La copia de seguridad automática está disponible con Premium. La exportación e importación manual de arriba funciona en cualquier plan.",
+  "premium_live_events": "Se muestra con Premium. Después del viaje, todos los eventos aparecen en los detalles del viaje.",
   "premium_meter_limit": "El plan gratuito muestra hasta %1$d elementos por página y %2$d páginas. Los demás se ocultan (puedes quitarlos aquí). Con Premium no hay límite.",
   "premium_vehicles_limit": "El plan gratuito permite registrar hasta %1$d vehículos. Con Premium no hay límite.",
   "premium_places_limit": "El plan gratuito permite guardar hasta %1$d lugares. Con Premium no hay límite.",
