@@ -203,7 +203,7 @@
   "summary_vehicles": "Vehículos: %1$d · en uso: %2$s",
   "summary_events": "Acel./frenada %1$s · velocidad %2$s · giro %3$s · impacto %4$s",
   "summary_places": "Lugares guardados: %1$d · dirección en vivo %2$s",
-  "summary_backup": "Exportar e importar datos de viajes",
+  "summary_backup": "Exportar e importar datos",
   "summary_display": "Tema: %1$s · %2$s",
   "summary_debug": "Info de depuración %1$s",
   "adapters_title": "Adaptadores",
@@ -297,8 +297,8 @@
   "live_address_title": "Dirección actual",
   "live_address_switch": "Mostrar la dirección actual en el panel",
   "live_address_description": "Muestra la dirección cuando colocas «Ubicación» en el panel. Mientras se muestra, las coordenadas de tu posición se envían al servicio de direcciones del sistema (Google en Android) aproximadamente una vez por minuto (si te has movido 200 m o más). Dentro de los lugares guardados no se envía nada.",
-  "backup_description": "Los ajustes, lugares guardados y disposiciones del panel se incluyen automáticamente en la copia de seguridad de Google del teléfono (si está activada en los ajustes). Los datos de viajes son demasiado grandes: expórtalos a un archivo con el botón de abajo y guárdalo en Google Drive u otro sitio. Contienen datos de ubicación, así que trátalos con cuidado.",
-  "backup_export": "Exportar datos de viajes",
+  "backup_description": "«Exportar datos» guarda tus viajes junto con los vehículos, los lugares guardados, la disposición de los indicadores y los ajustes en un solo archivo. No se incluyen los ajustes propios de este teléfono (idioma de la app, permisos, adaptadores que se conectan automáticamente y la carpeta de la copia automática). Guarda el archivo en Google Drive u otro lugar. Contiene datos de ubicación, así que trátalo con cuidado.\nLos ajustes, los lugares guardados y la disposición de los indicadores también se incluyen automáticamente en la copia de seguridad del sistema (si está activada en los ajustes del teléfono).",
+  "backup_export": "Exportar datos",
   "backup_import": "Restaurar copia de seguridad",
   "backup_import_title": "¿Restaurar esta copia de seguridad?",
   "backup_import_replace": "Reemplazar",
@@ -325,8 +325,8 @@
   "mini_blocked": "La imagen en imagen está desactivada para esta app en los ajustes del sistema.",
   "mini_open_settings": "Abrir ajustes de la app",
   "auto_backup_title": "Copia de seguridad automática",
-  "auto_backup_switch": "Hacer copia automática de los viajes",
-  "auto_backup_description": "Escribe periódicamente el mismo archivo que «Exportar datos de viajes» en la carpeta elegida. Si eliges la carpeta de una app en la nube (OneDrive, Dropbox…), esa app lo sube. No se hace mientras grabas (se hace después).",
+  "auto_backup_switch": "Copia de seguridad automática de los datos",
+  "auto_backup_description": "Guarda periódicamente el mismo archivo que «Exportar datos» en la carpeta que elijas. Si eliges una carpeta de una app en la nube (OneDrive, Dropbox…), esa app lo sube. No se hace durante la grabación (se hace después).",
   "auto_backup_folder": "Carpeta",
   "auto_backup_no_folder": "Ninguna carpeta elegida",
   "auto_backup_folder_lost": "Se perdió el acceso a la carpeta de copias. Vuelve a elegir la carpeta.",
@@ -357,8 +357,9 @@
     "other": "Se eliminarán sus %1$d viajes. "
   },
   "backup_import_text": {
-    "one": "Tus datos de viajes y ajustes actuales se sustituirán por la copia (%1$d viaje). No se puede deshacer, así que exporta antes tus datos actuales si los necesitas. La app se reinicia tras restaurar.",
-    "other": "Tus datos de viajes y ajustes actuales se sustituirán por la copia (%1$d viajes). No se puede deshacer, así que exporta antes tus datos actuales si los necesitas. La app se reinicia tras restaurar."
+    "one": "Los viajes y ajustes guardados actualmente se descartarán y se sustituirán por la copia (%1$d viaje). No se puede deshacer, así que exporta antes tus datos actuales si los necesitas. La app se reinicia después de restaurar.",
+    "many": "Los viajes y ajustes guardados actualmente se descartarán y se sustituirán por la copia (%1$d viajes). No se puede deshacer, así que exporta antes tus datos actuales si los necesitas. La app se reinicia después de restaurar.",
+    "other": "Los viajes y ajustes guardados actualmente se descartarán y se sustituirán por la copia (%1$d viajes). No se puede deshacer, así que exporta antes tus datos actuales si los necesitas. La app se reinicia después de restaurar."
   },
   "summary_auto_connect": {
     "one": "Conexión automática: %1$d adaptador",

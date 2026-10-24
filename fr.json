@@ -203,7 +203,7 @@
   "summary_vehicles": "Véhicules : %1$d · utilisé : %2$s",
   "summary_events": "Accél./frein %1$s · vitesse %2$s · virage %3$s · choc %4$s",
   "summary_places": "Lieux enregistrés : %1$d · adresse en direct %2$s",
-  "summary_backup": "Exporter et importer les données de trajet",
+  "summary_backup": "Exporter et importer les données",
   "summary_display": "Thème : %1$s · %2$s",
   "summary_debug": "Infos de débogage %1$s",
   "adapters_title": "Adaptateurs",
@@ -297,8 +297,8 @@
   "live_address_title": "Adresse actuelle",
   "live_address_switch": "Afficher l'adresse actuelle sur le compteur",
   "live_address_description": "Affiche l'adresse si vous placez « Position » sur le compteur. Pendant l'affichage, les coordonnées de votre position sont envoyées au service d'adresses du système (Google sous Android) environ une fois par minute (si vous avez parcouru 200 m ou plus). Rien n'est envoyé à l'intérieur des lieux enregistrés.",
-  "backup_description": "Les réglages, lieux enregistrés et dispositions du compteur sont inclus automatiquement dans la sauvegarde Google du téléphone (si elle est activée dans les réglages). Les données de trajet sont trop volumineuses : exportez-les dans un fichier avec le bouton ci-dessous et enregistrez-le sur Google Drive ou ailleurs. Elles contiennent des données de localisation, manipulez-les avec soin.",
-  "backup_export": "Exporter les données de trajet",
+  "backup_description": "« Exporter les données » enregistre vos trajets ainsi que les véhicules, les lieux enregistrés, la disposition des compteurs et les réglages dans un seul fichier. Les réglages propres à ce téléphone (langue de l’app, autorisations, adaptateurs connectés automatiquement et dossier de sauvegarde automatique) ne sont pas inclus. Enregistrez le fichier dans Google Drive ou ailleurs. Il contient des données de localisation : manipulez-le avec précaution.\nLes réglages, les lieux enregistrés et la disposition des compteurs sont aussi inclus automatiquement dans la sauvegarde système du téléphone (si elle est activée dans les réglages).",
+  "backup_export": "Exporter les données",
   "backup_import": "Restaurer une sauvegarde",
   "backup_import_title": "Restaurer cette sauvegarde ?",
   "backup_import_replace": "Remplacer",
@@ -325,8 +325,8 @@
   "mini_blocked": "Le mode image dans l'image est désactivé pour cette appli dans les réglages du système.",
   "mini_open_settings": "Ouvrir les réglages de l'appli",
   "auto_backup_title": "Sauvegarde automatique",
-  "auto_backup_switch": "Sauvegarder automatiquement les trajets",
-  "auto_backup_description": "Écrit régulièrement le même fichier qu'« Exporter les données de trajet » dans le dossier choisi. Si vous choisissez le dossier d'une appli cloud (OneDrive, Dropbox…), c'est elle qui le téléverse. Rien n'est fait pendant l'enregistrement (ce sera fait plus tard).",
+  "auto_backup_switch": "Sauvegarder les données automatiquement",
+  "auto_backup_description": "Écrit régulièrement le même fichier que « Exporter les données » dans le dossier choisi. Si vous choisissez un dossier d’une app cloud (OneDrive, Dropbox…), c’est cette app qui l’envoie. Pas pendant l’enregistrement (la sauvegarde se fait plus tard).",
   "auto_backup_folder": "Dossier",
   "auto_backup_no_folder": "Aucun dossier choisi",
   "auto_backup_folder_lost": "Accès au dossier de sauvegarde perdu. Choisissez à nouveau le dossier.",
@@ -357,8 +357,9 @@
     "other": "Ses %1$d trajets seront supprimés. "
   },
   "backup_import_text": {
-    "one": "Vos données de trajet et réglages actuels seront remplacés par la sauvegarde (%1$d trajet). Action irréversible : exportez d'abord vos données si nécessaire. L'appli redémarre après la restauration.",
-    "other": "Vos données de trajet et réglages actuels seront remplacés par la sauvegarde (%1$d trajets). Action irréversible : exportez d'abord vos données si nécessaire. L'appli redémarre après la restauration."
+    "one": "Les trajets et réglages actuellement enregistrés seront supprimés et remplacés par la sauvegarde (%1$d trajet). C’est irréversible : exportez d’abord vos données actuelles si besoin. L’app redémarre après la restauration.",
+    "many": "Les trajets et réglages actuellement enregistrés seront supprimés et remplacés par la sauvegarde (%1$d trajets). C’est irréversible : exportez d’abord vos données actuelles si besoin. L’app redémarre après la restauration.",
+    "other": "Les trajets et réglages actuellement enregistrés seront supprimés et remplacés par la sauvegarde (%1$d trajets). C’est irréversible : exportez d’abord vos données actuelles si besoin. L’app redémarre après la restauration."
   },
   "summary_auto_connect": {
     "one": "Connexion auto : %1$d adaptateur",

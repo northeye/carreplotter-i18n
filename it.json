@@ -203,7 +203,7 @@
   "summary_vehicles": "Veicoli: %1$d · in uso: %2$s",
   "summary_events": "Accel./frenata %1$s · velocità %2$s · sterzata %3$s · urto %4$s",
   "summary_places": "Luoghi salvati: %1$d · indirizzo in tempo reale %2$s",
-  "summary_backup": "Esporta e importa i dati dei viaggi",
+  "summary_backup": "Esporta e importa i dati",
   "summary_display": "Tema: %1$s · %2$s",
   "summary_debug": "Info di debug %1$s",
   "adapters_title": "Adattatori",
@@ -297,8 +297,8 @@
   "live_address_title": "Indirizzo attuale",
   "live_address_switch": "Mostra l'indirizzo attuale negli strumenti",
   "live_address_description": "Mostra l'indirizzo quando metti «Posizione» negli strumenti. Mentre è visibile, le coordinate della tua posizione vengono inviate al servizio indirizzi del sistema (Google su Android) circa una volta al minuto (se ti sei spostato di 200 m o più). Nei luoghi salvati non viene inviato nulla.",
-  "backup_description": "Impostazioni, luoghi salvati e disposizioni degli strumenti sono inclusi automaticamente nel backup Google del telefono (se attivo nelle impostazioni). I dati dei viaggi sono troppo grandi: esportali in un file con il pulsante qui sotto e salvalo su Google Drive o altrove. Contengono dati di posizione, quindi gestiscili con cura.",
-  "backup_export": "Esporta i dati dei viaggi",
+  "backup_description": "«Esporta dati» salva i viaggi insieme a veicoli, luoghi salvati, disposizione degli strumenti e impostazioni in un unico file. Non sono incluse le impostazioni proprie di questo telefono (lingua dell’app, autorizzazioni, adattatori collegati automaticamente e cartella del backup automatico). Salva il file su Google Drive o altrove. Contiene dati sulla posizione: trattalo con attenzione.\nImpostazioni, luoghi salvati e disposizione degli strumenti sono inclusi automaticamente anche nel backup di sistema del telefono (se attivo nelle impostazioni).",
+  "backup_export": "Esporta dati",
   "backup_import": "Ripristina da backup",
   "backup_import_title": "Ripristinare questo backup?",
   "backup_import_replace": "Sostituisci",
@@ -325,8 +325,8 @@
   "mini_blocked": "Il picture-in-picture è disattivato per questa app nelle impostazioni di sistema.",
   "mini_open_settings": "Apri le impostazioni dell'app",
   "auto_backup_title": "Backup automatico",
-  "auto_backup_switch": "Esegui automaticamente il backup dei viaggi",
-  "auto_backup_description": "Scrive periodicamente lo stesso file di «Esporta i dati dei viaggi» nella cartella scelta. Se scegli la cartella di un'app cloud (OneDrive, Dropbox…), è quell'app a caricarlo. Non avviene durante la registrazione (viene fatto dopo).",
+  "auto_backup_switch": "Backup automatico dei dati",
+  "auto_backup_description": "Scrive periodicamente lo stesso file di «Esporta dati» nella cartella scelta. Se scegli una cartella di un’app cloud (OneDrive, Dropbox…), è quell’app a caricarlo. Non durante la registrazione (avviene dopo).",
   "auto_backup_folder": "Cartella",
   "auto_backup_no_folder": "Nessuna cartella scelta",
   "auto_backup_folder_lost": "Accesso alla cartella di backup perso. Scegli di nuovo la cartella.",
@@ -357,8 +357,9 @@
     "other": "I suoi %1$d viaggi verranno eliminati. "
   },
   "backup_import_text": {
-    "one": "I dati dei viaggi e le impostazioni attuali verranno sostituiti dal backup (%1$d viaggio). L'operazione non si può annullare: se serve, esporta prima i dati attuali. L'app si riavvia dopo il ripristino.",
-    "other": "I dati dei viaggi e le impostazioni attuali verranno sostituiti dal backup (%1$d viaggi). L'operazione non si può annullare: se serve, esporta prima i dati attuali. L'app si riavvia dopo il ripristino."
+    "one": "I viaggi e le impostazioni attualmente salvati verranno eliminati e sostituiti con il backup (%1$d viaggio). Non si può annullare: se servono, esporta prima i dati attuali. L’app si riavvia dopo il ripristino.",
+    "many": "I viaggi e le impostazioni attualmente salvati verranno eliminati e sostituiti con il backup (%1$d viaggi). Non si può annullare: se servono, esporta prima i dati attuali. L’app si riavvia dopo il ripristino.",
+    "other": "I viaggi e le impostazioni attualmente salvati verranno eliminati e sostituiti con il backup (%1$d viaggi). Non si può annullare: se servono, esporta prima i dati attuali. L’app si riavvia dopo il ripristino."
   },
   "summary_auto_connect": {
     "one": "Connessione automatica: %1$d adattatore",

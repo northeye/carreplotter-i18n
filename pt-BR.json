@@ -203,7 +203,7 @@
   "summary_vehicles": "Veículos: %1$d · em uso: %2$s",
   "summary_events": "Acel./frenagem %1$s · velocidade %2$s · curva %3$s · impacto %4$s",
   "summary_places": "Locais salvos: %1$d · endereço ao vivo %2$s",
-  "summary_backup": "Exportar e importar dados de viagem",
+  "summary_backup": "Exportar e importar dados",
   "summary_display": "Tema: %1$s · %2$s",
   "summary_debug": "Info de depuração %1$s",
   "adapters_title": "Adaptadores",
@@ -297,8 +297,8 @@
   "live_address_title": "Endereço atual",
   "live_address_switch": "Mostrar o endereço atual no painel",
   "live_address_description": "Mostra o endereço quando você coloca \"Localização\" no painel. Enquanto ele é exibido, as coordenadas da sua posição são enviadas à busca de endereços do sistema (Google no Android) cerca de uma vez por minuto (quando você se moveu 200 m ou mais). Nada é enviado dentro de locais salvos.",
-  "backup_description": "Configurações, locais salvos e layouts do painel entram automaticamente no backup do Google do celular (quando ativado nas configurações). Os dados de viagem são grandes demais: exporte-os para um arquivo com o botão abaixo e salve no Google Drive ou em outro lugar. Eles contêm dados de localização, então cuide bem deles.",
-  "backup_export": "Exportar dados de viagem",
+  "backup_description": "“Exportar dados” grava suas viagens junto com veículos, locais salvos, layout do painel e configurações em um único arquivo. As configurações deste celular (idioma do app, permissões, adaptadores que conectam automaticamente e pasta do backup automático) não são incluídas. Salve o arquivo no Google Drive ou em outro lugar. Ele contém dados de localização, então manuseie com cuidado.\nConfigurações, locais salvos e layout do painel também entram automaticamente no backup do sistema do celular (quando ativado nas configurações).",
+  "backup_export": "Exportar dados",
   "backup_import": "Restaurar de um backup",
   "backup_import_title": "Restaurar este backup?",
   "backup_import_replace": "Substituir",
@@ -325,8 +325,8 @@
   "mini_blocked": "O picture-in-picture está desativado para este app nas configurações do sistema.",
   "mini_open_settings": "Abrir configurações do app",
   "auto_backup_title": "Backup automático",
-  "auto_backup_switch": "Fazer backup automático das viagens",
-  "auto_backup_description": "Grava periodicamente o mesmo arquivo de \"Exportar dados de viagem\" na pasta escolhida. Se você escolher a pasta de um app de nuvem (OneDrive, Dropbox…), esse app faz o upload. Não acontece durante a gravação (é feito depois).",
+  "auto_backup_switch": "Backup automático dos dados",
+  "auto_backup_description": "Grava periodicamente o mesmo arquivo de “Exportar dados” na pasta escolhida. Se você escolher uma pasta de um app de nuvem (OneDrive, Dropbox…), esse app faz o envio. Não é feito durante a gravação (acontece depois).",
   "auto_backup_folder": "Pasta",
   "auto_backup_no_folder": "Nenhuma pasta escolhida",
   "auto_backup_folder_lost": "O acesso à pasta de backup foi perdido. Escolha a pasta novamente.",
@@ -357,8 +357,9 @@
     "other": "As %1$d viagens dele serão excluídas. "
   },
   "backup_import_text": {
-    "one": "Seus dados de viagem e configurações atuais serão substituídos pelo backup (%1$d viagem). Não é possível desfazer, então exporte seus dados atuais antes se precisar. O app reinicia após restaurar.",
-    "other": "Seus dados de viagem e configurações atuais serão substituídos pelo backup (%1$d viagens). Não é possível desfazer, então exporte seus dados atuais antes se precisar. O app reinicia após restaurar."
+    "one": "As viagens e configurações salvas atualmente serão descartadas e substituídas pelo backup (%1$d viagem). Não é possível desfazer; exporte antes seus dados atuais se precisar. O app reinicia depois de restaurar.",
+    "many": "As viagens e configurações salvas atualmente serão descartadas e substituídas pelo backup (%1$d viagens). Não é possível desfazer; exporte antes seus dados atuais se precisar. O app reinicia depois de restaurar.",
+    "other": "As viagens e configurações salvas atualmente serão descartadas e substituídas pelo backup (%1$d viagens). Não é possível desfazer; exporte antes seus dados atuais se precisar. O app reinicia depois de restaurar."
   },
   "summary_auto_connect": {
     "one": "Conexão automática: %1$d adaptador",

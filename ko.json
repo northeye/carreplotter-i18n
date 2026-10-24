@@ -202,7 +202,7 @@
   "summary_vehicles": "%1$d대 · 사용 중 %2$s",
   "summary_events": "급가감속 %1$s · 과속 %2$s · 급핸들 %3$s · 충격 %4$s",
   "summary_places": "등록 장소 %1$d곳 · 현재 위치 주소 %2$s",
-  "summary_backup": "주행 데이터 내보내기·가져오기",
+  "summary_backup": "데이터 내보내기·가져오기",
   "summary_display": "테마: %1$s · %2$s",
   "summary_debug": "디버그 정보 %1$s",
   "adapters_title": "어댑터",
@@ -296,8 +296,8 @@
   "live_address_title": "현재 위치 주소",
   "live_address_switch": "계기판에 현재 위치 주소 표시",
   "live_address_description": "계기판에 \"현재 위치\"를 두었을 때 주소를 표시합니다. 표시하는 동안 현재 위치의 좌표를 약 1분마다(200m 이상 움직였을 때) OS의 주소 검색(Android에서는 Google)으로 보냅니다. 등록 장소 안에서는 보내지 않습니다.",
-  "backup_description": "설정·등록 장소·계기판 배치는 휴대폰의 Google 백업(휴대폰 설정에서 켠 경우)에 자동으로 포함됩니다. 주행 데이터는 용량이 커서 포함되지 않습니다. 아래 버튼으로 파일로 내보내 Google 드라이브 등에 저장하세요. 위치 정보가 포함되어 있으니 취급에 주의하세요.",
-  "backup_export": "주행 데이터 내보내기",
+  "backup_description": "'데이터 내보내기'는 주행 데이터와 함께 차량, 등록 장소, 계기판 배치, 설정을 하나의 파일로 내보냅니다. 기기별 설정(앱 언어, 권한, 근처에 오면 자동으로 연결하는 어댑터, 자동 백업 저장 위치)은 포함되지 않습니다. Google 드라이브 등에 저장하세요. 주행 데이터에는 위치 정보가 포함되어 있으니 주의해서 다루세요.\n설정, 등록 장소, 계기판 배치는 시스템 백업(기기 설정에서 켜져 있을 때)에도 자동으로 포함됩니다.",
+  "backup_export": "데이터 내보내기",
   "backup_import": "백업에서 복원",
   "backup_import_title": "이 백업에서 복원할까요?",
   "backup_import_replace": "덮어쓰기",
@@ -324,8 +324,8 @@
   "mini_blocked": "시스템 설정에서 이 앱의 PIP 모드가 꺼져 있습니다.",
   "mini_open_settings": "앱 설정 열기",
   "auto_backup_title": "자동 백업",
-  "auto_backup_switch": "주행 데이터를 자동으로 백업",
-  "auto_backup_description": "\"주행 데이터 내보내기\"와 같은 파일을 선택한 폴더에 정기적으로 저장합니다. 클라우드 앱(OneDrive·Dropbox 등)의 폴더를 고르면 그 앱이 업로드합니다. 기록 중에는 하지 않고 나중에 합니다.",
+  "auto_backup_switch": "데이터 자동 백업",
+  "auto_backup_description": "'데이터 내보내기'와 같은 파일을 선택한 폴더에 정기적으로 저장합니다. 클라우드 앱(OneDrive·Dropbox 등)의 폴더를 선택하면 그 앱이 업로드합니다. 기록 중에는 백업하지 않고 나중에 백업합니다.",
   "auto_backup_folder": "저장 위치",
   "auto_backup_no_folder": "폴더를 선택하지 않았습니다",
   "auto_backup_folder_lost": "백업 폴더에 접근할 수 없게 되었습니다. 폴더를 다시 선택하세요.",
@@ -355,7 +355,7 @@
     "other": "이 차량의 주행 %1$d건과 "
   },
   "backup_import_text": {
-    "other": "현재 주행 데이터와 설정이 백업의 내용(주행 %1$d건)으로 바뀝니다. 되돌릴 수 없으니 필요하면 먼저 현재 데이터를 내보내세요. 복원한 뒤 앱을 다시 시작합니다."
+    "other": "현재 저장된 주행 데이터와 설정은 삭제되고 백업 내용(주행 %1$d건)으로 바뀝니다. 되돌릴 수 없으니 필요하면 먼저 현재 데이터를 내보내세요. 가져온 후 앱이 다시 시작됩니다."
   },
   "summary_auto_connect": {
     "other": "가까이 오면 자동 연결 %1$d대"

@@ -203,7 +203,7 @@
   "summary_vehicles": "Vehicles: %1$d · in use: %2$s",
   "summary_events": "Accel/brake %1$s · speeding %2$s · sharp turn %3$s · impact %4$s",
   "summary_places": "Saved places: %1$d · live address %2$s",
-  "summary_backup": "Export and import trip data",
+  "summary_backup": "Export and import data",
   "summary_display": "Theme: %1$s · %2$s",
   "summary_debug": "Debug info %1$s",
   "adapters_title": "Adapters",
@@ -297,8 +297,8 @@
   "live_address_title": "Current address",
   "live_address_switch": "Show the current address on the meter",
   "live_address_description": "Shows the address when you put \"Location\" on the meter. While it is shown, the coordinates of your current position are sent to the system address lookup (Google on Android) about once a minute (when you have moved 200 m or more). Nothing is sent within the area of a saved place.",
-  "backup_description": "Settings, saved places and meter layouts are included in your phone's Google backup automatically (when it is turned on in the phone settings). Trip data is too large to be included. Export it to a file with the button below and save it to Google Drive or elsewhere. It contains location data, so handle it with care.",
-  "backup_export": "Export trip data",
+  "backup_description": "\"Export data\" writes your trip data together with vehicles, saved places, meter layouts and settings to one file. Settings that belong to this phone (app language, permissions, adapters that connect automatically when nearby, and the automatic backup folder) are not included. Save the file to Google Drive or elsewhere. It contains location data, so handle it with care.\nSettings, saved places and meter layouts are also included in your phone's system backup automatically (when it is turned on in the phone settings).",
+  "backup_export": "Export data",
   "backup_import": "Restore from backup",
   "backup_import_title": "Restore from this backup?",
   "backup_import_replace": "Replace",
@@ -325,8 +325,8 @@
   "mini_blocked": "Picture-in-picture is turned off for this app in the system settings.",
   "mini_open_settings": "Open app settings",
   "auto_backup_title": "Automatic backup",
-  "auto_backup_switch": "Back up trip data automatically",
-  "auto_backup_description": "Writes the same file as \"Export trip data\" to the folder you choose on a schedule. If you choose a folder of a cloud app (such as OneDrive or Dropbox), that app uploads it. Not done while recording (it runs later).",
+  "auto_backup_switch": "Back up data automatically",
+  "auto_backup_description": "Writes the same file as \"Export data\" to the folder you choose on a schedule. If you choose a folder of a cloud app (such as OneDrive or Dropbox), that app uploads it. Not done while recording (it runs later).",
   "auto_backup_folder": "Folder",
   "auto_backup_no_folder": "No folder selected",
   "auto_backup_folder_lost": "Lost access to the backup folder. Choose the folder again.",
@@ -357,8 +357,8 @@
     "other": "Its %1$d trips will be deleted. "
   },
   "backup_import_text": {
-    "one": "Your current trip data and settings will be replaced with the backup (%1$d trip). This cannot be undone, so export your current data first if you need it. The app restarts after restoring.",
-    "other": "Your current trip data and settings will be replaced with the backup (%1$d trips). This cannot be undone, so export your current data first if you need it. The app restarts after restoring."
+    "one": "The trip data and settings currently saved will be discarded and replaced with the backup (%1$d trip). This cannot be undone, so export your current data first if you need it. The app restarts after restoring.",
+    "other": "The trip data and settings currently saved will be discarded and replaced with the backup (%1$d trips). This cannot be undone, so export your current data first if you need it. The app restarts after restoring."
   },
   "summary_auto_connect": {
     "one": "Auto-connect: %1$d adapter",

@@ -203,7 +203,7 @@
   "summary_vehicles": "Fahrzeuge: %1$d · aktiv: %2$s",
   "summary_events": "Beschl./Bremsen %1$s · Tempo %2$s · Kurve %3$s · Stoß %4$s",
   "summary_places": "Gespeicherte Orte: %1$d · Live-Adresse %2$s",
-  "summary_backup": "Fahrtdaten exportieren und importieren",
+  "summary_backup": "Daten exportieren und importieren",
   "summary_display": "Design: %1$s · %2$s",
   "summary_debug": "Debug-Infos %1$s",
   "adapters_title": "Adapter",
@@ -297,8 +297,8 @@
   "live_address_title": "Aktuelle Adresse",
   "live_address_switch": "Aktuelle Adresse in der Anzeige zeigen",
   "live_address_description": "Zeigt die Adresse, wenn Sie „Standort“ in der Anzeige platzieren. Solange sie angezeigt wird, werden die Koordinaten Ihrer Position etwa einmal pro Minute (ab 200 m Bewegung) an die Adresssuche des Systems (Google unter Android) gesendet. Innerhalb gespeicherter Orte wird nichts gesendet.",
-  "backup_description": "Einstellungen, gespeicherte Orte und Anzeigelayouts sind automatisch in der Google-Sicherung des Telefons enthalten (sofern in den Einstellungen aktiviert). Fahrtdaten sind dafür zu groß: Exportieren Sie sie mit der Schaltfläche unten in eine Datei und speichern Sie diese in Google Drive o. Ä. Sie enthalten Standortdaten – gehen Sie sorgfältig damit um.",
-  "backup_export": "Fahrtdaten exportieren",
+  "backup_description": "„Daten exportieren“ schreibt deine Fahrten zusammen mit Fahrzeugen, gespeicherten Orten, Anzeige-Layouts und Einstellungen in eine Datei. Einstellungen, die zu diesem Telefon gehören (App-Sprache, Berechtigungen, automatisch verbundene Adapter und der Ordner der automatischen Sicherung), sind nicht enthalten. Speichere die Datei z. B. in Google Drive. Sie enthält Standortdaten – geh sorgfältig damit um.\nEinstellungen, gespeicherte Orte und Anzeige-Layouts sind außerdem automatisch in der Systemsicherung des Telefons enthalten (wenn sie in den Telefoneinstellungen aktiviert ist).",
+  "backup_export": "Daten exportieren",
   "backup_import": "Aus Sicherung wiederherstellen",
   "backup_import_title": "Diese Sicherung wiederherstellen?",
   "backup_import_replace": "Ersetzen",
@@ -325,8 +325,8 @@
   "mini_blocked": "Bild-im-Bild ist für diese App in den Systemeinstellungen deaktiviert.",
   "mini_open_settings": "App-Einstellungen öffnen",
   "auto_backup_title": "Automatische Sicherung",
-  "auto_backup_switch": "Fahrtdaten automatisch sichern",
-  "auto_backup_description": "Schreibt regelmäßig dieselbe Datei wie „Fahrtdaten exportieren“ in den gewählten Ordner. Wählen Sie den Ordner einer Cloud-App (OneDrive, Dropbox …), lädt diese App sie hoch. Während der Aufzeichnung passiert nichts (wird später nachgeholt).",
+  "auto_backup_switch": "Daten automatisch sichern",
+  "auto_backup_description": "Schreibt regelmäßig dieselbe Datei wie „Daten exportieren“ in den gewählten Ordner. Wählst du einen Ordner einer Cloud-App (z. B. OneDrive oder Dropbox), lädt diese App sie hoch. Während der Aufzeichnung wird nicht gesichert (das geschieht später).",
   "auto_backup_folder": "Ordner",
   "auto_backup_no_folder": "Kein Ordner gewählt",
   "auto_backup_folder_lost": "Kein Zugriff mehr auf den Sicherungsordner. Bitte den Ordner erneut auswählen.",
@@ -357,8 +357,8 @@
     "other": "Seine %1$d Fahrten werden gelöscht. "
   },
   "backup_import_text": {
-    "one": "Ihre aktuellen Fahrtdaten und Einstellungen werden durch die Sicherung ersetzt (%1$d Fahrt). Dies lässt sich nicht rückgängig machen – exportieren Sie bei Bedarf zuerst Ihre aktuellen Daten. Die App startet nach der Wiederherstellung neu.",
-    "other": "Ihre aktuellen Fahrtdaten und Einstellungen werden durch die Sicherung ersetzt (%1$d Fahrten). Dies lässt sich nicht rückgängig machen – exportieren Sie bei Bedarf zuerst Ihre aktuellen Daten. Die App startet nach der Wiederherstellung neu."
+    "one": "Die aktuell gespeicherten Fahrten und Einstellungen werden verworfen und durch die Sicherung ersetzt (%1$d Fahrt). Das lässt sich nicht rückgängig machen – exportiere bei Bedarf zuerst deine aktuellen Daten. Die App startet nach dem Wiederherstellen neu.",
+    "other": "Die aktuell gespeicherten Fahrten und Einstellungen werden verworfen und durch die Sicherung ersetzt (%1$d Fahrten). Das lässt sich nicht rückgängig machen – exportiere bei Bedarf zuerst deine aktuellen Daten. Die App startet nach dem Wiederherstellen neu."
   },
   "summary_auto_connect": {
     "one": "Automatisch verbinden: %1$d Adapter",
