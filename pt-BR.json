@@ -172,7 +172,7 @@
   "premium_about": "Sobre o Premium",
   "premium_auto_backup": "O backup automático está disponível com o Premium. A exportação e importação manual acima funcionam em qualquer plano.",
   "premium_live_events": "Exibido com o Premium. Depois da viagem, todos os eventos aparecem nos detalhes da viagem.",
-  "premium_meter_limit": "O plano gratuito mostra até %1$d itens por página e %2$d páginas. Os demais ficam ocultos (você pode removê-los aqui). Com o Premium não há limite.",
+  "premium_meter_limit": "O plano gratuito mostra até %1$d itens por página e %2$d páginas. Os itens esmaecidos não aparecem no painel (você pode removê-los aqui). Com o Premium não há limite.",
   "premium_vehicles_limit": "O plano gratuito permite cadastrar até %1$d veículos. Com o Premium não há limite.",
   "premium_places_limit": "O plano gratuito permite salvar até %1$d locais. Com o Premium não há limite.",
   "premium_older_trips": {

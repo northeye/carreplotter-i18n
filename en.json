@@ -172,7 +172,7 @@
   "premium_about": "About Premium",
   "premium_auto_backup": "Automatic backup is available with Premium. You can still export and import your data manually above, on any plan.",
   "premium_live_events": "Shown with Premium. After the drive, all events appear in the trip details.",
-  "premium_meter_limit": "The free plan shows up to %1$d items per page and %2$d pages. Items beyond that are hidden on the meter (you can still remove them here). With Premium there is no limit.",
+  "premium_meter_limit": "The free plan shows up to %1$d items per page and %2$d pages. Dimmed items don’t appear on the meter (you can still remove them here). With Premium there is no limit.",
   "premium_vehicles_limit": "The free plan can register up to %1$d vehicles. With Premium there is no limit.",
   "premium_places_limit": "The free plan can save up to %1$d places. With Premium there is no limit.",
   "premium_older_trips": {
