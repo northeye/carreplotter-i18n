@@ -161,6 +161,7 @@
   "plan_unlimited": "Unbegrenzt",
   "plan_included": "Ja",
   "plan_not_included": "Nein",
+  "plan_value_row": "%1$s: %2$s",
   "plan_trial": "Monats- und Jahresabo enthalten beide eine %1$d-tägige kostenlose Testphase. Danach verlängert sich das Abo automatisch.",
   "plan_buy_monthly": "Monatlich %1$s",
   "plan_buy_yearly": "Jährlich %1$s",

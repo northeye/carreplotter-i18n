@@ -161,6 +161,7 @@
   "plan_unlimited": "Sin límite",
   "plan_included": "Sí",
   "plan_not_included": "No",
+  "plan_value_row": "%1$s: %2$s",
   "plan_trial": "Los planes mensual y anual incluyen una prueba gratuita de %1$d días. Al terminar la prueba, la suscripción se renueva automáticamente.",
   "plan_buy_monthly": "Mensual %1$s",
   "plan_buy_yearly": "Anual %1$s",

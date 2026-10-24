@@ -161,6 +161,7 @@
   "plan_unlimited": "Illimité",
   "plan_included": "Oui",
   "plan_not_included": "Non",
+  "plan_value_row": "%1$s : %2$s",
   "plan_trial": "Les formules mensuelle et annuelle incluent un essai gratuit de %1$d jours. À la fin de l’essai, l’abonnement se renouvelle automatiquement.",
   "plan_buy_monthly": "Mensuel %1$s",
   "plan_buy_yearly": "Annuel %1$s",

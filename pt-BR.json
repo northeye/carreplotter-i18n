@@ -161,6 +161,7 @@
   "plan_unlimited": "Ilimitado",
   "plan_included": "Sim",
   "plan_not_included": "Não",
+  "plan_value_row": "%1$s: %2$s",
   "plan_trial": "Os planos mensal e anual incluem um teste grátis de %1$d dias. Quando o teste termina, a assinatura é renovada automaticamente.",
   "plan_buy_monthly": "Mensal %1$s",
   "plan_buy_yearly": "Anual %1$s",

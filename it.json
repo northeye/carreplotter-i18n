@@ -161,6 +161,7 @@
   "plan_unlimited": "Illimitato",
   "plan_included": "Sì",
   "plan_not_included": "No",
+  "plan_value_row": "%1$s: %2$s",
   "plan_trial": "Sia il piano mensile sia quello annuale includono una prova gratuita di %1$d giorni. Al termine della prova, l’abbonamento si rinnova automaticamente.",
   "plan_buy_monthly": "Mensile %1$s",
   "plan_buy_yearly": "Annuale %1$s",
