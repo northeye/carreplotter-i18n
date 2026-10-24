@@ -171,7 +171,7 @@
   "plan_restore": "Käufe wiederherstellen",
   "premium_about": "Über Premium",
   "premium_auto_backup": "Die automatische Sicherung ist mit Premium verfügbar. Das manuelle Exportieren und Importieren oben funktioniert in jedem Tarif.",
-  "premium_live_events": "Mit Premium sichtbar. Nach der Fahrt erscheinen alle Ereignisse in den Fahrtdetails.",
+  "premium_live_events": "Im kostenlosen Tarif nicht sichtbar. Nach dem Ende der Aufzeichnung findest du sie in den Fahrtdetails.",
   "premium_meter_limit": "Im kostenlosen Tarif zeigt die Anzeige bis zu %1$d Elemente pro Seite und %2$d Seiten. Abgeblendete Elemente erscheinen nicht in der Anzeige (hier kannst du sie entfernen). Mit Premium gibt es keine Grenze.",
   "premium_vehicles_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Fahrzeuge anlegen. Mit Premium gibt es keine Grenze.",
   "premium_places_limit": "Im kostenlosen Tarif kannst du bis zu %1$d Orte speichern. Mit Premium gibt es keine Grenze.",

@@ -171,7 +171,7 @@
   "plan_restore": "Ripristina acquisti",
   "premium_about": "Informazioni su Premium",
   "premium_auto_backup": "Il backup automatico è disponibile con Premium. L’esportazione e l’importazione manuali qui sopra funzionano con qualsiasi piano.",
-  "premium_live_events": "Visibile con Premium. Dopo il viaggio, tutti gli eventi compaiono nei dettagli del viaggio.",
+  "premium_live_events": "Non visibile con il piano gratuito. Al termine della registrazione, li trovi nei dettagli del viaggio.",
   "premium_meter_limit": "Il piano gratuito mostra fino a %1$d elementi per pagina e %2$d pagine. Gli elementi attenuati non compaiono negli strumenti (puoi rimuoverli qui). Con Premium non ci sono limiti.",
   "premium_vehicles_limit": "Il piano gratuito consente di registrare fino a %1$d veicoli. Con Premium non ci sono limiti.",
   "premium_places_limit": "Il piano gratuito consente di salvare fino a %1$d luoghi. Con Premium non ci sono limiti.",
