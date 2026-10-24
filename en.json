@@ -147,6 +147,8 @@
   "plan_description": "Recording and replay are free with no limits. Premium removes the limits below.",
   "plan_premium_thanks": "Thank you for subscribing. All features are unlocked.",
   "plan_premium_active": "All features are unlocked.",
+  "plan_lifetime_title": "Premium (lifetime)",
+  "plan_lifetime_thanks": "You have a lifetime license. All features are unlocked.",
   "plan_column_free": "Free",
   "plan_column_premium": "Premium",
   "plan_feature_trips": "Trip history",

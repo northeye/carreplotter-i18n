@@ -147,6 +147,8 @@
   "plan_description": "Grabar y reproducir es gratis y sin límites. Premium elimina los límites siguientes.",
   "plan_premium_thanks": "Gracias por suscribirte. Todas las funciones están desbloqueadas.",
   "plan_premium_active": "Todas las funciones están desbloqueadas.",
+  "plan_lifetime_title": "Premium (de por vida)",
+  "plan_lifetime_thanks": "Tienes una licencia de por vida. Todas las funciones están desbloqueadas.",
   "plan_column_free": "Gratis",
   "plan_column_premium": "Premium",
   "plan_feature_trips": "Historial de viajes",
