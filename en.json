@@ -269,6 +269,8 @@
   "date_ymd": "Y/M/D",
   "date_mdy": "M/D/Y",
   "date_dmy": "D/M/Y",
+  "week_start_label": "First day of the week",
+  "week_start_system": "System default",
   "format_example": "Example: %1$s",
   "vehicles_description": "Trips and the meter layout are kept per vehicle. When you connect to an adapter, the app identifies the vehicle from its VIN (if available) and the adapter, and switches to it. The engine displacement is used to estimate fuel economy from intake pressure on cars that do not report mass air flow (MAF); it is not needed for cars with MAF.",
   "vehicle_in_use": "In use",

@@ -269,6 +269,8 @@
   "date_ymd": "A/M/G",
   "date_mdy": "M/G/A",
   "date_dmy": "G/M/A",
+  "week_start_label": "Primo giorno della settimana",
+  "week_start_system": "Predefinito di sistema",
   "format_example": "Esempio: %1$s",
   "vehicles_description": "I viaggi e la disposizione degli strumenti sono per veicolo. Quando ti connetti a un adattatore, l'app riconosce il veicolo dal VIN (se disponibile) e dall'adattatore e passa a quello. La cilindrata serve a stimare i consumi dalla pressione di aspirazione nelle auto senza sensore di flusso d'aria (MAF); non serve per le auto con MAF.",
   "vehicle_in_use": "In uso",

@@ -268,6 +268,8 @@
   "date_ymd": "년/월/일",
   "date_mdy": "월/일/년",
   "date_dmy": "일/월/년",
+  "week_start_label": "한 주의 시작",
+  "week_start_system": "시스템 기본값",
   "format_example": "예: %1$s",
   "vehicles_description": "기록하는 주행과 계기판 배치는 차량마다 따로 있습니다. 어댑터에 연결하면 차대번호(가능한 차만)와 어댑터로 차량을 판별해 전환합니다. 배기량은 흡입 공기량(MAF)을 지원하지 않는 차에서 흡기압으로 연비를 추정할 때 씁니다(MAF 지원 차는 필요 없음).",
   "vehicle_in_use": "사용 중",

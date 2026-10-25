@@ -266,6 +266,8 @@
   "date_ymd": "Settings screen",
   "date_mdy": "Settings screen",
   "date_dmy": "Settings screen",
+  "week_start_label": "Settings screen",
+  "week_start_system": "Settings screen",
   "format_example": "Settings screen",
   "vehicles_description": "Settings screen",
   "vehicle_in_use": "Settings screen",

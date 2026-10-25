@@ -269,6 +269,8 @@
   "date_ymd": "A/M/D",
   "date_mdy": "M/D/A",
   "date_dmy": "D/M/A",
+  "week_start_label": "Primer día de la semana",
+  "week_start_system": "Predeterminado del sistema",
   "format_example": "Ejemplo: %1$s",
   "vehicles_description": "Los viajes y la disposición del panel son por vehículo. Al conectar con un adaptador, la app identifica el vehículo por su VIN (si está disponible) y el adaptador, y cambia a él. La cilindrada se usa para estimar el consumo a partir de la presión de admisión en coches sin caudalímetro (MAF); no hace falta en coches con MAF.",
   "vehicle_in_use": "En uso",

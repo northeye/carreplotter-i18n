@@ -269,6 +269,8 @@
   "date_ymd": "J/M/T",
   "date_mdy": "M/T/J",
   "date_dmy": "T/M/J",
+  "week_start_label": "Erster Tag der Woche",
+  "week_start_system": "Systemstandard",
   "format_example": "Beispiel: %1$s",
   "vehicles_description": "Fahrten und Anzeigelayout gelten pro Fahrzeug. Beim Verbinden mit einem Adapter erkennt die App das Fahrzeug anhand der FIN (falls verfügbar) und des Adapters und wechselt dorthin. Der Hubraum dient zur Verbrauchsschätzung aus dem Saugrohrdruck bei Autos ohne Luftmassenmesser (MAF); bei Autos mit MAF ist er nicht nötig.",
   "vehicle_in_use": "Aktiv",

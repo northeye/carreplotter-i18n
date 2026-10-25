@@ -269,6 +269,8 @@
   "date_ymd": "A/M/J",
   "date_mdy": "M/J/A",
   "date_dmy": "J/M/A",
+  "week_start_label": "Premier jour de la semaine",
+  "week_start_system": "Par défaut du système",
   "format_example": "Exemple : %1$s",
   "vehicles_description": "Les trajets et la disposition du compteur sont propres à chaque véhicule. À la connexion à un adaptateur, l'appli identifie le véhicule par son VIN (si disponible) et l'adaptateur, puis bascule dessus. La cylindrée sert à estimer la consommation à partir de la pression d'admission pour les voitures sans débitmètre d'air (MAF) ; inutile pour les voitures avec MAF.",
   "vehicle_in_use": "Utilisé",
