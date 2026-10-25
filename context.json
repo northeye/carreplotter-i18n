@@ -510,6 +510,8 @@
   "trip_vehicle_change_title": "Trip list and trip details",
   "vehicle_change_warning_title": "Trip list and trip details",
   "vehicle_change_warning": "Trip list and trip details",
+  "vehicle_change_warning_diesel": "Trip details (dialog)",
+  "vehicle_change_warning_gasoline": "Trip details (dialog)",
   "vehicle_change_displacement_unknown": "Trip list and trip details",
   "vehicle_change_confirm": "Trip list and trip details",
   "dont_show_again": "Trip list and trip details",
