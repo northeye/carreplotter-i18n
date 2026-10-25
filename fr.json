@@ -615,6 +615,8 @@
   "premium_period_filter": "Le filtre par période est disponible avec Premium. La formule gratuite affiche vos %1$d derniers trajets.",
   "filter_vehicle": "Véhicule",
   "filter_vehicle_none": "Véhicule non défini",
+  "filter_clear": "Effacer les filtres",
+  "filter_no_match": "Aucun trajet ne correspond aux filtres",
   "trips_select_shown": "Tout sélectionner (affichés)",
   "trips_export": "Exporter",
   "trips_selected": {

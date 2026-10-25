@@ -609,6 +609,8 @@
   "premium_period_filter": "期間での絞り込みはプレミアムプランで使えます。フリープランでは新しい %1$d 件の走行を表示します。",
   "filter_vehicle": "車両",
   "filter_vehicle_none": "車両未設定",
+  "filter_clear": "絞り込みを解除",
+  "filter_no_match": "条件に合う走行はありません",
   "trips_select_shown": "表示中をすべて選ぶ",
   "trips_export": "書き出す",
   "trips_selected": {

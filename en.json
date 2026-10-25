@@ -614,6 +614,8 @@
   "premium_period_filter": "Filtering by period is available with Premium. The free plan shows your latest %1$d trips.",
   "filter_vehicle": "Vehicle",
   "filter_vehicle_none": "Vehicle not set",
+  "filter_clear": "Clear filters",
+  "filter_no_match": "No trips match the filters",
   "trips_select_shown": "Select all shown",
   "trips_export": "Export",
   "trips_selected": {

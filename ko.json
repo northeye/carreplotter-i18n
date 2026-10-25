@@ -609,6 +609,8 @@
   "premium_period_filter": "기간으로 필터링은 프리미엄에서 사용할 수 있습니다. 무료 플랜에서는 최근 %1$d개의 주행을 표시합니다.",
   "filter_vehicle": "차량",
   "filter_vehicle_none": "차량 미설정",
+  "filter_clear": "필터 해제",
+  "filter_no_match": "조건에 맞는 주행이 없습니다",
   "trips_select_shown": "표시 중인 항목 모두 선택",
   "trips_export": "내보내기",
   "trips_selected": {

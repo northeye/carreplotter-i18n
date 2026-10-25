@@ -615,6 +615,8 @@
   "premium_period_filter": "El filtro por periodo está disponible con Premium. El plan gratuito muestra tus últimos %1$d viajes.",
   "filter_vehicle": "Vehículo",
   "filter_vehicle_none": "Vehículo sin asignar",
+  "filter_clear": "Quitar filtros",
+  "filter_no_match": "Ningún viaje coincide con los filtros",
   "trips_select_shown": "Seleccionar todos los mostrados",
   "trips_export": "Exportar",
   "trips_selected": {

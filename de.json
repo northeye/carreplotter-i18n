@@ -614,6 +614,8 @@
   "premium_period_filter": "Das Filtern nach Zeitraum ist mit Premium verfügbar. Im kostenlosen Tarif siehst du deine letzten %1$d Fahrten.",
   "filter_vehicle": "Fahrzeug",
   "filter_vehicle_none": "Fahrzeug nicht festgelegt",
+  "filter_clear": "Filter zurücksetzen",
+  "filter_no_match": "Keine Fahrten entsprechen den Filtern",
   "trips_select_shown": "Alle angezeigten auswählen",
   "trips_export": "Exportieren",
   "trips_selected": {

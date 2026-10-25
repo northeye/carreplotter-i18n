@@ -599,6 +599,8 @@
   "premium_period_filter": "Trip list (filter menu, free plan)",
   "filter_vehicle": "Trip list (filter chip)",
   "filter_vehicle_none": "Trip list (filter menu)",
+  "filter_clear": "Trip list (button)",
+  "filter_no_match": "Trip list",
   "trips_select_shown": "Trip list and trip details",
   "trips_export": "Trip list and trip details",
   "trips_selected": "Trip list and trip details",
