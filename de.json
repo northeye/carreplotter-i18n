@@ -372,6 +372,7 @@
   },
   "meter_edit": "Bearbeiten",
   "meter_done": "Fertig",
+  "meter_moving_warning": "Du fährst. Halte an, bevor du bearbeitest.",
   "page_delete_title": "Diese Seite löschen?",
   "page_delete_text": "Alle Elemente der Seite werden ebenfalls gelöscht.",
   "status_collapse": "▴ Einklappen",

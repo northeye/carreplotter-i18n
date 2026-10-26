@@ -373,6 +373,7 @@
   },
   "meter_edit": "Editar",
   "meter_done": "Concluído",
+  "meter_moving_warning": "Você está em movimento. Pare o carro antes de editar.",
   "page_delete_title": "Excluir esta página?",
   "page_delete_text": "Todos os itens da página também serão excluídos.",
   "status_collapse": "▴ Recolher",

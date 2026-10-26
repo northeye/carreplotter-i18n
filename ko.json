@@ -369,6 +369,7 @@
   },
   "meter_edit": "편집",
   "meter_done": "완료",
+  "meter_moving_warning": "주행 중입니다. 정차한 뒤 편집하세요",
   "page_delete_title": "이 페이지를 삭제할까요?",
   "page_delete_text": "페이지의 항목도 모두 삭제합니다.",
   "status_collapse": "▴ 접기",

@@ -363,6 +363,7 @@
   "backup_import_text": "Settings screen",
   "meter_edit": "Meter (dashboard) screen",
   "meter_done": "Meter (dashboard) screen",
+  "meter_moving_warning": "Meter screen (while editing)",
   "page_delete_title": "Meter (dashboard) screen",
   "page_delete_text": "Meter (dashboard) screen",
   "status_collapse": "Meter (dashboard) screen",

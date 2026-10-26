@@ -369,6 +369,7 @@
   },
   "meter_edit": "編集",
   "meter_done": "完了",
+  "meter_moving_warning": "走行中です。停車してから編集してください",
   "page_delete_title": "このページを削除しますか？",
   "page_delete_text": "ページの項目もすべて削除します。",
   "status_collapse": "▴ たたむ",
