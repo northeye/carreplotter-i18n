@@ -366,6 +366,7 @@
   "about_privacy": "Settings screen",
   "mini_items_button": "Settings screen",
   "mini_preview": "Settings screen",
+  "mini_preview_address": "Settings screen: sample address shown in the mini window preview (not a real lookup)",
   "vehicle_delete_trips": "Settings screen",
   "backup_import_text": "Settings screen",
   "meter_edit": "Meter (dashboard) screen",

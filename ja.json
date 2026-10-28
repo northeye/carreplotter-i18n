@@ -368,6 +368,7 @@
   "about_privacy": "プライバシーポリシー",
   "mini_items_button": "表示する項目",
   "mini_preview": "プレビュー",
+  "mini_preview_address": "東京都千代田区丸の内1丁目",
   "vehicle_delete_trips": {
     "other": "この車両の走行 %1$d 件と、"
   },

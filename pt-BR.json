@@ -369,6 +369,7 @@
   "about_privacy": "Política de privacidade",
   "mini_items_button": "Itens exibidos",
   "mini_preview": "Prévia",
+  "mini_preview_address": "1-1 Marunouchi, Chiyoda, Tóquio",
   "vehicle_delete_trips": {
     "one": "A %1$d viagem dele será excluída. ",
     "other": "As %1$d viagens dele serão excluídas. "
