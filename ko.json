@@ -420,7 +420,7 @@
   "address_off": "설정에서 켜면 표시",
   "recording_start_failed": "기록을 시작할 수 없습니다: %1$s",
   "vehicle_stats_empty": "표시할 차량 정보 항목 선택",
-  "prompt_unknown_vin_title": "처음 보는 차량입니다",
+  "prompt_unknown_vin_title": "등록되지 않은 차량입니다",
   "prompt_new_adapter_title": "처음 쓰는 어댑터입니다",
   "prompt_which_title": "어느 차량인지 확인해 주세요",
   "prompt_unknown_vin": "차대번호 %1$s. 어느 차량인가요? 지금은 \"%2$s\"(으)로 기록합니다.",
