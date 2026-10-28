@@ -682,6 +682,8 @@
   "notice_connected_text": "La registrazione parte quando avvii il motore",
   "notice_connecting_title": "Connessione a %1$s",
   "notice_connecting_text": "In attesa di risposta dall’adattatore",
+  "notice_auto_connect_title": "In attesa della connessione automatica a %1$s",
+  "notice_auto_connect_text": "Si connette all’avvio del motore",
   "notice_standby_title": "%1$s: in attesa",
   "notice_talking_title": "%1$s: comunicazione con il veicolo",
   "notice_manual_text": "Tocca «Avvia registrazione» per registrare",

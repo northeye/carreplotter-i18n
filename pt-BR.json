@@ -682,6 +682,8 @@
   "notice_connected_text": "A gravação começa quando você ligar o motor",
   "notice_connecting_title": "Conectando a %1$s",
   "notice_connecting_text": "Aguardando resposta do adaptador",
+  "notice_auto_connect_title": "Aguardando conexão automática com %1$s",
+  "notice_auto_connect_text": "Conecta quando você liga o motor",
   "notice_standby_title": "%1$s: em espera",
   "notice_talking_title": "%1$s: comunicando com o veículo",
   "notice_manual_text": "Toque em \"Iniciar gravação\" para gravar",

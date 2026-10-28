@@ -681,6 +681,8 @@
   "notice_connected_text": "Die Aufzeichnung startet, wenn Sie den Motor starten",
   "notice_connecting_title": "Verbindung mit %1$s wird hergestellt",
   "notice_connecting_text": "Warten auf Antwort des Adapters",
+  "notice_auto_connect_title": "Warten auf automatische Verbindung mit %1$s",
+  "notice_auto_connect_text": "Verbindet sich, wenn du den Motor startest",
   "notice_standby_title": "%1$s: in Bereitschaft",
   "notice_talking_title": "%1$s: Kommunikation mit dem Fahrzeug",
   "notice_manual_text": "Mit „Aufzeichnung starten“ aufzeichnen",

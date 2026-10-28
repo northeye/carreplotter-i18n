@@ -682,6 +682,8 @@
   "notice_connected_text": "L'enregistrement démarre quand vous démarrez le moteur",
   "notice_connecting_title": "Connexion à %1$s",
   "notice_connecting_text": "En attente de réponse de l’adaptateur",
+  "notice_auto_connect_title": "En attente de connexion automatique à %1$s",
+  "notice_auto_connect_text": "Se connecte au démarrage du moteur",
   "notice_standby_title": "%1$s : en veille",
   "notice_talking_title": "%1$s : communication avec le véhicule",
   "notice_manual_text": "Touchez « Démarrer l'enregistrement » pour enregistrer",

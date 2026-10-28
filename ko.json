@@ -671,6 +671,8 @@
   "notice_connected_text": "시동을 걸면 기록을 시작합니다",
   "notice_connecting_title": "%1$s에 연결하는 중",
   "notice_connecting_text": "어댑터의 응답을 기다리고 있습니다",
+  "notice_auto_connect_title": "%1$s 자동 연결 대기 중",
+  "notice_auto_connect_text": "엔진을 켜면 연결됩니다",
   "notice_standby_title": "%1$s: 대기 중",
   "notice_talking_title": "%1$s: 차량과 통신 중",
   "notice_manual_text": "\"기록 시작\"을 눌러 기록합니다",

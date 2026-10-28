@@ -671,6 +671,8 @@
   "notice_connected_text": "エンジンをかけると記録を始めます",
   "notice_connecting_title": "%1$s に接続しています",
   "notice_connecting_text": "アダプターの応答を待っています",
+  "notice_auto_connect_title": "%1$s の自動接続を待機しています",
+  "notice_auto_connect_text": "エンジンをかけると接続します",
   "notice_standby_title": "%1$s：待機中",
   "notice_talking_title": "%1$s：車両と通信中",
   "notice_manual_text": "「記録開始」で記録します",

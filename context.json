@@ -651,6 +651,8 @@
   "notice_connected_text": "Notifications, connection, backup, debug screen",
   "notice_connecting_title": "Notifications, connection, backup, debug screen",
   "notice_connecting_text": "Notifications, connection, backup, debug screen",
+  "notice_auto_connect_title": "Notifications: never connected yet; the app keeps retrying automatically until the adapter (car) wakes up",
+  "notice_auto_connect_text": "Notifications: shown under notice_auto_connect_title",
   "notice_standby_title": "Notifications, connection, backup, debug screen",
   "notice_talking_title": "Notifications, connection, backup, debug screen",
   "notice_manual_text": "Notifications, connection, backup, debug screen",

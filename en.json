@@ -681,6 +681,8 @@
   "notice_connected_text": "Recording starts when you start the engine",
   "notice_connecting_title": "Connecting to %1$s",
   "notice_connecting_text": "Waiting for the adapter to respond",
+  "notice_auto_connect_title": "Waiting to auto-connect to %1$s",
+  "notice_auto_connect_text": "Connects when you start the engine",
   "notice_standby_title": "%1$s: standing by",
   "notice_talking_title": "%1$s: talking to the vehicle",
   "notice_manual_text": "Tap \"Start recording\" to record",
