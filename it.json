@@ -392,6 +392,8 @@
   "status_waiting_vehicle": "In attesa del veicolo (avvia il motore)",
   "status_reconnecting_short": "Riconnessione",
   "status_reconnecting": "In attesa di riconnessione…",
+  "status_auto_connect_short": "Connessione auto",
+  "status_auto_connect": "In attesa della connessione automatica…",
   "status_connecting": "Connessione…",
   "status_initializing": "Inizializzazione…",
   "status_disconnected": "Non connesso",

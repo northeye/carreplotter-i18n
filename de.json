@@ -391,6 +391,8 @@
   "status_waiting_vehicle": "Warte auf Fahrzeug (Motor starten)",
   "status_reconnecting_short": "Neu verbinden",
   "status_reconnecting": "Warte auf erneute Verbindung …",
+  "status_auto_connect_short": "Auto-Verbindung",
+  "status_auto_connect": "Warten auf automatische Verbindung…",
   "status_connecting": "Verbinde …",
   "status_initializing": "Initialisiere …",
   "status_disconnected": "Nicht verbunden",

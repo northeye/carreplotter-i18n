@@ -388,6 +388,8 @@
   "status_waiting_vehicle": "車両の応答待ち（エンジンをかけてください）",
   "status_reconnecting_short": "再接続待ち",
   "status_reconnecting": "再接続待ち…",
+  "status_auto_connect_short": "自動接続待ち",
+  "status_auto_connect": "自動接続を待機中…",
   "status_connecting": "接続中…",
   "status_initializing": "初期化中…",
   "status_disconnected": "未接続",

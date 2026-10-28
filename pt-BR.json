@@ -392,6 +392,8 @@
   "status_waiting_vehicle": "Aguardando o veículo (ligue o motor)",
   "status_reconnecting_short": "Reconectando",
   "status_reconnecting": "Aguardando reconexão…",
+  "status_auto_connect_short": "Conexão auto",
+  "status_auto_connect": "Aguardando conexão automática…",
   "status_connecting": "Conectando…",
   "status_initializing": "Inicializando…",
   "status_disconnected": "Não conectado",

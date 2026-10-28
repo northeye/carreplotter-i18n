@@ -388,6 +388,8 @@
   "status_waiting_vehicle": "차량 응답 대기(시동을 걸어 주세요)",
   "status_reconnecting_short": "재연결 대기",
   "status_reconnecting": "재연결 대기 중…",
+  "status_auto_connect_short": "자동 연결 대기",
+  "status_auto_connect": "자동 연결 대기 중…",
   "status_connecting": "연결 중…",
   "status_initializing": "초기화 중…",
   "status_disconnected": "연결 안 됨",

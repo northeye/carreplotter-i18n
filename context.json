@@ -382,6 +382,8 @@
   "status_waiting_vehicle": "Meter (dashboard) screen",
   "status_reconnecting_short": "Meter (dashboard) screen",
   "status_reconnecting": "Meter (dashboard) screen",
+  "status_auto_connect_short": "Meter screen status bar (collapsed, short): never connected yet, retrying automatically",
+  "status_auto_connect": "Meter screen status card: never connected yet, retrying automatically until the adapter (car) wakes up",
   "status_connecting": "Meter (dashboard) screen",
   "status_initializing": "Meter (dashboard) screen",
   "status_disconnected": "Meter (dashboard) screen",
