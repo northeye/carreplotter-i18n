@@ -761,7 +761,7 @@
   "ob_adapter": "Adapter verbinden",
   "ob_adapter_body": "Stecken Sie den Adapter in die OBD2-Buchse des Autos (oft unter dem Armaturenbrett auf der Fahrerseite), starten Sie den Motor und suchen Sie dann.",
   "ob_adapter_search": "Adapter suchen",
-  "ob_adapter_wifi": "WLAN-Adapter verbinden Sie über „Verbinden“ auf dem Bildschirm Anzeige.",
+  "ob_adapter_wifi": "Empfohlen wird ein Bluetooth-Low-Energy-Adapter (BLE): Er verbindet sich beim Starten des Motors automatisch und die Aufzeichnung beginnt. WLAN-Adapter müssen jedes Mal manuell über „Verbinden“ auf dem Bildschirm Anzeige verbunden werden. Bluetooth-Adapter ohne BLE-Unterstützung können nicht verwendet werden.",
   "ob_adapter_connected": "Mit „%1$s“ verbunden.",
   "ob_adapter_registered": "Dieser Adapter ist für „Automatisch verbinden, wenn in der Nähe“ eingerichtet. Die Aufzeichnung startet mit dem Motor, auch ohne die App zu öffnen.",
   "ob_adapter_register_body": "Mit „Automatisch verbinden, wenn in der Nähe“ verbindet sich die App und startet die Aufzeichnung, sobald Sie den Motor starten und der Adapter aufwacht – auch ohne die App zu öffnen. Wählen Sie den Adapter im Systemdialog.",

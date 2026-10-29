@@ -761,7 +761,7 @@
   "ob_adapter": "Connect an adapter",
   "ob_adapter_body": "Plug the adapter into the car's OBD2 port (often under the dashboard on the driver's side), start the engine, then search.",
   "ob_adapter_search": "Search for adapters",
-  "ob_adapter_wifi": "Wi-Fi adapters can be connected from \"Connect\" on the Meter screen.",
+  "ob_adapter_wifi": "We recommend a Bluetooth Low Energy (BLE) adapter: it connects and records automatically when you start the engine. Wi-Fi adapters must be connected manually each time from \"Connect\" on the Meter screen. Bluetooth adapters without BLE support cannot be used.",
   "ob_adapter_connected": "Connected to \"%1$s\".",
   "ob_adapter_registered": "This adapter is set up for \"Connect automatically when nearby\". Recording starts when you start the engine, even without opening the app.",
   "ob_adapter_register_body": "If you set up \"Connect automatically when nearby\", the app connects and starts recording when you start the engine and the adapter wakes up, even without opening the app. Choose the adapter on the system screen.",

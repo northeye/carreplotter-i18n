@@ -762,7 +762,7 @@
   "ob_adapter": "Connetti un adattatore",
   "ob_adapter_body": "Collega l'adattatore alla presa OBD2 dell'auto (spesso sotto il cruscotto lato guida), avvia il motore e poi cerca.",
   "ob_adapter_search": "Cerca adattatori",
-  "ob_adapter_wifi": "Gli adattatori Wi-Fi si connettono da «Connetti» nella schermata Strumenti.",
+  "ob_adapter_wifi": "Consigliamo un adattatore Bluetooth Low Energy (BLE): si connette e registra automaticamente all'avvio del motore. Gli adattatori Wi-Fi vanno connessi manualmente ogni volta da «Connetti» nella schermata Strumenti. Gli adattatori Bluetooth senza BLE non sono supportati.",
   "ob_adapter_connected": "Connesso a «%1$s».",
   "ob_adapter_registered": "Questo adattatore è configurato per «Connetti automaticamente nelle vicinanze». La registrazione parte con il motore anche senza aprire l'app.",
   "ob_adapter_register_body": "Con «Connetti automaticamente nelle vicinanze», l'app si connette e avvia la registrazione quando accendi il motore e l'adattatore si attiva, anche senza aprirla. Scegli l'adattatore nella schermata di sistema.",

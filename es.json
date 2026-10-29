@@ -762,7 +762,7 @@
   "ob_adapter": "Conectar un adaptador",
   "ob_adapter_body": "Conecta el adaptador a la toma OBD2 del coche (suele estar bajo el salpicadero, en el lado del conductor), arranca el motor y luego busca.",
   "ob_adapter_search": "Buscar adaptadores",
-  "ob_adapter_wifi": "Los adaptadores Wi-Fi se conectan desde «Conectar» en la pantalla Panel.",
+  "ob_adapter_wifi": "Recomendamos un adaptador Bluetooth Low Energy (BLE): se conecta y graba automáticamente al arrancar el motor. Los adaptadores Wi-Fi deben conectarse manualmente cada vez desde «Conectar» en la pantalla Panel. Los adaptadores Bluetooth sin BLE no se pueden usar.",
   "ob_adapter_connected": "Conectado a «%1$s».",
   "ob_adapter_registered": "Este adaptador está configurado para «Conectar automáticamente cerca». La grabación empieza al arrancar el motor, aunque no abras la app.",
   "ob_adapter_register_body": "Con «Conectar automáticamente cerca», la app se conecta y empieza a grabar cuando arrancas el motor y el adaptador se activa, aunque no la abras. Elige el adaptador en la pantalla del sistema.",
