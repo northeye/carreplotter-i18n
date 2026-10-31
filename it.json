@@ -406,6 +406,11 @@
   "tips_description": "Mostra una volta un breve suggerimento, al momento giusto, sulle azioni facili da non notare",
   "tips_reset": "Rivedi i suggerimenti",
   "tips_reset_done": "I suggerimenti verranno mostrati di nuovo",
+  "break_reminder_title": "Promemoria pausa in autostrada",
+  "break_reminder_description": "Ti avvisa ogni 2 ore di guida in modalità Autostrada (il conteggio riparte dopo una sosta di 15 minuti o più)",
+  "break_reminder_notice_title": "È ora di una pausa",
+  "channel_break_reminder": "Promemoria pausa",
+  "stat_road_mode_economy": "Consumo %1$s",
   "status_connected": "Connesso",
   "status_waiting_vehicle_short": "In attesa del veicolo",
   "status_waiting_vehicle": "In attesa del veicolo (avvia il motore)",
@@ -690,6 +695,10 @@
   "stat_breaks_count": {
     "one": "Soste: %1$d",
     "other": "Soste: %1$d"
+  },
+  "break_reminder_text": {
+    "one": "Guidi in autostrada da %1$d ora. Valuta di fare una pausa.",
+    "other": "Guidi in autostrada da %1$d ore. Valuta di fare una pausa."
   },
   "channel_recording": "Registrazione viaggi",
   "notice_vehicle_fallback": "auto",

@@ -406,6 +406,11 @@
   "tips_description": "Mostra uma dica curta uma única vez, na hora certa, para ações fáceis de passar despercebidas",
   "tips_reset": "Ver as dicas de novo",
   "tips_reset_done": "As dicas serão mostradas de novo",
+  "break_reminder_title": "Lembrete de pausa na rodovia",
+  "break_reminder_description": "Avisa a cada 2 horas de direção no modo Rodovia (a contagem recomeça depois de uma parada de 15 minutos ou mais)",
+  "break_reminder_notice_title": "Hora de uma pausa",
+  "channel_break_reminder": "Lembretes de pausa",
+  "stat_road_mode_economy": "Consumo %1$s",
   "status_connected": "Conectado",
   "status_waiting_vehicle_short": "Aguardando o veículo",
   "status_waiting_vehicle": "Aguardando o veículo (ligue o motor)",
@@ -690,6 +695,10 @@
   "stat_breaks_count": {
     "one": "Paradas: %1$d",
     "other": "Paradas: %1$d"
+  },
+  "break_reminder_text": {
+    "one": "Você está dirigindo na rodovia há %1$d hora. Considere fazer uma pausa.",
+    "other": "Você está dirigindo na rodovia há %1$d horas. Considere fazer uma pausa."
   },
   "channel_recording": "Gravação de viagens",
   "notice_vehicle_fallback": "carro",

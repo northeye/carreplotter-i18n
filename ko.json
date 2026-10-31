@@ -402,6 +402,11 @@
   "tips_description": "놓치기 쉬운 조작을 알맞은 때에 한 번만 짧게 알려 줍니다",
   "tips_reset": "팁 다시 보기",
   "tips_reset_done": "팁을 다시 표시합니다",
+  "break_reminder_title": "고속도로에서 휴식 알림",
+  "break_reminder_description": "고속도로 모드로 주행한 시간이 2시간이 될 때마다 알림으로 알려 줍니다(15분 이상 멈추면 다시 셉니다)",
+  "break_reminder_notice_title": "휴식할 때입니다",
+  "channel_break_reminder": "휴식 알림",
+  "stat_road_mode_economy": "연비 %1$s",
   "status_connected": "연결됨",
   "status_waiting_vehicle_short": "차량 응답 대기",
   "status_waiting_vehicle": "차량 응답 대기(시동을 걸어 주세요)",
@@ -679,6 +684,9 @@
   },
   "stat_breaks_count": {
     "other": "휴식 %1$d회"
+  },
+  "break_reminder_text": {
+    "other": "고속도로를 %1$d시간 주행했습니다. 잠시 쉬어 가세요."
   },
   "channel_recording": "주행 기록",
   "notice_vehicle_fallback": "차",

@@ -402,6 +402,11 @@
   "tips_description": "気づきにくい操作を、その場面で一度だけ短く知らせます",
   "tips_reset": "ヒントをもう一度見る",
   "tips_reset_done": "ヒントをもう一度出します",
+  "break_reminder_title": "高速道路で休憩の目安を知らせる",
+  "break_reminder_description": "高速道路モードで走った時間が 2 時間になるごとに、通知で知らせます（15 分以上止まると数え直します）",
+  "break_reminder_notice_title": "休憩の目安",
+  "channel_break_reminder": "休憩の目安",
+  "stat_road_mode_economy": "燃費 %1$s",
   "status_connected": "接続済み",
   "status_waiting_vehicle_short": "車両の応答待ち",
   "status_waiting_vehicle": "車両の応答待ち（エンジンを始動してください）",
@@ -679,6 +684,9 @@
   },
   "stat_breaks_count": {
     "other": "休憩 %1$d回"
+  },
+  "break_reminder_text": {
+    "other": "高速道路を %1$d 時間走りました。そろそろ休憩しましょう"
   },
   "channel_recording": "走行記録",
   "notice_vehicle_fallback": "車",

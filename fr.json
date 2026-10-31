@@ -406,6 +406,11 @@
   "tips_description": "Affiche une fois une courte astuce, au bon moment, pour les actions faciles à manquer",
   "tips_reset": "Revoir les astuces",
   "tips_reset_done": "Les astuces seront de nouveau affichées",
+  "break_reminder_title": "Rappel de pause sur autoroute",
+  "break_reminder_description": "Vous prévient toutes les 2 heures de conduite en mode Autoroute (le décompte repart après un arrêt de 15 minutes ou plus)",
+  "break_reminder_notice_title": "C'est l'heure d'une pause",
+  "channel_break_reminder": "Rappels de pause",
+  "stat_road_mode_economy": "Conso. %1$s",
   "status_connected": "Connecté",
   "status_waiting_vehicle_short": "En attente du véhicule",
   "status_waiting_vehicle": "En attente du véhicule (démarrez le moteur)",
@@ -690,6 +695,10 @@
   "stat_breaks_count": {
     "one": "Pauses : %1$d",
     "other": "Pauses : %1$d"
+  },
+  "break_reminder_text": {
+    "one": "Vous roulez sur l'autoroute depuis %1$d heure. Pensez à faire une pause.",
+    "other": "Vous roulez sur l'autoroute depuis %1$d heures. Pensez à faire une pause."
   },
   "channel_recording": "Enregistrement des trajets",
   "notice_vehicle_fallback": "voiture",

@@ -405,6 +405,11 @@
   "tips_description": "Show a short tip once, at the right moment, for actions that are easy to miss",
   "tips_reset": "Show tips again",
   "tips_reset_done": "Tips will be shown again",
+  "break_reminder_title": "Break reminder on expressways",
+  "break_reminder_description": "Notify you every 2 hours of driving in Expressway mode (the count restarts after you stop for 15 minutes or more)",
+  "break_reminder_notice_title": "Time for a break",
+  "channel_break_reminder": "Break reminders",
+  "stat_road_mode_economy": "Economy %1$s",
   "status_connected": "Connected",
   "status_waiting_vehicle_short": "Waiting for vehicle",
   "status_waiting_vehicle": "Waiting for vehicle (start the engine)",
@@ -689,6 +694,10 @@
   "stat_breaks_count": {
     "one": "Breaks: %1$d",
     "other": "Breaks: %1$d"
+  },
+  "break_reminder_text": {
+    "one": "You've driven on the expressway for %1$d hour. Consider taking a break.",
+    "other": "You've driven on the expressway for %1$d hours. Consider taking a break."
   },
   "channel_recording": "Trip recording",
   "notice_vehicle_fallback": "car",

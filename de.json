@@ -405,6 +405,11 @@
   "tips_description": "Zeigt leicht übersehene Bedienungen einmal kurz im passenden Moment",
   "tips_reset": "Tipps erneut anzeigen",
   "tips_reset_done": "Tipps werden erneut angezeigt",
+  "break_reminder_title": "Pausenhinweis auf der Autobahn",
+  "break_reminder_description": "Benachrichtigt dich alle 2 Stunden Fahrt im Modus Autobahn (die Zählung beginnt neu, wenn du 15 Minuten oder länger anhältst)",
+  "break_reminder_notice_title": "Zeit für eine Pause",
+  "channel_break_reminder": "Pausenhinweise",
+  "stat_road_mode_economy": "Verbrauch %1$s",
   "status_connected": "Verbunden",
   "status_waiting_vehicle_short": "Warte auf Fahrzeug",
   "status_waiting_vehicle": "Warte auf Fahrzeug (Motor starten)",
@@ -689,6 +694,10 @@
   "stat_breaks_count": {
     "one": "Pausen: %1$d",
     "other": "Pausen: %1$d"
+  },
+  "break_reminder_text": {
+    "one": "Du fährst seit %1$d Stunde auf der Autobahn. Denk an eine Pause.",
+    "other": "Du fährst seit %1$d Stunden auf der Autobahn. Denk an eine Pause."
   },
   "channel_recording": "Fahrtaufzeichnung",
   "notice_vehicle_fallback": "Auto",
