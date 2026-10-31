@@ -412,7 +412,7 @@
   "dash_highway_page_set": "고속도로용 페이지로 사용",
   "dash_highway_page_unset": "고속도로용 페이지 해제",
   "dash_highway_page_label": "고속도로용 페이지: 고속도로 모드로 바꾸면 이 페이지로 전환됩니다",
-  "premium_highway_page": "고속도로용 페이지는 프리미엄에서 사용할 수 있습니다. 고속도로 모드로 바꾸면 자동으로 그 페이지로 전환됩니다.",
+  "premium_highway_page": "프리미엄에서는 고속도로 모드용 페이지도 만들 수 있습니다.",
   "status_connected": "연결됨",
   "status_waiting_vehicle_short": "차량 응답 대기",
   "status_waiting_vehicle": "차량 응답 대기(시동을 걸어 주세요)",

@@ -412,7 +412,7 @@
   "dash_highway_page_set": "高速道路用のページにする",
   "dash_highway_page_unset": "高速道路用のページをやめる",
   "dash_highway_page_label": "高速道路用のページ：高速道路モードにすると、このページに切り替わります",
-  "premium_highway_page": "高速道路用のページはプレミアムプランで使えます。高速道路モードにすると、自動でそのページに切り替わります。",
+  "premium_highway_page": "プレミアムプランでは、高速道路モード用のページも作れます。",
   "status_connected": "接続済み",
   "status_waiting_vehicle_short": "車両の応答待ち",
   "status_waiting_vehicle": "車両の応答待ち（エンジンを始動してください）",

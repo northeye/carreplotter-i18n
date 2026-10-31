@@ -416,7 +416,7 @@
   "dash_highway_page_set": "Utiliser comme page autoroute",
   "dash_highway_page_unset": "Ne plus utiliser comme page autoroute",
   "dash_highway_page_label": "Page autoroute : en mode Autoroute, le tableau de bord passe à cette page",
-  "premium_highway_page": "La page autoroute est disponible avec Premium. Lorsque vous passez en mode Autoroute, le tableau de bord affiche cette page automatiquement.",
+  "premium_highway_page": "Avec Premium, vous pouvez aussi créer une page autoroute.",
   "status_connected": "Connecté",
   "status_waiting_vehicle_short": "En attente du véhicule",
   "status_waiting_vehicle": "En attente du véhicule (démarrez le moteur)",

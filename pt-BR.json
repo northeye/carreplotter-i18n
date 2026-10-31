@@ -416,7 +416,7 @@
   "dash_highway_page_set": "Usar como página de rodovia",
   "dash_highway_page_unset": "Deixar de usar como página de rodovia",
   "dash_highway_page_label": "Página de rodovia: no modo Rodovia, o painel muda para esta página",
-  "premium_highway_page": "A página de rodovia está disponível com o Premium. Ao mudar para o modo Rodovia, o painel vai para essa página automaticamente.",
+  "premium_highway_page": "Com o Premium, você também pode criar uma página de rodovia.",
   "status_connected": "Conectado",
   "status_waiting_vehicle_short": "Aguardando o veículo",
   "status_waiting_vehicle": "Aguardando o veículo (ligue o motor)",

@@ -415,7 +415,7 @@
   "dash_highway_page_set": "Use as Expressway page",
   "dash_highway_page_unset": "Stop using as Expressway page",
   "dash_highway_page_label": "Expressway page: the meter switches to this page in Expressway mode",
-  "premium_highway_page": "The Expressway page is available with Premium. When you switch to Expressway mode, the meter moves to that page automatically.",
+  "premium_highway_page": "With Premium, you can also make an Expressway page.",
   "status_connected": "Connected",
   "status_waiting_vehicle_short": "Waiting for vehicle",
   "status_waiting_vehicle": "Waiting for vehicle (start the engine)",

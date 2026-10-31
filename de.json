@@ -415,7 +415,7 @@
   "dash_highway_page_set": "Als Autobahn-Seite verwenden",
   "dash_highway_page_unset": "Nicht mehr als Autobahn-Seite verwenden",
   "dash_highway_page_label": "Autobahn-Seite: Im Autobahn-Modus wechselt die Anzeige zu dieser Seite",
-  "premium_highway_page": "Die Autobahn-Seite ist mit Premium verfügbar. Wenn du in den Autobahn-Modus wechselst, springt die Anzeige automatisch zu dieser Seite.",
+  "premium_highway_page": "Mit Premium kannst du auch eine Autobahn-Seite anlegen.",
   "status_connected": "Verbunden",
   "status_waiting_vehicle_short": "Warte auf Fahrzeug",
   "status_waiting_vehicle": "Warte auf Fahrzeug (Motor starten)",

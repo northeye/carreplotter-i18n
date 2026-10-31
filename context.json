@@ -406,7 +406,7 @@
   "dash_highway_page_set": "Meter screen (editing): menu item to make the current page the Expressway page (the meter moves to it when Expressway mode is turned on)",
   "dash_highway_page_unset": "Meter screen (editing): menu item to stop using the current page as the Expressway page",
   "dash_highway_page_label": "Meter screen (editing): label shown above the edit buttons when the current page is the Expressway page",
-  "premium_highway_page": "Meter screen (editing): Premium notice shown when a Free plan user tries to make an Expressway page",
+  "premium_highway_page": "Meter screen (editing): Premium notice shown when a Free plan user tries to make an Expressway page (may be shown on its own line under the meter limit notice in the same card)",
   "status_connected": "Meter (dashboard) screen",
   "status_waiting_vehicle_short": "Meter (dashboard) screen",
   "status_waiting_vehicle": "Meter (dashboard) screen",

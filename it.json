@@ -416,7 +416,7 @@
   "dash_highway_page_set": "Usa come pagina autostrada",
   "dash_highway_page_unset": "Non usare più come pagina autostrada",
   "dash_highway_page_label": "Pagina autostrada: in modalità Autostrada il cruscotto passa a questa pagina",
-  "premium_highway_page": "La pagina autostrada è disponibile con Premium. Quando passi alla modalità Autostrada, il cruscotto mostra automaticamente quella pagina.",
+  "premium_highway_page": "Con Premium puoi anche creare una pagina autostrada.",
   "status_connected": "Connesso",
   "status_waiting_vehicle_short": "In attesa del veicolo",
   "status_waiting_vehicle": "In attesa del veicolo (avvia il motore)",
