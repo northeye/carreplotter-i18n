@@ -821,5 +821,20 @@
   "ob_backup": "Backup automático",
   "ob_backup_body": "Os dados de viagem ficam neste dispositivo. Para o caso de perder ou trocar de dispositivo, o app pode salvar um backup periodicamente em uma pasta que você escolher (neste dispositivo ou em um app de nuvem como o Google Drive). Também dá para configurar depois em Configurações > Backup.",
   "ob_backup_choose": "Escolher pasta e ativar",
-  "ob_backup_on": "✓ Backup em %1$s (semanal)"
+  "ob_backup_on": "✓ Backup em %1$s (semanal)",
+  "channel_battery": "Bateria",
+  "battery_low_title": "%1$s: tensão da bateria baixa",
+  "battery_very_low_title": "%1$s: tensão da bateria muito baixa",
+  "battery_low_text": "Foi medido %1$s com o carro estacionado. Dirija um pouco para carregá-la ou leve para verificar.",
+  "battery_very_low_text": "Foi medido %1$s com o carro estacionado. Carregue ou verifique logo. Se não for dirigir por um tempo, desconecte o adaptador OBD.",
+  "battery_warn_title": "Avisar quando a tensão da bateria estiver baixa",
+  "battery_warn_description": "Avisa quando a tensão lida pelo adaptador com o carro estacionado continua baixa. Alguns adaptadores leem 0,2–0,3 V a menos que a bateria.",
+  "battery_low_label": "Avisar em",
+  "battery_low_choice": "%1$s ou menos",
+  "vehicle_battery": "Bateria (estacionado): %1$s, %2$s",
+  "vehicle_battery_history": "Histórico",
+  "battery_history_title": "Tensão da bateria de %1$s (estacionado)",
+  "battery_history_empty": "Nenhuma leitura nos últimos 30 dias.",
+  "battery_history_note": "Leituras feitas pelo menos 10 minutos após desligar o motor, nos últimos 30 dias.",
+  "premium_battery_history": "O histórico da tensão da bateria está disponível no Premium."
 }

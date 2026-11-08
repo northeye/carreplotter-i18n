@@ -820,5 +820,20 @@
   "ob_backup": "Automatische Sicherung",
   "ob_backup_body": "Fahrtdaten bleiben auf diesem Gerät. Für den Fall, dass Sie es verlieren oder wechseln, kann die App regelmäßig eine Sicherung in einem Ordner Ihrer Wahl speichern (auf diesem Gerät oder in einer Cloud-App wie Google Drive). Sie können das auch später unter Einstellungen > Sicherung einrichten.",
   "ob_backup_choose": "Ordner wählen und aktivieren",
-  "ob_backup_on": "✓ Sicherung in %1$s (wöchentlich)"
+  "ob_backup_on": "✓ Sicherung in %1$s (wöchentlich)",
+  "channel_battery": "Batterie",
+  "battery_low_title": "%1$s: Batteriespannung niedrig",
+  "battery_very_low_title": "%1$s: Batteriespannung sehr niedrig",
+  "battery_low_text": "Im geparkten Zustand gemessen: %1$s. Fahren Sie eine Weile, um sie zu laden, oder lassen Sie sie prüfen.",
+  "battery_very_low_text": "Im geparkten Zustand gemessen: %1$s. Lassen Sie sie bald laden oder prüfen. Wenn Sie länger nicht fahren, ziehen Sie den OBD-Adapter ab.",
+  "battery_warn_title": "Bei niedriger Batteriespannung warnen",
+  "battery_warn_description": "Benachrichtigt Sie, wenn die vom Adapter gemessene Spannung im geparkten Zustand niedrig bleibt. Manche Adapter messen 0,2–0,3 V weniger als die Batterie.",
+  "battery_low_label": "Warnen ab",
+  "battery_low_choice": "%1$s oder weniger",
+  "vehicle_battery": "Batterie (geparkt): %1$s, %2$s",
+  "vehicle_battery_history": "Verlauf",
+  "battery_history_title": "Batteriespannung %1$s (geparkt)",
+  "battery_history_empty": "Keine Messwerte in den letzten 30 Tagen.",
+  "battery_history_note": "Messwerte mindestens 10 Minuten nach dem Abstellen des Motors, letzte 30 Tage.",
+  "premium_battery_history": "Der Verlauf der Batteriespannung ist mit Premium verfügbar."
 }

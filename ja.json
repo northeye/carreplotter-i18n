@@ -809,5 +809,20 @@
   "ob_backup": "自動バックアップ",
   "ob_backup_body": "走行データはこの端末の中にあります。端末をなくしたり買い替えたりしたときに備えて、選んだフォルダ（この端末の中、または Google ドライブなどクラウドのアプリ）に定期的にバックアップできます。あとから設定の「バックアップ」でも設定できます。",
   "ob_backup_choose": "フォルダを選んでオンにする",
-  "ob_backup_on": "✓ %1$s に自動でバックアップします（毎週）"
+  "ob_backup_on": "✓ %1$s に自動でバックアップします（毎週）",
+  "channel_battery": "バッテリー",
+  "battery_low_title": "%1$s のバッテリーの電圧が低めです",
+  "battery_very_low_title": "%1$s のバッテリーの電圧がとても低いです",
+  "battery_low_text": "止めているときに %1$s でした。しばらく走って充電するか、点検をおすすめします。",
+  "battery_very_low_text": "止めているときに %1$s でした。早めに充電か点検をおすすめします。しばらく乗らないときは、OBD アダプターを抜いておくと安心です。",
+  "battery_warn_title": "バッテリーの電圧が低いときに知らせる",
+  "battery_warn_description": "止めている車でアダプターが読んだ電圧が続けて低いとき、通知で知らせます。アダプターによっては、実際より 0.2〜0.3 V 低く出ます。",
+  "battery_low_label": "知らせる電圧",
+  "battery_low_choice": "%1$s 以下",
+  "vehicle_battery": "バッテリー（止めているとき）：%1$s（%2$s）",
+  "vehicle_battery_history": "推移",
+  "battery_history_title": "%1$s のバッテリー電圧（止めているとき）",
+  "battery_history_empty": "直近 30 日の記録はありません。",
+  "battery_history_note": "エンジンを止めて 10 分以上たってから読んだ値です（直近 30 日）。",
+  "premium_battery_history": "バッテリー電圧の推移はプレミアムプランで見られます。"
 }

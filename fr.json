@@ -821,5 +821,20 @@
   "ob_backup": "Sauvegarde automatique",
   "ob_backup_body": "Les données de trajet restent sur cet appareil. Pour parer à une perte ou à un changement d’appareil, l'appli peut enregistrer régulièrement une sauvegarde dans un dossier de votre choix (sur cet appareil ou dans une appli cloud comme Google Drive). Vous pourrez aussi le configurer plus tard dans Réglages > Sauvegarde.",
   "ob_backup_choose": "Choisir un dossier et activer",
-  "ob_backup_on": "✓ Sauvegarde dans %1$s (hebdomadaire)"
+  "ob_backup_on": "✓ Sauvegarde dans %1$s (hebdomadaire)",
+  "channel_battery": "Batterie",
+  "battery_low_title": "%1$s : tension de batterie faible",
+  "battery_very_low_title": "%1$s : tension de batterie très faible",
+  "battery_low_text": "Mesurée à %1$s à l’arrêt. Roulez un moment pour la recharger, ou faites-la vérifier.",
+  "battery_very_low_text": "Mesurée à %1$s à l’arrêt. Faites-la recharger ou vérifier rapidement. Si vous ne roulez pas pendant un moment, débranchez l’adaptateur OBD.",
+  "battery_warn_title": "Avertir en cas de tension de batterie faible",
+  "battery_warn_description": "Vous avertit lorsque la tension mesurée par l’adaptateur, voiture à l’arrêt, reste faible. Certains adaptateurs mesurent 0,2 à 0,3 V de moins que la batterie.",
+  "battery_low_label": "Avertir à",
+  "battery_low_choice": "%1$s ou moins",
+  "vehicle_battery": "Batterie (à l’arrêt) : %1$s, %2$s",
+  "vehicle_battery_history": "Historique",
+  "battery_history_title": "Tension de batterie de %1$s (à l’arrêt)",
+  "battery_history_empty": "Aucune mesure ces 30 derniers jours.",
+  "battery_history_note": "Mesures prises au moins 10 minutes après l’arrêt du moteur, sur les 30 derniers jours.",
+  "premium_battery_history": "L’historique de la tension de batterie est disponible avec Premium."
 }

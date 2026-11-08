@@ -787,5 +787,20 @@
   "ob_backup": "First-run introduction",
   "ob_backup_body": "First-run introduction",
   "ob_backup_choose": "First-run introduction",
-  "ob_backup_on": "First-run introduction"
+  "ob_backup_on": "First-run introduction",
+  "channel_battery": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_low_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_very_low_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_low_text": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_very_low_text": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_warn_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_warn_description": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_low_label": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_low_choice": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "vehicle_battery": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "vehicle_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_history_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_history_empty": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_history_note": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "premium_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification"
 }

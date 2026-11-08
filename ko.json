@@ -809,5 +809,20 @@
   "ob_backup": "자동 백업",
   "ob_backup_body": "주행 데이터는 이 기기 안에 있습니다. 기기을 잃어버리거나 바꿀 때를 대비해, 선택한 폴더(이 기기 안이나 Google 드라이브 등 클라우드 앱)에 정기적으로 백업할 수 있습니다. 나중에 설정의 \"백업\"에서도 설정할 수 있습니다.",
   "ob_backup_choose": "폴더를 골라 켜기",
-  "ob_backup_on": "✓ %1$s에 자동으로 백업합니다(매주)"
+  "ob_backup_on": "✓ %1$s에 자동으로 백업합니다(매주)",
+  "channel_battery": "배터리",
+  "battery_low_title": "%1$s: 배터리 전압이 낮습니다",
+  "battery_very_low_title": "%1$s: 배터리 전압이 매우 낮습니다",
+  "battery_low_text": "주차 중 %1$s로 측정되었습니다. 잠시 주행해 충전하거나 점검을 받으세요.",
+  "battery_very_low_text": "주차 중 %1$s로 측정되었습니다. 빨리 충전하거나 점검을 받으세요. 한동안 운전하지 않는다면 OBD 어댑터를 빼 두면 안심입니다.",
+  "battery_warn_title": "배터리 전압이 낮으면 알림",
+  "battery_warn_description": "주차 중 어댑터가 읽은 전압이 계속 낮으면 알림으로 알려 줍니다. 어댑터에 따라 실제보다 0.2~0.3V 낮게 나올 수 있습니다.",
+  "battery_low_label": "알림 기준",
+  "battery_low_choice": "%1$s 이하",
+  "vehicle_battery": "배터리(주차 중): %1$s, %2$s",
+  "vehicle_battery_history": "추이",
+  "battery_history_title": "%1$s 배터리 전압(주차 중)",
+  "battery_history_empty": "최근 30일 동안 기록이 없습니다.",
+  "battery_history_note": "엔진을 끄고 10분 이상 지난 뒤 읽은 값입니다(최근 30일).",
+  "premium_battery_history": "배터리 전압 추이는 프리미엄에서 볼 수 있습니다."
 }

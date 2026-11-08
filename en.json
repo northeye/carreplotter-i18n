@@ -820,5 +820,20 @@
   "ob_backup": "Automatic backup",
   "ob_backup_body": "Trip data stays on this device. To be safe if you lose or replace your device, the app can save a backup to a folder you choose (on this device or in a cloud app such as Google Drive) on a schedule. You can set this up later in Settings > Backup.",
   "ob_backup_choose": "Choose a folder and turn on",
-  "ob_backup_on": "✓ Backing up to %1$s (weekly)"
+  "ob_backup_on": "✓ Backing up to %1$s (weekly)",
+  "channel_battery": "Battery",
+  "battery_low_title": "%1$s: battery voltage is low",
+  "battery_very_low_title": "%1$s: battery voltage is very low",
+  "battery_low_text": "It read %1$s while parked. Drive for a while to charge it, or have it checked.",
+  "battery_very_low_text": "It read %1$s while parked. Have it charged or checked soon. If you won’t drive for a while, unplugging the OBD adapter helps.",
+  "battery_warn_title": "Warn about low battery voltage",
+  "battery_warn_description": "Notifies you when the voltage the adapter reads while the car is parked stays low. Some adapters read 0.2–0.3 V lower than the battery.",
+  "battery_low_label": "Warn at",
+  "battery_low_choice": "%1$s or lower",
+  "vehicle_battery": "Battery (parked): %1$s, %2$s",
+  "vehicle_battery_history": "History",
+  "battery_history_title": "%1$s battery voltage (parked)",
+  "battery_history_empty": "No readings in the last 30 days.",
+  "battery_history_note": "Readings taken 10 minutes or more after the engine was turned off, over the last 30 days.",
+  "premium_battery_history": "Battery voltage history is available with Premium."
 }
