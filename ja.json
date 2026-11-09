@@ -819,9 +819,9 @@
   "battery_warn_description": "止めている車でアダプターが読んだ電圧が続けて低いとき、通知で知らせます。アダプターによっては、実際より 0.2〜0.3 V 低く出ます。",
   "battery_low_label": "知らせる電圧",
   "battery_low_choice": "%1$s 以下",
-  "vehicle_battery": "バッテリー（止めているとき）：%1$s（%2$s）",
+  "vehicle_battery": "バッテリー（停止中）：%1$s（%2$s）",
   "vehicle_battery_history": "推移",
-  "battery_history_title": "%1$s のバッテリー電圧（止めているとき）",
+  "battery_history_title": "%1$s のバッテリー電圧（停止中）",
   "battery_history_empty": "直近 30 日の記録はありません。",
   "battery_history_note": "エンジンを止めて 10 分以上たってから読んだ値です（直近 30 日）。",
   "premium_battery_history": "バッテリー電圧の推移はプレミアムプランで見られます。"
