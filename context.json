@@ -807,5 +807,20 @@
   "battery_history_empty": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "battery_history_note": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "premium_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
-  "premium_replay_metrics": "Trip detail (replay graph metric chips, free plan)"
+  "premium_replay_metrics": "Trip detail (replay graph metric chips, free plan)",
+  "score_title": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
+  "score_no_deductions": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
+  "score_kind_count": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
+  "score_distance_note": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
+  "score_private": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
+  "score_short": "Trip list row: driving score (short)",
+  "eco_title": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_economy": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_better": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_worse": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_idle": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_fuel_cut": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_high_rpm": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_with_usual": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)",
+  "eco_note": "Trip detail: eco card (compares this trip with the usual for the same vehicle; not part of the score)"
 }

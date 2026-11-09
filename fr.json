@@ -841,5 +841,20 @@
   "battery_history_empty": "Aucune mesure ces 30 derniers jours.",
   "battery_history_note": "Mesures prises au moins 10 minutes après l’arrêt du moteur, sur les 30 derniers jours.",
   "premium_battery_history": "L’historique de la tension de batterie est disponible avec Premium.",
-  "premium_replay_metrics": "D’autres valeurs pour le graphique et les couleurs de la carte (accélérateur, charge moteur, liquide de refroidissement et altitude) sont disponibles avec Premium."
+  "premium_replay_metrics": "D’autres valeurs pour le graphique et les couleurs de la carte (accélérateur, charge moteur, liquide de refroidissement et altitude) sont disponibles avec Premium.",
+  "score_title": "Score de conduite",
+  "score_no_deductions": "Aucune pénalité. Conduite souple !",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "Sur les longs trajets, les pénalités sont ramenées à 10 km.",
+  "score_private": "Calculé uniquement sur cet appareil. Jamais envoyé.",
+  "score_short": "Score %1$d",
+  "eco_title": "Éco",
+  "eco_economy": "Consommation",
+  "eco_better": "%1$s mieux que d’habitude",
+  "eco_worse": "%1$s moins bien que d’habitude",
+  "eco_idle": "Ralenti",
+  "eco_fuel_cut": "Roue libre (coupure d’injection)",
+  "eco_high_rpm": "Régime élevé (dès %1$s tr/min)",
+  "eco_with_usual": "%1$s (habituellement %2$s)",
+  "eco_note": "Comparé à vos autres trajets avec ce véhicule. N’entre pas dans le score."
 }

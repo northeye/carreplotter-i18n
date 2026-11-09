@@ -829,5 +829,20 @@
   "battery_history_empty": "直近 30 日の記録はありません。",
   "battery_history_note": "エンジンを止めて 10 分以上たってから読んだ値です（直近 30 日）。",
   "premium_battery_history": "バッテリー電圧の推移はプレミアムプランで見られます。",
-  "premium_replay_metrics": "グラフと地図の色分けのほかの項目（アクセル・エンジン負荷・水温・標高）はプレミアムプランで使えます。"
+  "premium_replay_metrics": "グラフと地図の色分けのほかの項目（アクセル・エンジン負荷・水温・標高）はプレミアムプランで使えます。",
+  "score_title": "運転スコア",
+  "score_no_deductions": "減点なし。スムーズな運転でした",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "長い走行は、10 km あたりにならして減点しています。",
+  "score_private": "端末の中だけで計算しています。どこにも送りません。",
+  "score_short": "スコア %1$d",
+  "eco_title": "エコ",
+  "eco_economy": "燃費",
+  "eco_better": "いつもより %1$s 良い",
+  "eco_worse": "いつもより %1$s 悪い",
+  "eco_idle": "アイドリング",
+  "eco_fuel_cut": "惰性走行（燃料カット）",
+  "eco_high_rpm": "高回転（%1$s rpm 以上）",
+  "eco_with_usual": "%1$s（いつも %2$s）",
+  "eco_note": "同じ車両のほかの走行と比べています。スコアには入りません。"
 }

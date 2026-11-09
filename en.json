@@ -840,5 +840,20 @@
   "battery_history_empty": "No readings in the last 30 days.",
   "battery_history_note": "Readings taken 10 minutes or more after the engine was turned off, over the last 30 days.",
   "premium_battery_history": "Battery voltage history is available with Premium.",
-  "premium_replay_metrics": "More values for the graph and map colors (throttle, engine load, coolant and altitude) are available with Premium."
+  "premium_replay_metrics": "More values for the graph and map colors (throttle, engine load, coolant and altitude) are available with Premium.",
+  "score_title": "Driving score",
+  "score_no_deductions": "No deductions. Smooth driving!",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "Deductions on long trips are scaled to 10 km.",
+  "score_private": "Calculated only on this device. Never sent anywhere.",
+  "score_short": "Score %1$d",
+  "eco_title": "Eco",
+  "eco_economy": "Fuel economy",
+  "eco_better": "%1$s better than usual",
+  "eco_worse": "%1$s worse than usual",
+  "eco_idle": "Idling",
+  "eco_fuel_cut": "Coasting (fuel cut)",
+  "eco_high_rpm": "High RPM (%1$s rpm+)",
+  "eco_with_usual": "%1$s (usual %2$s)",
+  "eco_note": "Compared with your other trips in this vehicle. Not part of the score."
 }

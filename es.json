@@ -841,5 +841,20 @@
   "battery_history_empty": "No hay lecturas en los últimos 30 días.",
   "battery_history_note": "Lecturas tomadas al menos 10 minutos después de apagar el motor, en los últimos 30 días.",
   "premium_battery_history": "El historial de tensión de la batería está disponible con Premium.",
-  "premium_replay_metrics": "Más valores para el gráfico y los colores del mapa (acelerador, carga del motor, refrigerante y altitud) están disponibles con Premium."
+  "premium_replay_metrics": "Más valores para el gráfico y los colores del mapa (acelerador, carga del motor, refrigerante y altitud) están disponibles con Premium.",
+  "score_title": "Puntuación de conducción",
+  "score_no_deductions": "Sin penalizaciones. ¡Conducción suave!",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "En los viajes largos, las penalizaciones se ajustan a 10 km.",
+  "score_private": "Se calcula solo en este dispositivo. Nunca se envía a ningún sitio.",
+  "score_short": "Puntuación %1$d",
+  "eco_title": "Eco",
+  "eco_economy": "Consumo",
+  "eco_better": "%1$s mejor que de costumbre",
+  "eco_worse": "%1$s peor que de costumbre",
+  "eco_idle": "Ralentí",
+  "eco_fuel_cut": "Inercia (corte de combustible)",
+  "eco_high_rpm": "Altas RPM (desde %1$s rpm)",
+  "eco_with_usual": "%1$s (normalmente %2$s)",
+  "eco_note": "Comparado con tus otros viajes en este vehículo. No forma parte de la puntuación."
 }

@@ -829,5 +829,20 @@
   "battery_history_empty": "최근 30일 동안 기록이 없습니다.",
   "battery_history_note": "엔진을 끄고 10분 이상 지난 뒤 읽은 값입니다(최근 30일).",
   "premium_battery_history": "배터리 전압 추이는 프리미엄에서 볼 수 있습니다.",
-  "premium_replay_metrics": "그래프와 지도 색상의 다른 항목(가속 페달, 엔진 부하, 냉각수, 고도)은 프리미엄에서 사용할 수 있습니다."
+  "premium_replay_metrics": "그래프와 지도 색상의 다른 항목(가속 페달, 엔진 부하, 냉각수, 고도)은 프리미엄에서 사용할 수 있습니다.",
+  "score_title": "운전 점수",
+  "score_no_deductions": "감점 없음. 부드러운 운전이었습니다",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "긴 주행은 10km 기준으로 환산해 감점합니다.",
+  "score_private": "이 기기 안에서만 계산하며 어디에도 보내지 않습니다.",
+  "score_short": "점수 %1$d",
+  "eco_title": "에코",
+  "eco_economy": "연비",
+  "eco_better": "평소보다 %1$s 좋음",
+  "eco_worse": "평소보다 %1$s 나쁨",
+  "eco_idle": "공회전",
+  "eco_fuel_cut": "타력 주행(연료 차단)",
+  "eco_high_rpm": "고회전(%1$s rpm 이상)",
+  "eco_with_usual": "%1$s(평소 %2$s)",
+  "eco_note": "같은 차량의 다른 주행과 비교합니다. 점수에는 포함되지 않습니다."
 }

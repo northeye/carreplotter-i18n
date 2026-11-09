@@ -840,5 +840,20 @@
   "battery_history_empty": "Keine Messwerte in den letzten 30 Tagen.",
   "battery_history_note": "Messwerte mindestens 10 Minuten nach dem Abstellen des Motors, letzte 30 Tage.",
   "premium_battery_history": "Der Verlauf der Batteriespannung ist mit Premium verfügbar.",
-  "premium_replay_metrics": "Weitere Werte für Diagramm und Kartenfarben (Gaspedal, Motorlast, Kühlmittel und Höhe) gibt es mit Premium."
+  "premium_replay_metrics": "Weitere Werte für Diagramm und Kartenfarben (Gaspedal, Motorlast, Kühlmittel und Höhe) gibt es mit Premium.",
+  "score_title": "Fahrbewertung",
+  "score_no_deductions": "Keine Abzüge. Sanft gefahren!",
+  "score_kind_count": "%1$s ×%2$d",
+  "score_distance_note": "Abzüge bei langen Fahrten werden auf 10 km umgerechnet.",
+  "score_private": "Wird nur auf diesem Gerät berechnet und nirgendwohin gesendet.",
+  "score_short": "Bewertung %1$d",
+  "eco_title": "Eco",
+  "eco_economy": "Verbrauch",
+  "eco_better": "%1$s besser als sonst",
+  "eco_worse": "%1$s schlechter als sonst",
+  "eco_idle": "Leerlauf",
+  "eco_fuel_cut": "Rollen (Schubabschaltung)",
+  "eco_high_rpm": "Hohe Drehzahl (ab %1$s U/min)",
+  "eco_with_usual": "%1$s (sonst %2$s)",
+  "eco_note": "Verglichen mit deinen anderen Fahrten mit diesem Fahrzeug. Nicht Teil der Bewertung."
 }
