@@ -882,7 +882,7 @@
   "fuel_partial": "(가득 아님)",
   "fuel_overall": "실연비",
   "fuel_estimated": "추정 연비",
-  "fuel_overall_note": "가득 주유법(가득 주유 사이의 구간). 추정 연비는 같은 구간에 기록한 주행에서 구한 값입니다.",
+  "fuel_overall_note": "가득 주유법(가득 주유 사이 구간의 합계). 추정 연비는 그중 주행을 기록한 구간의 추정값입니다.",
   "fuel_interval_odometer": "주행거리계로 %1$s",
   "fuel_interval_trips": "기록한 주행에서 %1$s",
   "fuel_vs_estimate_more": "추정보다 %1$d%% 많이 사용",

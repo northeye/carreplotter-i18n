@@ -893,7 +893,7 @@
   "fuel_partial": "(partial)",
   "fuel_overall": "Actual fuel economy",
   "fuel_estimated": "Estimated fuel economy",
-  "fuel_overall_note": "Full-tank method, over the intervals between full fill-ups. Estimated: the same intervals, from your recorded trips.",
+  "fuel_overall_note": "Full-tank method: all intervals between full fill-ups. Estimated: the intervals with recorded trips, from those trips.",
   "fuel_interval_odometer": "%1$s by odometer",
   "fuel_interval_trips": "%1$s from recorded trips",
   "fuel_vs_estimate_more": "Used %1$d%% more than estimated",

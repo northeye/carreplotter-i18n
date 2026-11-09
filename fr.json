@@ -894,7 +894,7 @@
   "fuel_partial": "(partiel)",
   "fuel_overall": "Consommation réelle",
   "fuel_estimated": "Consommation estimée",
-  "fuel_overall_note": "Méthode du plein, sur les intervalles entre pleins complets. Estimée : les mêmes intervalles, d’après vos trajets enregistrés.",
+  "fuel_overall_note": "Méthode du plein : tous les intervalles entre pleins complets. Estimée : les intervalles avec des trajets enregistrés, d’après ces trajets.",
   "fuel_interval_odometer": "%1$s au compteur",
   "fuel_interval_trips": "%1$s d’après les trajets enregistrés",
   "fuel_vs_estimate_more": "%1$d %% de plus que l’estimation",

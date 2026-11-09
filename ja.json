@@ -882,7 +882,7 @@
   "fuel_partial": "（満タンでない）",
   "fuel_overall": "実燃費",
   "fuel_estimated": "推定燃費",
-  "fuel_overall_note": "満タン法（満タンから満タンまでの区間）。推定燃費は同じ区間に記録した走行からの値です。",
+  "fuel_overall_note": "満タン法（満タンから満タンまでの区間の合計）。推定燃費は、そのうち走行を記録した区間の推定の値です。",
   "fuel_interval_odometer": "走行距離計で %1$s",
   "fuel_interval_trips": "記録した走行から %1$s",
   "fuel_vs_estimate_more": "推定より %1$d%% 多く使っていました",

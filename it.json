@@ -894,7 +894,7 @@
   "fuel_partial": "(non pieno)",
   "fuel_overall": "Consumo reale",
   "fuel_estimated": "Consumo stimato",
-  "fuel_overall_note": "Metodo del pieno, sui tratti tra un pieno e l’altro. Stimato: gli stessi tratti, dai viaggi registrati.",
+  "fuel_overall_note": "Metodo del pieno: tutti i tratti tra un pieno e l’altro. Stimato: i tratti con viaggi registrati, da quei viaggi.",
   "fuel_interval_odometer": "%1$s da contachilometri",
   "fuel_interval_trips": "%1$s dai viaggi registrati",
   "fuel_vs_estimate_more": "Usato il %1$d%% in più della stima",

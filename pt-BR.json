@@ -894,7 +894,7 @@
   "fuel_partial": "(parcial)",
   "fuel_overall": "Consumo real",
   "fuel_estimated": "Consumo estimado",
-  "fuel_overall_note": "Método do tanque cheio, nos trechos entre tanques cheios. Estimado: os mesmos trechos, a partir das viagens gravadas.",
+  "fuel_overall_note": "Método do tanque cheio: todos os trechos entre tanques cheios. Estimado: os trechos com viagens gravadas, a partir dessas viagens.",
   "fuel_interval_odometer": "%1$s pelo hodômetro",
   "fuel_interval_trips": "%1$s das viagens gravadas",
   "fuel_vs_estimate_more": "Usou %1$d%% a mais que o estimado",

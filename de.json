@@ -893,7 +893,7 @@
   "fuel_partial": "(nicht voll)",
   "fuel_overall": "Tatsächlicher Verbrauch",
   "fuel_estimated": "Geschätzter Verbrauch",
-  "fuel_overall_note": "Vollbetankungsmethode über die Abschnitte zwischen Vollbetankungen. Geschätzt: dieselben Abschnitte aus deinen aufgezeichneten Fahrten.",
+  "fuel_overall_note": "Vollbetankungsmethode: alle Abschnitte zwischen Vollbetankungen. Geschätzt: die Abschnitte mit aufgezeichneten Fahrten, aus diesen Fahrten.",
   "fuel_interval_odometer": "%1$s laut Kilometerstand",
   "fuel_interval_trips": "%1$s aus aufgezeichneten Fahrten",
   "fuel_vs_estimate_more": "%1$d %% mehr verbraucht als geschätzt",
