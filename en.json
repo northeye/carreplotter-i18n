@@ -869,5 +869,8 @@
   "event_display_high": "High only",
   "score_hidden": "Not shown on the map",
   "map_view_3d": "Show the map in 3D",
-  "map_view_2d": "Show the map from above"
+  "map_view_2d": "Show the map from above",
+  "replay_not_recording": "GPS was not being recorded in this section (position is estimated)",
+  "route_gap_weak_signal": "Dashed line: weak GPS signal (tunnel, under a roof, etc.), joined with a straight line",
+  "route_gap_not_recording": "Gray dotted line: GPS was not being recorded (location permission or setting), joined with a straight line"
 }

@@ -858,5 +858,8 @@
   "event_display_high": "高だけ",
   "score_hidden": "地図に出していません",
   "map_view_3d": "地図を立体で表示",
-  "map_view_2d": "地図を真上から表示"
+  "map_view_2d": "地図を真上から表示",
+  "replay_not_recording": "GPS を記録していなかった区間です（位置は推定）",
+  "route_gap_weak_signal": "点線：GPS の電波が弱かった区間（トンネル・屋根の下など）。直線で結んでいます",
+  "route_gap_not_recording": "灰色の細かい点線：GPS を記録していなかった区間（位置情報の許可・設定）。直線で結んでいます"
 }

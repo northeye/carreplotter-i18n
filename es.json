@@ -870,5 +870,8 @@
   "event_display_high": "Solo alto",
   "score_hidden": "No se muestra en el mapa",
   "map_view_3d": "Ver el mapa en 3D",
-  "map_view_2d": "Ver el mapa desde arriba"
+  "map_view_2d": "Ver el mapa desde arriba",
+  "replay_not_recording": "En este tramo no se grababa el GPS (posición estimada)",
+  "route_gap_weak_signal": "Línea discontinua: señal GPS débil (túnel, bajo techo, etc.), unida con una línea recta",
+  "route_gap_not_recording": "Línea gris punteada: no se grababa el GPS (permiso o ajuste de ubicación), unida con una línea recta"
 }

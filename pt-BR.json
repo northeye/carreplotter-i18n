@@ -870,5 +870,8 @@
   "event_display_high": "Só alto",
   "score_hidden": "Não exibido no mapa",
   "map_view_3d": "Ver o mapa em 3D",
-  "map_view_2d": "Ver o mapa de cima"
+  "map_view_2d": "Ver o mapa de cima",
+  "replay_not_recording": "O GPS não estava sendo gravado neste trecho (posição estimada)",
+  "route_gap_weak_signal": "Linha tracejada: sinal de GPS fraco (túnel, sob um teto etc.), ligada por uma linha reta",
+  "route_gap_not_recording": "Linha cinza pontilhada: o GPS não estava sendo gravado (permissão ou ajuste de localização), ligada por uma linha reta"
 }

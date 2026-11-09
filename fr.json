@@ -870,5 +870,8 @@
   "event_display_high": "Élevé seulement",
   "score_hidden": "Non affiché sur la carte",
   "map_view_3d": "Afficher la carte en 3D",
-  "map_view_2d": "Afficher la carte vue du dessus"
+  "map_view_2d": "Afficher la carte vue du dessus",
+  "replay_not_recording": "Le GPS n’était pas enregistré sur ce tronçon (position estimée)",
+  "route_gap_weak_signal": "Tirets : signal GPS faible (tunnel, sous un toit, etc.), relié par une ligne droite",
+  "route_gap_not_recording": "Pointillés gris : GPS non enregistré (autorisation ou réglage de localisation), relié par une ligne droite"
 }

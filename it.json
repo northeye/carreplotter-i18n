@@ -870,5 +870,8 @@
   "event_display_high": "Solo alto",
   "score_hidden": "Non mostrato sulla mappa",
   "map_view_3d": "Mostra la mappa in 3D",
-  "map_view_2d": "Mostra la mappa dall’alto"
+  "map_view_2d": "Mostra la mappa dall’alto",
+  "replay_not_recording": "In questo tratto il GPS non veniva registrato (posizione stimata)",
+  "route_gap_weak_signal": "Linea tratteggiata: segnale GPS debole (galleria, sotto un tetto, ecc.), unita con una linea retta",
+  "route_gap_not_recording": "Linea grigia punteggiata: GPS non registrato (autorizzazione o impostazione della posizione), unita con una linea retta"
 }

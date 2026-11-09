@@ -836,5 +836,8 @@
   "event_display_high": "Settings: driving events, choice of levels to show",
   "score_hidden": "Trip detail: driving score card, line for a level hidden by the display setting",
   "map_view_3d": "Trip detail replay map: 2D/3D toggle button (accessibility description)",
-  "map_view_2d": "Trip detail replay map: 2D/3D toggle button (accessibility description)"
+  "map_view_2d": "Trip detail replay map: 2D/3D toggle button (accessibility description)",
+  "replay_not_recording": "Trip detail replay: notice when the car position is estimated because GPS was not being recorded",
+  "route_gap_weak_signal": "Trip detail map legend: meaning of the dashed route line",
+  "route_gap_not_recording": "Trip detail map legend: meaning of the gray dotted route line"
 }

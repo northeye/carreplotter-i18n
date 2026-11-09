@@ -869,5 +869,8 @@
   "event_display_high": "Nur hoch",
   "score_hidden": "Nicht auf der Karte angezeigt",
   "map_view_3d": "Karte in 3D anzeigen",
-  "map_view_2d": "Karte von oben anzeigen"
+  "map_view_2d": "Karte von oben anzeigen",
+  "replay_not_recording": "In diesem Abschnitt wurde kein GPS aufgezeichnet (Position geschätzt)",
+  "route_gap_weak_signal": "Gestrichelt: schwaches GPS-Signal (Tunnel, unter Dach usw.), mit einer geraden Linie verbunden",
+  "route_gap_not_recording": "Grau gepunktet: kein GPS aufgezeichnet (Standortberechtigung oder -einstellung), mit einer geraden Linie verbunden"
 }

@@ -858,5 +858,8 @@
   "event_display_high": "높음만",
   "score_hidden": "지도에 표시하지 않음",
   "map_view_3d": "지도를 3D로 표시",
-  "map_view_2d": "지도를 위에서 표시"
+  "map_view_2d": "지도를 위에서 표시",
+  "replay_not_recording": "GPS를 기록하지 않은 구간입니다(위치는 추정)",
+  "route_gap_weak_signal": "점선: GPS 신호가 약했던 구간(터널·지붕 아래 등). 직선으로 이었습니다",
+  "route_gap_not_recording": "회색 잔 점선: GPS를 기록하지 않은 구간(위치 권한·설정). 직선으로 이었습니다"
 }
