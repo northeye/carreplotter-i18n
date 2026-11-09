@@ -867,5 +867,7 @@
   "event_display_low": "Low and up",
   "event_display_mid": "Medium and up",
   "event_display_high": "High only",
-  "score_hidden": "Not shown on the map"
+  "score_hidden": "Not shown on the map",
+  "map_view_3d": "Show the map in 3D",
+  "map_view_2d": "Show the map from above"
 }

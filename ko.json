@@ -856,5 +856,7 @@
   "event_display_low": "낮음부터",
   "event_display_mid": "중간부터",
   "event_display_high": "높음만",
-  "score_hidden": "지도에 표시하지 않음"
+  "score_hidden": "지도에 표시하지 않음",
+  "map_view_3d": "지도를 3D로 표시",
+  "map_view_2d": "지도를 위에서 표시"
 }

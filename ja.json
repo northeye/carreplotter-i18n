@@ -856,5 +856,7 @@
   "event_display_low": "低から",
   "event_display_mid": "中から",
   "event_display_high": "高だけ",
-  "score_hidden": "地図に出していません"
+  "score_hidden": "地図に出していません",
+  "map_view_3d": "地図を立体で表示",
+  "map_view_2d": "地図を真上から表示"
 }
