@@ -911,5 +911,7 @@
   "premium_fuel_correction": "Correggere il consumo stimato con i rifornimenti è disponibile con Premium. Registrare i rifornimenti e confrontarli con la stima è gratuito.",
   "fuel_grade_regular": "Benzina",
   "fuel_grade_premium": "Benzina 100 ottani",
-  "fuel_grade_diesel": "Gasolio"
+  "fuel_grade_diesel": "Gasolio",
+  "fuel_chart_title": "Consumo reale per rifornimento",
+  "fuel_chart_average": "Media %1$s"
 }

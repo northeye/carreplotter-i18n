@@ -911,5 +911,7 @@
   "premium_fuel_correction": "Corregir el consumo estimado con tus repostajes está disponible con Premium. Registrar repostajes y compararlos con el estimado es gratis.",
   "fuel_grade_regular": "Normal",
   "fuel_grade_premium": "Súper",
-  "fuel_grade_diesel": "Diésel"
+  "fuel_grade_diesel": "Diésel",
+  "fuel_chart_title": "Consumo real por repostaje",
+  "fuel_chart_average": "Media %1$s"
 }

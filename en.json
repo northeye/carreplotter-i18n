@@ -910,5 +910,7 @@
   "premium_fuel_correction": "Correcting the estimated fuel economy with your fill-ups is available with Premium. Recording fill-ups and comparing with the estimate are free.",
   "fuel_grade_regular": "Regular",
   "fuel_grade_premium": "Premium",
-  "fuel_grade_diesel": "Diesel"
+  "fuel_grade_diesel": "Diesel",
+  "fuel_chart_title": "Actual fuel economy per fill-up",
+  "fuel_chart_average": "Average %1$s"
 }

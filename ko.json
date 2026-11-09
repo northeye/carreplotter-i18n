@@ -899,5 +899,7 @@
   "premium_fuel_correction": "주유 기록으로 추정 연비를 보정하는 기능은 프리미엄에서 사용할 수 있습니다. 주유 기록과 추정과의 비교는 무료입니다.",
   "fuel_grade_regular": "일반 휘발유",
   "fuel_grade_premium": "고급 휘발유",
-  "fuel_grade_diesel": "경유"
+  "fuel_grade_diesel": "경유",
+  "fuel_chart_title": "주유별 실연비",
+  "fuel_chart_average": "평균 %1$s"
 }

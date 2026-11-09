@@ -910,5 +910,7 @@
   "premium_fuel_correction": "Die Korrektur des geschätzten Verbrauchs anhand deiner Tankvorgänge gibt es mit Premium. Tankvorgänge erfassen und mit der Schätzung vergleichen ist kostenlos.",
   "fuel_grade_regular": "Normal",
   "fuel_grade_premium": "Super Plus",
-  "fuel_grade_diesel": "Diesel"
+  "fuel_grade_diesel": "Diesel",
+  "fuel_chart_title": "Tatsächlicher Verbrauch je Tankvorgang",
+  "fuel_chart_average": "Durchschnitt %1$s"
 }
