@@ -912,5 +912,13 @@
   "fuel_grade_premium": "Premium",
   "fuel_grade_diesel": "Diesel",
   "fuel_chart_title": "Actual fuel economy per fill-up",
-  "fuel_chart_average": "Average %1$s"
+  "fuel_chart_average": "Average %1$s",
+  "weather_settings_title": "Weather",
+  "weather_switch": "Record the weather on trips",
+  "weather_description": "Records the weather at the start, breaks and end of each trip. The location of those points, rounded to about 1 km, is sent to MET Norway (the Norwegian Meteorological Institute). Your route is never sent.",
+  "weather_title": "Weather",
+  "weather_start": "Start",
+  "weather_break": "Break",
+  "weather_end": "End",
+  "weather_attribution": "Weather data: MET Norway (CC BY 4.0)"
 }

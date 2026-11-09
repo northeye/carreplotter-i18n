@@ -913,5 +913,13 @@
   "fuel_grade_premium": "Sans plomb 98",
   "fuel_grade_diesel": "Gazole",
   "fuel_chart_title": "Consommation réelle par plein",
-  "fuel_chart_average": "Moyenne %1$s"
+  "fuel_chart_average": "Moyenne %1$s",
+  "weather_settings_title": "Météo",
+  "weather_switch": "Enregistrer la météo des trajets",
+  "weather_description": "Enregistre la météo au départ, aux pauses et à l’arrivée de chaque trajet. La position de ces points, arrondie à environ 1 km, est envoyée à MET Norway (Institut météorologique norvégien). Votre itinéraire n’est jamais envoyé.",
+  "weather_title": "Météo",
+  "weather_start": "Départ",
+  "weather_break": "Pause",
+  "weather_end": "Arrivée",
+  "weather_attribution": "Données météo : MET Norway (CC BY 4.0)"
 }

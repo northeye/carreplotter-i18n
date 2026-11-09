@@ -901,5 +901,13 @@
   "fuel_grade_premium": "고급 휘발유",
   "fuel_grade_diesel": "경유",
   "fuel_chart_title": "주유별 실연비",
-  "fuel_chart_average": "평균 %1$s"
+  "fuel_chart_average": "평균 %1$s",
+  "weather_settings_title": "날씨",
+  "weather_switch": "주행 중 날씨 기록",
+  "weather_description": "출발·휴식·도착 때의 날씨를 주행에 남깁니다. 그때의 위치(약 1km로 반올림)를 MET Norway(노르웨이 기상청)에 보냅니다. 주행 경로는 보내지 않습니다.",
+  "weather_title": "날씨",
+  "weather_start": "출발",
+  "weather_break": "휴식",
+  "weather_end": "도착",
+  "weather_attribution": "날씨 데이터: MET Norway(CC BY 4.0)"
 }

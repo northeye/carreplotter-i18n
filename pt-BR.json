@@ -913,5 +913,13 @@
   "fuel_grade_premium": "Aditivada/Premium",
   "fuel_grade_diesel": "Diesel",
   "fuel_chart_title": "Consumo real por abastecimento",
-  "fuel_chart_average": "Média %1$s"
+  "fuel_chart_average": "Média %1$s",
+  "weather_settings_title": "Clima",
+  "weather_switch": "Registrar o clima nas viagens",
+  "weather_description": "Registra o clima no início, nas pausas e no fim de cada viagem. A localização desses pontos, arredondada para cerca de 1 km, é enviada ao MET Norway (Instituto Meteorológico da Noruega). Seu trajeto nunca é enviado.",
+  "weather_title": "Clima",
+  "weather_start": "Início",
+  "weather_break": "Pausa",
+  "weather_end": "Fim",
+  "weather_attribution": "Dados do clima: MET Norway (CC BY 4.0)"
 }

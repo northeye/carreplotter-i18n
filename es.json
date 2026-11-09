@@ -913,5 +913,13 @@
   "fuel_grade_premium": "Súper",
   "fuel_grade_diesel": "Diésel",
   "fuel_chart_title": "Consumo real por repostaje",
-  "fuel_chart_average": "Media %1$s"
+  "fuel_chart_average": "Media %1$s",
+  "weather_settings_title": "Tiempo",
+  "weather_switch": "Registrar el tiempo en los viajes",
+  "weather_description": "Registra el tiempo al inicio, en las pausas y al final de cada viaje. La ubicación de esos puntos, redondeada a unos 1 km, se envía a MET Norway (Instituto Meteorológico de Noruega). Tu ruta nunca se envía.",
+  "weather_title": "Tiempo",
+  "weather_start": "Inicio",
+  "weather_break": "Pausa",
+  "weather_end": "Fin",
+  "weather_attribution": "Datos del tiempo: MET Norway (CC BY 4.0)"
 }

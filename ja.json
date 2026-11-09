@@ -901,5 +901,13 @@
   "fuel_grade_premium": "ハイオク",
   "fuel_grade_diesel": "ディーゼル",
   "fuel_chart_title": "給油ごとの実燃費",
-  "fuel_chart_average": "平均 %1$s"
+  "fuel_chart_average": "平均 %1$s",
+  "weather_settings_title": "天気",
+  "weather_switch": "走行時の天気を記録する",
+  "weather_description": "出発・休憩・到着のときの天気を走行に残します。そのときの位置（約 1 km に丸めたもの）を MET Norway（ノルウェー気象局）に送ります。走行のルートは送りません。",
+  "weather_title": "天気",
+  "weather_start": "出発",
+  "weather_break": "休憩",
+  "weather_end": "到着",
+  "weather_attribution": "天気のデータ：MET Norway（CC BY 4.0）"
 }

@@ -879,5 +879,13 @@
   "fuel_grade_premium": "Fuel log entry: fuel grade (high-octane gasoline). Not the app's Premium plan",
   "fuel_grade_diesel": "Fuel log entry: fuel grade (diesel)",
   "fuel_chart_title": "Fuel log: chart of actual fuel economy for each full-to-full interval",
-  "fuel_chart_average": "Fuel log chart: overall average (dashed line)"
+  "fuel_chart_average": "Fuel log chart: overall average (dashed line)",
+  "weather_settings_title": "Settings: places & addresses, weather section header",
+  "weather_switch": "Settings: switch to record weather on trips (off by default)",
+  "weather_description": "Settings: explanation of what location is sent for weather",
+  "weather_title": "Trip detail: weather card title",
+  "weather_start": "Trip detail weather card: trip start",
+  "weather_break": "Trip detail weather card: break",
+  "weather_end": "Trip detail weather card: trip end",
+  "weather_attribution": "Trip detail weather card: data attribution (required by the license)"
 }

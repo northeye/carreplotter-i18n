@@ -913,5 +913,13 @@
   "fuel_grade_premium": "Benzina 100 ottani",
   "fuel_grade_diesel": "Gasolio",
   "fuel_chart_title": "Consumo reale per rifornimento",
-  "fuel_chart_average": "Media %1$s"
+  "fuel_chart_average": "Media %1$s",
+  "weather_settings_title": "Meteo",
+  "weather_switch": "Registra il meteo dei viaggi",
+  "weather_description": "Registra il meteo alla partenza, alle pause e all’arrivo di ogni viaggio. La posizione di questi punti, arrotondata a circa 1 km, viene inviata a MET Norway (Istituto meteorologico norvegese). Il percorso non viene mai inviato.",
+  "weather_title": "Meteo",
+  "weather_start": "Partenza",
+  "weather_break": "Pausa",
+  "weather_end": "Arrivo",
+  "weather_attribution": "Dati meteo: MET Norway (CC BY 4.0)"
 }

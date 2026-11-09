@@ -912,5 +912,13 @@
   "fuel_grade_premium": "Super Plus",
   "fuel_grade_diesel": "Diesel",
   "fuel_chart_title": "Tatsächlicher Verbrauch je Tankvorgang",
-  "fuel_chart_average": "Durchschnitt %1$s"
+  "fuel_chart_average": "Durchschnitt %1$s",
+  "weather_settings_title": "Wetter",
+  "weather_switch": "Wetter bei Fahrten aufzeichnen",
+  "weather_description": "Zeichnet das Wetter bei Start, Pausen und Ende jeder Fahrt auf. Der Standort dieser Punkte, auf etwa 1 km gerundet, wird an MET Norway (Norwegisches Meteorologisches Institut) gesendet. Deine Route wird nie gesendet.",
+  "weather_title": "Wetter",
+  "weather_start": "Start",
+  "weather_break": "Pause",
+  "weather_end": "Ende",
+  "weather_attribution": "Wetterdaten: MET Norway (CC BY 4.0)"
 }
