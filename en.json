@@ -906,5 +906,8 @@
   "fuel_correction_stop": "Stop correcting",
   "fuel_empty_title": "No fill-ups yet",
   "fuel_empty_text": "Record each fill-up to see your actual fuel economy (full-tank method) and how it compares with the estimate.",
-  "premium_fuel_correction": "Correcting the estimated fuel economy with your fill-ups is available with Premium. Recording fill-ups and comparing with the estimate are free."
+  "premium_fuel_correction": "Correcting the estimated fuel economy with your fill-ups is available with Premium. Recording fill-ups and comparing with the estimate are free.",
+  "fuel_grade_regular": "Regular",
+  "fuel_grade_premium": "Premium",
+  "fuel_grade_diesel": "Diesel"
 }

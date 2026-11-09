@@ -907,5 +907,8 @@
   "fuel_correction_stop": "Interrompi la correzione",
   "fuel_empty_title": "Ancora nessun rifornimento",
   "fuel_empty_text": "Registra ogni rifornimento per vedere il consumo reale (metodo del pieno) e il confronto con la stima.",
-  "premium_fuel_correction": "Correggere il consumo stimato con i rifornimenti è disponibile con Premium. Registrare i rifornimenti e confrontarli con la stima è gratuito."
+  "premium_fuel_correction": "Correggere il consumo stimato con i rifornimenti è disponibile con Premium. Registrare i rifornimenti e confrontarli con la stima è gratuito.",
+  "fuel_grade_regular": "Benzina",
+  "fuel_grade_premium": "Benzina 100 ottani",
+  "fuel_grade_diesel": "Gasolio"
 }

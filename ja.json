@@ -895,5 +895,8 @@
   "fuel_correction_stop": "補正をやめる",
   "fuel_empty_title": "まだ給油の記録がありません",
   "fuel_empty_text": "給油のたびに記録すると、満タン法の実燃費と、推定燃費とのずれが分かります。",
-  "premium_fuel_correction": "給油記録で推定燃費を補正するのはプレミアムプランで使えます。給油の記録と推定との比較は無料です。"
+  "premium_fuel_correction": "給油記録で推定燃費を補正するのはプレミアムプランで使えます。給油の記録と推定との比較は無料です。",
+  "fuel_grade_regular": "レギュラー",
+  "fuel_grade_premium": "ハイオク",
+  "fuel_grade_diesel": "ディーゼル"
 }

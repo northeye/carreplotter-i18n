@@ -873,5 +873,8 @@
   "fuel_correction_stop": "Fuel log: correction of estimated fuel economy from fill-ups (full-tank method)",
   "fuel_empty_title": "Fuel log: empty state",
   "fuel_empty_text": "Fuel log: empty state",
-  "premium_fuel_correction": "Fuel log: Premium notice"
+  "premium_fuel_correction": "Fuel log: Premium notice",
+  "fuel_grade_regular": "Fuel log entry: fuel grade (regular gasoline)",
+  "fuel_grade_premium": "Fuel log entry: fuel grade (high-octane gasoline). Not the app's Premium plan",
+  "fuel_grade_diesel": "Fuel log entry: fuel grade (diesel)"
 }

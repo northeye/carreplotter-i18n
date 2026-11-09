@@ -895,5 +895,8 @@
   "fuel_correction_stop": "보정 그만두기",
   "fuel_empty_title": "아직 주유 기록이 없습니다",
   "fuel_empty_text": "주유할 때마다 기록하면 가득 주유법의 실연비와 추정 연비와의 차이를 알 수 있습니다.",
-  "premium_fuel_correction": "주유 기록으로 추정 연비를 보정하는 기능은 프리미엄에서 사용할 수 있습니다. 주유 기록과 추정과의 비교는 무료입니다."
+  "premium_fuel_correction": "주유 기록으로 추정 연비를 보정하는 기능은 프리미엄에서 사용할 수 있습니다. 주유 기록과 추정과의 비교는 무료입니다.",
+  "fuel_grade_regular": "일반 휘발유",
+  "fuel_grade_premium": "고급 휘발유",
+  "fuel_grade_diesel": "경유"
 }

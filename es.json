@@ -907,5 +907,8 @@
   "fuel_correction_stop": "Dejar de corregir",
   "fuel_empty_title": "Aún no hay repostajes",
   "fuel_empty_text": "Registra cada repostaje para ver tu consumo real (método de depósito lleno) y compararlo con el estimado.",
-  "premium_fuel_correction": "Corregir el consumo estimado con tus repostajes está disponible con Premium. Registrar repostajes y compararlos con el estimado es gratis."
+  "premium_fuel_correction": "Corregir el consumo estimado con tus repostajes está disponible con Premium. Registrar repostajes y compararlos con el estimado es gratis.",
+  "fuel_grade_regular": "Normal",
+  "fuel_grade_premium": "Súper",
+  "fuel_grade_diesel": "Diésel"
 }

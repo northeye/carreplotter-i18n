@@ -907,5 +907,8 @@
   "fuel_correction_stop": "Arrêter la correction",
   "fuel_empty_title": "Aucun plein pour l’instant",
   "fuel_empty_text": "Enregistrez chaque plein pour voir votre consommation réelle (méthode du plein) et la comparer à l’estimation.",
-  "premium_fuel_correction": "Corriger la consommation estimée avec vos pleins est disponible avec Premium. Enregistrer les pleins et les comparer à l’estimation est gratuit."
+  "premium_fuel_correction": "Corriger la consommation estimée avec vos pleins est disponible avec Premium. Enregistrer les pleins et les comparer à l’estimation est gratuit.",
+  "fuel_grade_regular": "Sans plomb 95",
+  "fuel_grade_premium": "Sans plomb 98",
+  "fuel_grade_diesel": "Gazole"
 }

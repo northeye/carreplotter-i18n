@@ -906,5 +906,8 @@
   "fuel_correction_stop": "Korrektur beenden",
   "fuel_empty_title": "Noch keine Tankvorgänge",
   "fuel_empty_text": "Erfasse jeden Tankvorgang, um den tatsächlichen Verbrauch (Vollbetankungsmethode) und den Vergleich mit der Schätzung zu sehen.",
-  "premium_fuel_correction": "Die Korrektur des geschätzten Verbrauchs anhand deiner Tankvorgänge gibt es mit Premium. Tankvorgänge erfassen und mit der Schätzung vergleichen ist kostenlos."
+  "premium_fuel_correction": "Die Korrektur des geschätzten Verbrauchs anhand deiner Tankvorgänge gibt es mit Premium. Tankvorgänge erfassen und mit der Schätzung vergleichen ist kostenlos.",
+  "fuel_grade_regular": "Normal",
+  "fuel_grade_premium": "Super Plus",
+  "fuel_grade_diesel": "Diesel"
 }

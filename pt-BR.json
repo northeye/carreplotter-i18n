@@ -907,5 +907,8 @@
   "fuel_correction_stop": "Parar de corrigir",
   "fuel_empty_title": "Nenhum abastecimento ainda",
   "fuel_empty_text": "Registre cada abastecimento para ver o consumo real (método do tanque cheio) e a comparação com o estimado.",
-  "premium_fuel_correction": "Corrigir o consumo estimado com seus abastecimentos está disponível no Premium. Registrar abastecimentos e comparar com o estimado é grátis."
+  "premium_fuel_correction": "Corrigir o consumo estimado com seus abastecimentos está disponível no Premium. Registrar abastecimentos e comparar com o estimado é grátis.",
+  "fuel_grade_regular": "Comum",
+  "fuel_grade_premium": "Aditivada/Premium",
+  "fuel_grade_diesel": "Diesel"
 }
