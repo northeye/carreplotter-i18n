@@ -121,6 +121,10 @@
   "route_speed": "Speed",
   "route_rpm": "RPM",
   "route_fuel_economy": "Fuel economy",
+  "route_throttle": "Throttle",
+  "route_engine_load": "Engine load",
+  "route_coolant_temp": "Coolant",
+  "route_altitude": "Altitude",
   "theme_system": "System default",
   "theme_light": "Light",
   "theme_dark": "Dark",
@@ -835,5 +839,6 @@
   "battery_history_title": "%1$s battery voltage (parked)",
   "battery_history_empty": "No readings in the last 30 days.",
   "battery_history_note": "Readings taken 10 minutes or more after the engine was turned off, over the last 30 days.",
-  "premium_battery_history": "Battery voltage history is available with Premium."
+  "premium_battery_history": "Battery voltage history is available with Premium.",
+  "premium_replay_metrics": "More values for the graph and map colors (throttle, engine load, coolant and altitude) are available with Premium."
 }

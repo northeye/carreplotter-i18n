@@ -121,6 +121,10 @@
   "route_speed": "Velocidade",
   "route_rpm": "RPM",
   "route_fuel_economy": "Consumo",
+  "route_throttle": "Acelerador",
+  "route_engine_load": "Carga do motor",
+  "route_coolant_temp": "Arrefecimento",
+  "route_altitude": "Altitude",
   "theme_system": "Padrão do sistema",
   "theme_light": "Claro",
   "theme_dark": "Escuro",
@@ -836,5 +840,6 @@
   "battery_history_title": "Tensão da bateria de %1$s (estacionado)",
   "battery_history_empty": "Nenhuma leitura nos últimos 30 dias.",
   "battery_history_note": "Leituras feitas pelo menos 10 minutos após desligar o motor, nos últimos 30 dias.",
-  "premium_battery_history": "O histórico da tensão da bateria está disponível no Premium."
+  "premium_battery_history": "O histórico da tensão da bateria está disponível no Premium.",
+  "premium_replay_metrics": "Mais valores para o gráfico e as cores do mapa (acelerador, carga do motor, arrefecimento e altitude) estão disponíveis no Premium."
 }

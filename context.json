@@ -121,6 +121,10 @@
   "route_speed": "Names of values, events, choices and connection errors",
   "route_rpm": "Names of values, events, choices and connection errors",
   "route_fuel_economy": "Names of values, events, choices and connection errors",
+  "route_throttle": "Names of values, events, choices and connection errors (short chip label: replay graph and route color metric)",
+  "route_engine_load": "Names of values, events, choices and connection errors (short chip label: replay graph and route color metric)",
+  "route_coolant_temp": "Names of values, events, choices and connection errors (short chip label: replay graph and route color metric)",
+  "route_altitude": "Names of values, events, choices and connection errors (short chip label: replay graph and route color metric)",
   "theme_system": "Names of values, events, choices and connection errors",
   "theme_light": "Names of values, events, choices and connection errors",
   "theme_dark": "Names of values, events, choices and connection errors",
@@ -802,5 +806,6 @@
   "battery_history_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "battery_history_empty": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "battery_history_note": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
-  "premium_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification"
+  "premium_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "premium_replay_metrics": "Trip detail (replay graph metric chips, free plan)"
 }

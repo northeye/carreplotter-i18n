@@ -121,6 +121,10 @@
   "route_speed": "Geschwindigkeit",
   "route_rpm": "Drehzahl",
   "route_fuel_economy": "Verbrauch",
+  "route_throttle": "Gaspedal",
+  "route_engine_load": "Motorlast",
+  "route_coolant_temp": "Kühlmittel",
+  "route_altitude": "Höhe",
   "theme_system": "Systemstandard",
   "theme_light": "Hell",
   "theme_dark": "Dunkel",
@@ -835,5 +839,6 @@
   "battery_history_title": "Batteriespannung %1$s (geparkt)",
   "battery_history_empty": "Keine Messwerte in den letzten 30 Tagen.",
   "battery_history_note": "Messwerte mindestens 10 Minuten nach dem Abstellen des Motors, letzte 30 Tage.",
-  "premium_battery_history": "Der Verlauf der Batteriespannung ist mit Premium verfügbar."
+  "premium_battery_history": "Der Verlauf der Batteriespannung ist mit Premium verfügbar.",
+  "premium_replay_metrics": "Weitere Werte für Diagramm und Kartenfarben (Gaspedal, Motorlast, Kühlmittel und Höhe) gibt es mit Premium."
 }

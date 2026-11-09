@@ -121,6 +121,10 @@
   "route_speed": "속도",
   "route_rpm": "RPM",
   "route_fuel_economy": "연비",
+  "route_throttle": "가속 페달",
+  "route_engine_load": "엔진 부하",
+  "route_coolant_temp": "냉각수",
+  "route_altitude": "고도",
   "theme_system": "시스템 기본값",
   "theme_light": "라이트",
   "theme_dark": "다크",
@@ -824,5 +828,6 @@
   "battery_history_title": "%1$s 배터리 전압(주차 중)",
   "battery_history_empty": "최근 30일 동안 기록이 없습니다.",
   "battery_history_note": "엔진을 끄고 10분 이상 지난 뒤 읽은 값입니다(최근 30일).",
-  "premium_battery_history": "배터리 전압 추이는 프리미엄에서 볼 수 있습니다."
+  "premium_battery_history": "배터리 전압 추이는 프리미엄에서 볼 수 있습니다.",
+  "premium_replay_metrics": "그래프와 지도 색상의 다른 항목(가속 페달, 엔진 부하, 냉각수, 고도)은 프리미엄에서 사용할 수 있습니다."
 }

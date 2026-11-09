@@ -121,6 +121,10 @@
   "route_speed": "速度",
   "route_rpm": "回転数",
   "route_fuel_economy": "燃費",
+  "route_throttle": "アクセル",
+  "route_engine_load": "エンジン負荷",
+  "route_coolant_temp": "水温",
+  "route_altitude": "標高",
   "theme_system": "システムに合わせる",
   "theme_light": "ライト",
   "theme_dark": "ダーク",
@@ -824,5 +828,6 @@
   "battery_history_title": "%1$s のバッテリー電圧（停止中）",
   "battery_history_empty": "直近 30 日の記録はありません。",
   "battery_history_note": "エンジンを止めて 10 分以上たってから読んだ値です（直近 30 日）。",
-  "premium_battery_history": "バッテリー電圧の推移はプレミアムプランで見られます。"
+  "premium_battery_history": "バッテリー電圧の推移はプレミアムプランで見られます。",
+  "premium_replay_metrics": "グラフと地図の色分けのほかの項目（アクセル・エンジン負荷・水温・標高）はプレミアムプランで使えます。"
 }
