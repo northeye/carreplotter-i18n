@@ -213,6 +213,8 @@
   "settings_items_developer": "Settings screen (list of items in the category)",
   "adapters_title": "Settings screen",
   "adapters_description": "Settings screen",
+  "connect_on_open_switch": "Settings > Connection: switch to connect to the last adapter when the app is opened (on by default)",
+  "connect_on_open_description": "Settings > Connection: explanation of the connect-on-open switch",
   "adapters_empty": "Settings screen",
   "adapter_last_connected": "Settings screen",
   "adapter_vehicles": "Settings screen",
