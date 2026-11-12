@@ -1,0 +1,24 @@
+# site/ の文言が main で更新されたら、確かめたうえで carreplotter-docs にページの作り直しを頼む
+# （carreplotter-docs の .github/workflows/translations.yml が動く）。
+# 秘密の値 DOCS_DISPATCH_TOKEN：carreplotter-docs だけに絞った fine-grained personal access token（Contents: Read and write）
+name: site
+on:
+  push:
+    branches: [main]
+    paths: ["site/**"]
+  workflow_dispatch:
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 check.py
+      - name: Ask the website to rebuild
+        env:
+          TOKEN: ${{ secrets.DOCS_DISPATCH_TOKEN }}
+        run: |
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/northeye/carreplotter-docs/dispatches \
+            -d '{"event_type": "translations-updated", "client_payload": {"sha": "${{ github.sha }}"}}'
