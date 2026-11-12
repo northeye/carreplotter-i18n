@@ -30,9 +30,23 @@ Some texts change with a number. They are objects of plural forms:
 Use the plural forms of your language (`zero`, `one`, `two`, `few`, `many`, `other`; `other` is required).
 Languages without plural forms, such as Japanese and Korean, use only `other`.
 
+## The website
+
+`site/` holds the texts of the website (the top page and the user guide), in the same format:
+`site/en.json` is the source, `site/context.json` tells you on which page each text appears,
+and you translate into `site/<language>.json` (for example `site/fr.json`).
+Keys starting with `manual.<page>.` belong to the page `manual/<page>.html` of the user guide.
+
+- Website texts may contain HTML such as `<strong>` and links (`<a href="...">`). Keep the links (the check counts them)
+  and translate only the text between the tags.
+- `{privacy}`, `{email}` and `{github}` are replaced by a link or an address. Keep them as they are.
+- The privacy policy is not translated here: it is a legal document, so it is kept only in English and Japanese.
+- Screenshots in the user guide are in English (and Japanese). Labels in parentheses or quotes such as “Connect” refer to
+  the app's buttons; use the same words as your translation of the app.
+
 ## Rules
 
-- **Keep the placeholders** `%1$s`, `%2$d`, ... exactly as they are. You may move them within the sentence.
+- **Keep the placeholders** `%1$s`, `%2$d`, ... (in the website: `{privacy}`, ...) exactly as they are. You may move them within the sentence.
   `%1$s` is replaced by text (a name, a value with its unit) and `%1$d` by a number.
 - **Do not translate** the app name *CarReplotter*, protocol and product names (OBD2, ELM327, BLE, CAN, ISO 15765-4,
   Google Drive, ...) or unit symbols (km/h, mph, °C, kPa, ...).
