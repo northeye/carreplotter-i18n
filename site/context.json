@@ -27,5 +27,8 @@
   "manual.vehicles.title": "User guide: “Vehicles and battery” page (manual/vehicles.html)",
   "manual.settings.title": "User guide: “Other settings” page (manual/settings.html)",
   "manual.premium.title": "User guide: “Premium” page (manual/premium.html)",
-  "manual.faq.title": "User guide: “FAQ” page (manual/faq.html)"
+  "manual.faq.title": "User guide: “FAQ” page (manual/faq.html)",
+  "manual.score.fig.settings_events.mark3_short": "Only on the Japanese screenshot (its screen shows more items). Other languages use the English screenshot, so this text appears only if you add your own screenshots",
+  "manual.score.fig.settings_events.mark4": "Only on the Japanese screenshot (its screen shows more items). Other languages use the English screenshot, so this text appears only if you add your own screenshots",
+  "manual.vehicles.fig.settings_vehicles.mark5": "Only on the Japanese screenshot (its screen shows more items). Other languages use the English screenshot, so this text appears only if you add your own screenshots"
 }
