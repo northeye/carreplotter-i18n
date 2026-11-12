@@ -834,6 +834,7 @@
   "battery_history_title": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "battery_history_empty": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "battery_history_note": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
+  "battery_corrected_note": "Battery voltage history dialog: note under the chart. %1$s is the correction added to the adapter's readings, such as \"+1.0 V\"",
   "premium_battery_history": "Low battery voltage warning (voltage read by the OBD adapter while the car is parked), vehicle settings, notification",
   "premium_replay_metrics": "Trip detail (replay graph metric chips, free plan)",
   "score_title": "Trip detail: driving score card (100 minus deductions for hard braking etc., calculated on device)",
