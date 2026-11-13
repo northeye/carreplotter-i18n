@@ -404,6 +404,7 @@
   "about_privacy": "Privacy policy",
   "about_terms": "Terms of service",
   "about_tokushoho": "Legal notice (Japan)",
+  "about_weather_data": "Weather data (MET Norway)",
   "mini_items_button": "Items to show",
   "mini_preview": "Preview",
   "mini_preview_address": "1-1 Marunouchi, Chiyoda, Tokyo",
@@ -971,5 +972,5 @@
   "weather_start": "Start",
   "weather_break": "Break",
   "weather_end": "End",
-  "weather_attribution": "Weather data: MET Norway (CC BY 4.0)"
+  "weather_attribution": "Weather: based on data from MET Norway (CC BY 4.0)"
 }

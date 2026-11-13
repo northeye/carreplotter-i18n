@@ -403,6 +403,7 @@
   "about_privacy": "プライバシーポリシー",
   "about_terms": "利用規約",
   "about_tokushoho": "特定商取引法に基づく表記",
+  "about_weather_data": "天気のデータ（MET Norway）",
   "mini_items_button": "表示する項目",
   "mini_preview": "プレビュー",
   "mini_preview_address": "東京都千代田区丸の内1丁目",
@@ -960,5 +961,5 @@
   "weather_start": "出発",
   "weather_break": "休憩",
   "weather_end": "到着",
-  "weather_attribution": "天気のデータ：MET Norway（CC BY 4.0）"
+  "weather_attribution": "天気：MET Norway のデータをもとに表示（CC BY 4.0）"
 }
