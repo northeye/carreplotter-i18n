@@ -141,7 +141,7 @@
   "manual.replay.fig.detail_export.mark1": "KML（Google Earth でリプレイ）・GPX（地図ソフト向け）・CSV（表計算向け。1 秒ごとの値）",
   "manual.replay.fig.detail_export.mark2": "CarReplotter 形式。別の端末の CarReplotter で開いてリプレイできます",
   "manual.replay.fig.detail_export.caption": "右上の「エクスポート」メニューです。",
-  "manual.replay.export.p1": "CarReplotter 形式では走行開始と終了を削るかどうか（自宅や到着地点のプライバシー保護のため）や、メモと費用を含めるかを選べます。アダプターの名前・車台番号・住所は含めません。",
+  "manual.replay.export.p1": "CarReplotter 形式では、走り始めと終わりを削るか（自宅や到着地点を渡さないため。止まっていた時間は数えず、走った時間で削ります）と、メモと費用を含めるかを選べます。アダプターの名前・車台番号・住所は含めません。ファイルは zip（….crtrip.zip）で渡すので、LINE やメールでも送れます。",
   "manual.score.title": "運転スコアとイベント",
   "manual.score.summary": "スコアの付け方・エコの評価・イベントの段階",
   "manual.score.lead": "走行ごとに 100 点満点のスコアを出します。どのイベントで何点減ったかがすべて分かります。スコア計算は端末の中だけで行い、外部には元になるデータや結果を送信しません。",
@@ -289,7 +289,7 @@
   "manual.faq.data_and_privacy.faq2.q": "機種を変えるときは",
   "manual.faq.data_and_privacy.faq2.a": "設定の「バックアップ」で「データを書き出す」を行い、新しい端末で「バックアップから戻す」を行ってください。",
   "manual.faq.data_and_privacy.faq3.q": "ほかの人に走行を送りたい",
-  "manual.faq.data_and_privacy.faq3.a": "走行詳細の「エクスポート」→「CarReplotter 形式で共有」で送れます。受け取った人は、ファイルを開くか走行履歴の「走行を読み込む」で読み込みます。",
+  "manual.faq.data_and_privacy.faq3.a": "走行詳細の「エクスポート」→「CarReplotter 形式で共有」で、LINE・メール・Google ドライブなどに送れます。受け取った人は、zip のファイルをそのまま開くか、走行履歴の「走行を読み込む」で読み込みます（展開する必要はありません）。",
   "manual.faq.contact.heading": "お問い合わせ",
   "manual.faq.contact.p1": "ご質問・不具合の報告・ご意見は <a href=\"mailto:carreplotter@northeye.org\">carreplotter@northeye.org</a> までお送りください。"
 }

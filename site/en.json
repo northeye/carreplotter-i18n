@@ -141,7 +141,7 @@
   "manual.replay.fig.detail_export.mark1": "KML (replay in Google Earth), GPX (for mapping apps), CSV (for spreadsheets, a value every second)",
   "manual.replay.fig.detail_export.mark2": "CarReplotter format, which others can open and replay in CarReplotter",
   "manual.replay.fig.detail_export.caption": "“Export” at the top right.",
-  "manual.replay.export.p1": "When sharing in CarReplotter format, you can choose whether to trim the start and end (to keep places such as your home private) and whether to include the memo and costs. The adapter name, VIN and addresses are never included.",
+  "manual.replay.export.p1": "When sharing in CarReplotter format, you can choose whether to trim the start and end (to keep places such as your home private; the trimmed time counts driving only, not time spent stopped) and whether to include the memo and costs. The adapter name, VIN and addresses are never included. The file is sent as a zip (….crtrip.zip), so it can also be sent by messaging apps and email.",
   "manual.score.title": "Driving score and events",
   "manual.score.summary": "How the score works, eco review, event levels",
   "manual.score.lead": "Each trip gets a score out of 100, and you can see exactly which events cost how many points. It is calculated only on your device; neither the data behind it nor the result is sent anywhere.",
@@ -289,7 +289,7 @@
   "manual.faq.data_and_privacy.faq2.q": "Moving to a new phone",
   "manual.faq.data_and_privacy.faq2.a": "Use “Export data” in Settings → Backup, then “Restore from backup” on the new phone.",
   "manual.faq.data_and_privacy.faq3.q": "Sending a trip to someone",
-  "manual.faq.data_and_privacy.faq3.a": "In trip details, choose “Export” → “Share in CarReplotter format”. The recipient opens the file, or imports it with “Import a trip” in Trips.",
+  "manual.faq.data_and_privacy.faq3.a": "In trip details, choose “Export” → “Share in CarReplotter format” to send it by a messaging app, email, Google Drive and so on. The recipient opens the zip file as it is, or imports it with “Import a trip” in Trips (there is no need to unzip it).",
   "manual.faq.contact.heading": "Contact",
   "manual.faq.contact.p1": "Questions, bug reports and feedback: <a href=\"mailto:carreplotter@northeye.org\">carreplotter@northeye.org</a>"
 }
