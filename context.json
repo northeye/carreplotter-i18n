@@ -718,7 +718,7 @@
   "notice_vehicle_fallback": "Notifications, connection, backup, debug screen",
   "notice_recording_title": "Notifications, connection, backup, debug screen",
   "notice_recording_text": "Notifications, connection, backup, debug screen",
-  "notice_recording_gps_only_text": "Notification while recording",
+  "notice_recording_gps_only_text": "Notifications, connection, backup, debug screen",
   "notice_recording_no_gps_title": "Notifications, connection, backup, debug screen",
   "notice_recording_no_gps_text": "Notifications, connection, backup, debug screen",
   "notice_reconnecting_title": "Notifications, connection, backup, debug screen",
