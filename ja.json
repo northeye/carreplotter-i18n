@@ -740,6 +740,7 @@
   "notice_vehicle_fallback": "車",
   "notice_recording_title": "%1$s の走行を記録中",
   "notice_recording_text": "GPS と %1$s で記録しています",
+  "notice_recording_gps_only_text": "GPS だけで記録しています（アダプターにはつながっていません）",
   "notice_recording_no_gps_title": "%1$s の走行を記録中（GPS なし）",
   "notice_recording_no_gps_text": "ルートは記録していません。アプリを開くか「GPS も記録」をタップすると記録します",
   "notice_reconnecting_title": "%1$s に再接続しています",

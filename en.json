@@ -751,6 +751,7 @@
   "notice_vehicle_fallback": "car",
   "notice_recording_title": "Recording a trip in %1$s",
   "notice_recording_text": "Recording with GPS and %1$s",
+  "notice_recording_gps_only_text": "Recording with GPS only (no adapter connected)",
   "notice_recording_no_gps_title": "Recording a trip in %1$s (no GPS)",
   "notice_recording_no_gps_text": "The route is not being recorded. Open the app or tap \"Record GPS too\" to record it.",
   "notice_reconnecting_title": "Reconnecting to %1$s",
