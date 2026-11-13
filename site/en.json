@@ -1,6 +1,9 @@
 {
   "nav.manual": "User guide",
   "nav.privacy": "Privacy",
+  "footer.terms": "Terms of service",
+  "footer.privacy": "Privacy policy",
+  "footer.tokushoho": "Legal notice (Japan)",
   "top.description": "Record your drives with an OBD2 adapter and GPS, and replay them on a map.",
   "top.hero_1": "Record your drives.",
   "top.hero_2": "Replay them on a map.",

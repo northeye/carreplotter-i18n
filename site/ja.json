@@ -1,6 +1,9 @@
 {
   "nav.manual": "使い方",
   "nav.privacy": "プライバシー",
+  "footer.terms": "利用規約",
+  "footer.privacy": "プライバシーポリシー",
+  "footer.tokushoho": "特定商取引法に基づく表記",
   "top.description": "OBD2 アダプターと GPS で走行を記録し、地図でリプレイするアプリ。",
   "top.hero_1": "走行を記録して",
   "top.hero_2": "地図でリプレイ",

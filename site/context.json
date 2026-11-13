@@ -1,6 +1,9 @@
 {
   "nav.manual": "Site header: link to the user guide (short)",
   "nav.privacy": "Site header: link to the privacy policy (short)",
+  "footer.terms": "Site footer: link to the terms of service",
+  "footer.privacy": "Site footer: link to the privacy policy",
+  "footer.tokushoho": "Site footer: link to the legal notice required by Japanese law (Japanese pages only)",
   "top.description": "Top page: description for search engines",
   "top.hero_1": "Top page: headline over the photo, first line",
   "top.hero_2": "Top page: headline over the photo, second line",
