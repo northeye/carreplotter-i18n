@@ -773,7 +773,7 @@
   "notice_manual_text": "「記録開始」で記録します",
   "toast_gps_enabled": "GPS を記録しています",
   "toast_recording_started": "記録を開始しました",
-  "toast_recording_stopped": "記録を停止しました",
+  "toast_recording_stopped": "記録を開始しました",
   "toast_connected": "%1$s に接続しました",
   "toast_lost": "%1$s との接続が切れました。再接続しています",
   "notice_enable_gps": "GPS も記録",
