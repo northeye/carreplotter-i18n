@@ -1021,5 +1021,11 @@
   "low_power_check_connect_failed": "Couldn't connect to the adapter.",
   "low_power_check_voltage_unknown": "Couldn't read the battery voltage, so the check stopped.",
   "low_power_check_turn_on": "Turn on",
-  "common_close": "Close"
+  "common_close": "Close",
+  "live_values_title_ios": "Lock Screen and Dynamic Island",
+  "live_values_description_ios": "While recording, the Lock Screen and the Dynamic Island show the elapsed time and the items below. The values update every few seconds.",
+  "live_values_events_description_ios": "Shows events that happen while recording (such as hard acceleration) below the items.",
+  "live_values_address_description_ios": "Shows the address of your current location below the items. While shown, the coordinates of your current location are sent to the system address lookup about once a minute (when you have moved 200 m or more). Nothing is sent inside your saved places.",
+  "premium_live_values_ios": "Showing events and the address of your current location is available with the Premium plan.",
+  "settings_items_display_ios": "Dark mode · Language · Units · Date and time · Lock Screen"
 }

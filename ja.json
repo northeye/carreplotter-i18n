@@ -1009,5 +1009,11 @@
   "low_power_check_connect_failed": "アダプターに接続できませんでした。",
   "low_power_check_voltage_unknown": "電圧が読み取れないため確認できませんでした。",
   "low_power_check_turn_on": "オンにする",
-  "common_close": "閉じる"
+  "common_close": "閉じる",
+  "live_values_title_ios": "ロック画面・Dynamic Island",
+  "live_values_description_ios": "記録中はロック画面と Dynamic Island に経過時間と下の項目を表示します。値は数秒ごとに更新します。",
+  "live_values_events_description_ios": "記録中に起きたイベント（急加速など）を項目の下に表示します。",
+  "live_values_address_description_ios": "現在地の住所を項目の下に表示します。表示中は記録中の現在地の座標を約1分ごと（200m 以上動いたとき）に端末システムの住所検索に送信します。登録地点の範囲内では送信しません。",
+  "premium_live_values_ios": "イベントの表示と現在地の住所はプレミアムプランで利用できます。",
+  "settings_items_display_ios": "ダークモード・言語・単位・日付と時刻・ロック画面"
 }
