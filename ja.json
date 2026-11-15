@@ -1005,7 +1005,7 @@
   "low_power_check_works": "使えます。アダプターが眠り、エンジンをかけたら起きました。オンにしますか？",
   "low_power_check_unsupported": "このアダプターは眠らせる命令に対応していません。",
   "low_power_check_no_sleep": "アダプターは命令を受け付けましたが、電波を出したままでした。使えません。",
-  "low_power_check_no_wake": "エンジンをかけてもアダプターが起きませんでした。使えません。エンジンを止めて、もう一度かけると起きます。",
+  "low_power_check_no_wake": "エンジンをかけてもアダプターが起きませんでした。使えません。起きないままなら、アダプターを抜いて挿し直してください。",
   "low_power_check_connect_failed": "アダプターに接続できませんでした。",
   "low_power_check_voltage_unknown": "電圧が読めないので、確かめられませんでした。",
   "low_power_check_turn_on": "オンにする",
