@@ -860,6 +860,8 @@
   "ob_adapter_registered_ios": "This adapter is set to connect automatically when nearby. See the ⓘ in Settings → Connection for how it works on iPhone.",
   "ob_bullet": "•",
   "ob_granted": "✓ Allowed",
+  "ob_open_settings": "Open Settings",
+  "ob_denied": "Not allowed. You can allow it on this app's page in the Settings app.",
   "ob_battery": "Battery",
   "ob_battery_body": "While recording or connected, the app keeps running in the background with a notification. Some devices stop apps in the background to save battery, which can cut a recording short. If recordings stop unexpectedly, set battery usage for this app to \"Unrestricted\".",
   "ob_battery_usage": "Battery use: the app talks to the adapter and uses GPS only while connected or recording. After the car has been stopped for a while it disconnects, so the adapter can sleep.",
