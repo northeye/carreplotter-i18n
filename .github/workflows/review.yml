@@ -1,6 +1,8 @@
 # 翻訳の PR に「review」ラベルを付けたら、Claude がレビューして PR にコメントする（付けた PR だけ。終わったらラベルを外す。
 # もう一度レビューするときは、また付ける）。
 # 秘密の値 CLAUDE_CODE_OAUTH_TOKEN：`claude setup-token` で作る（Claude のプランの使用量で動く。ラベルを付けた PR だけなので使いすぎない）。
+# コメントは自分の GitHub App の名前で付ける：変数 REVIEW_APP_ID（App の ID）と秘密の値 REVIEW_APP_PRIVATE_KEY（App の秘密鍵）。
+# App の権限は Pull requests の読み書きだけ、入れるのはこのリポジトリだけ。登録していなければ github-actions[bot] で付ける。
 #
 # 外部の人（書き込み権限のない人）のフォークからの PR もレビューするため、pull_request_target で動かし、
 # allowed_non_write_users を "*" にしている（action の文書では「危険」とされる設定）。そのぶん次のように絞る：
@@ -28,10 +30,18 @@ jobs:
     steps:
       # main だけ（PR のファイルは取り込まない）。en.json・context.json・CONTRIBUTING.md を見比べるのに使う
       - uses: actions/checkout@v7
+      # コメントを付ける App のトークン（このリポジトリだけ・Pull requests の読み書きだけ）
+      - id: app-token
+        if: vars.REVIEW_APP_ID != ''
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.REVIEW_APP_ID }}
+          private-key: ${{ secrets.REVIEW_APP_PRIVATE_KEY }}
+          permission-pull-requests: write
       - uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ steps.app-token.outputs.token || secrets.GITHUB_TOKEN }}
           allowed_non_write_users: "*"
           prompt: |
             You review a pull request to the translation repository of CarReplotter, a driving recorder app
