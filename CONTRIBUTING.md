@@ -4,7 +4,7 @@
 
 1. Open the file of your language (for example `fr.json`) and edit the text.
 2. Send a pull request. A check runs automatically; please fix any errors it reports.
-   Claude (an AI) also reviews the texts and comments on the pull request. Its comments are suggestions; a maintainer decides.
+   A maintainer may also ask Claude (an AI) to review the texts; it comments on the pull request. Its comments are suggestions; a maintainer decides.
 
 You can do all of this in the GitHub web editor.
 

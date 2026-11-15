@@ -1,5 +1,6 @@
-# 翻訳の PR を Claude が自動でレビューし、PR にコメントする。
-# 秘密の値 ANTHROPIC_API_KEY：Anthropic の API キー（PR ごとに料金がかかる）。登録するまでは失敗するだけで、ほかには影響しない。
+# 翻訳の PR に「review」ラベルを付けたら、Claude がレビューして PR にコメントする（付けた PR だけ。終わったらラベルを外す。
+# もう一度レビューするときは、また付ける）。
+# 秘密の値 CLAUDE_CODE_OAUTH_TOKEN：`claude setup-token` で作る（Claude のプランの使用量で動く。ラベルを付けた PR だけなので使いすぎない）。
 #
 # 外部の人（書き込み権限のない人）のフォークからの PR もレビューするため、pull_request_target で動かし、
 # allowed_non_write_users を "*" にしている（action の文書では「危険」とされる設定）。そのぶん次のように絞る：
@@ -10,25 +11,26 @@
 name: review
 on:
   pull_request_target:
-    types: [opened, synchronize, reopened, ready_for_review]
-    paths: ["*.json", "site/*.json"]
+    types: [labeled]
 concurrency:
   group: review-${{ github.event.pull_request.number }}
   cancel-in-progress: true
 jobs:
   review:
-    if: github.event.pull_request.draft == false
+    # ラベルを付けられるのは書き込み権限のある人（メンテナー）だけ
+    if: github.event.label.name == 'review'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
       contents: read
       pull-requests: write
+      issues: write # ラベルを外すため
     steps:
       # main だけ（PR のファイルは取り込まない）。en.json・context.json・CONTRIBUTING.md を見比べるのに使う
       - uses: actions/checkout@v7
       - uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           allowed_non_write_users: "*"
           prompt: |
@@ -60,3 +62,8 @@ jobs:
             --permission-mode default
             --max-turns 30
             --model claude-sonnet-5-5
+      # 終わったら（失敗しても）ラベルを外す。もう一度付ければ、またレビューする
+      - if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr edit ${{ github.event.pull_request.number }} --repo ${{ github.repository }} --remove-label review
