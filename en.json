@@ -215,6 +215,7 @@
   "settings_items_events": "Accel/brake · Speeding · Sharp turns · Impacts",
   "settings_items_places": "Saved places · Current address",
   "settings_items_backup": "Export · Import · Automatic backup",
+  "settings_items_backup_ios": "Export · Import",
   "settings_items_developer": "Debug info",
   "adapters_title": "Adapters",
   "adapters_description": "Adapters you have connected to over BLE are remembered. When you open the app it connects to the last one (you can turn this off below). If you set up \"Connect automatically when nearby\", the app connects and starts recording when you start the engine and the adapter wakes up, even if the app is closed (if you have an adapter in each car, set up each one).",
@@ -423,6 +424,12 @@
     "one": "The trip data and settings currently saved will be discarded and replaced with the backup (%1$d trip). This cannot be undone, so export your current data first if you need it. The app restarts after restoring.",
     "other": "The trip data and settings currently saved will be discarded and replaced with the backup (%1$d trips). This cannot be undone, so export your current data first if you need it. The app restarts after restoring."
   },
+  "backup_description_ios": "\"Export data\" writes your trips, vehicles, places, meter layouts and settings into one file. It is the same format as the Android version's backup, so either app can read it. Save it to iCloud Drive or another place. Settings that belong to this device (permissions and adapters set to connect automatically) are not included. Trip data includes location, so handle the file with care.",
+  "backup_import_text_ios": {
+    "one": "Your current trips and settings will be discarded and replaced with the backup (%1$d trip). This cannot be undone, so export your current data first if you need it.",
+    "other": "Your current trips and settings will be discarded and replaced with the backup (%1$d trips). This cannot be undone, so export your current data first if you need it."
+  },
+  "backup_import_ready_ios": "Ready to restore. Close the app (swipe it up in the app switcher) and open it again to replace the data with the backup.",
   "meter_edit": "Edit",
   "meter_done": "Done",
   "meter_moving_warning": "You are moving. Stop the car before editing.",
