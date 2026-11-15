@@ -230,7 +230,7 @@
   "shortcut_connected": "Connected to the adapter.",
   "shortcut_connecting": "Connecting to the adapter. Recording starts automatically once the vehicle responds.",
   "shortcut_no_adapter": "No adapter has been connected yet. Connect once from the app first.",
-  "auto_connect_ios_note": "When the adapter appears, the app connects even if it is in the background.\n\nOn iPhone, after the app disconnects on its own (after stopping, or when you disconnect), it stops waiting for the adapter so the adapter can sleep. To connect automatically on the next drive, create an automation in the Shortcuts app: \"When iPhone connects to the car's Bluetooth or CarPlay\" → \"Connect to adapter\". Opening the app also connects.\n\nIf you swipe the app away, it does not connect automatically until you open it again.",
+  "auto_connect_ios_note": "When the adapter appears, the app connects even if it is in the background.\n\nOn iPhone, after the app disconnects on its own (after stopping, or when you disconnect), it stops waiting for the adapter so the adapter can sleep. To connect automatically on the next drive, create an automation in the Shortcuts app: \"When iPhone connects to the car's Bluetooth or CarPlay\" → \"Connect to adapter\".\n\nIf you swipe the app away, it does not connect automatically until you open it again.",
   "shortcuts_open": "Open Shortcuts",
   "adapter_rename": "Name",
   "adapter_forget": "Forget",
