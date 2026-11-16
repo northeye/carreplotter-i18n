@@ -1064,6 +1064,7 @@
   "low_power_check_voltage_unknown": "Couldn't read the battery voltage, so the check stopped.",
   "low_power_check_turn_on": "Turn on",
   "common_close": "Close",
+  "settings_info": "About %1$s",
   "live_values_title_ios": "Lock Screen and Dynamic Island",
   "live_values_description_ios": "While recording, the Lock Screen and the Dynamic Island show the elapsed time and the items below. The values update every few seconds.",
   "live_values_events_description_ios": "Shows events that happen while recording (such as hard acceleration) below the items.",
