@@ -285,6 +285,7 @@
   "plan_feature_accent": "Highlight color",
   "language_title": "Language",
   "language_description": "The language used in this app. \"System default\" follows the language set on your device.",
+  "language_description_ios": "The language this app is shown in. Tap to open this app's page in the Settings app, where you can choose a language for this app only. If you don't choose one, it follows your iPhone's language.",
   "language_system": "System default",
   "units_title": "Units",
   "units_description": "Changes only how values are shown. Recorded data and exported files (CSV, KML) always use metric units.",

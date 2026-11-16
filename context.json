@@ -274,6 +274,7 @@
   "plan_feature_accent": "Plan comparison table row: changing the highlight (accent) color",
   "language_title": "Settings screen",
   "language_description": "Settings screen",
+  "language_description_ios": "iOS: description of the language setting. The button opens the app's page in the iOS Settings app (iOS has no in-app language choice)",
   "language_system": "Settings screen",
   "units_title": "Settings screen",
   "units_description": "Settings screen",
