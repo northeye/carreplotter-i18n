@@ -1030,7 +1030,7 @@
   "weather_end": "End",
   "weather_attribution": "Weather: based on data from MET Norway (CC BY 4.0)",
   "adapter_low_power": "Put to sleep on disconnect",
-  "adapter_low_power_description": "Sends AT LP when disconnecting after the engine stops. The adapter sleeps sooner and reconnects when you start the engine.",
+  "adapter_low_power_description": "Sends AT LP when disconnecting after the engine stops. The adapter sleeps sooner and reconnects when you start the engine. When this is on, the app disconnects about 10 minutes after the engine stops (instead of 5), to read the battery voltage of the parked car before the adapter sleeps.",
   "adapter_low_power_unchecked": "Not checked yet",
   "adapter_low_power_works": "Works with this adapter",
   "adapter_low_power_unsupported": "Not supported by this adapter",

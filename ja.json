@@ -1013,7 +1013,7 @@
   "weather_end": "到着",
   "weather_attribution": "天気：MET Norway のデータをもとに表示（CC BY 4.0）",
   "adapter_low_power": "切断時にスリープ",
-  "adapter_low_power_description": "エンジンを停止して切断するときにアダプターをスリープさせます（AT LP）。より早くスリープし、エンジン始動ですぐ接続します。",
+  "adapter_low_power_description": "エンジンを停止して切断するときにアダプターをスリープさせます（AT LP）。より早くスリープし、エンジン始動ですぐ接続します。オンのときは、スリープさせる前に停車中の車のバッテリー電圧を測るため、エンジン停止の約10分後に切断します（「維持しない」の5分の代わり）。",
   "adapter_low_power_unchecked": "未確認",
   "adapter_low_power_works": "利用可能",
   "adapter_low_power_unsupported": "このアダプターは対応していません",
