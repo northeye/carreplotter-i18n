@@ -701,6 +701,7 @@
   "debug_adapter": "アダプター",
   "debug_vin": "車台番号（VIN）",
   "debug_pids": "対応PID",
+  "debug_recorded_with": "記録したアプリ",
   "trip_delete_title": "この走行を削除しますか？",
   "events_none": "イベント：なし",
   "event_lateral": "横 %1$s G",

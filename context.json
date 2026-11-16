@@ -668,6 +668,7 @@
   "debug_adapter": "Trip list and trip details",
   "debug_vin": "Trip list and trip details",
   "debug_pids": "Trip list and trip details",
+  "debug_recorded_with": "Trip detail, debug info: OS and its version, device model, app version and build (commit) used to record the trip",
   "trip_delete_title": "Trip list and trip details",
   "events_none": "Trip list and trip details",
   "event_lateral": "Trip list and trip details",

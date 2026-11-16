@@ -711,6 +711,7 @@
   "debug_adapter": "Adapter",
   "debug_vin": "VIN",
   "debug_pids": "Supported PIDs",
+  "debug_recorded_with": "Recorded with",
   "trip_delete_title": "Delete this trip?",
   "events_none": "Events: none",
   "event_lateral": "Lateral %1$s G",
