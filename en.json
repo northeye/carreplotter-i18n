@@ -463,6 +463,8 @@
   "bg_location_dialog_title": "Allow location all the time",
   "bg_location_dialog_text": "CarReplotter collects location data to record your route from the start of trips that begin automatically when your adapter connects, even when the app is closed or not in use.\n\nLocation data is collected only while a trip is being recorded, and never when it is not (a notification is shown while recording).\n\nLocation data is stored only on this device (and in your own backups) and is never sent to servers outside this device.\n\nOn the next screen, choose \"Allow all the time\".",
   "bg_location_dialog_continue": "Continue",
+  "bg_location_settings_ios": "To record GPS while the app is closed, open Settings, tap Location and choose \"Always\".",
+  "bg_location_off_ios": "To turn this off, open Settings, tap Location and choose \"While Using the App\".",
   "bg_location_card_title": "GPS recording",
   "bg_location_card_text": "This trip started while the app was closed, so the route was not recorded at first. Allow location \"All the time\" to record it from the start next time.",
   "bg_location_card_later": "Not now",

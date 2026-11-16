@@ -439,6 +439,8 @@
   "bg_location_dialog_title": "Dialog shown before asking for location \"All the time\" (Google Play requires this explanation)",
   "bg_location_dialog_text": "Dialog body. Keep the meaning of \"collects location data ... even when the app is closed or not in use\" (required wording by Google Play). \"Allow all the time\" should match Android's option in your language. The second paragraph (\"collected only while recording\") is there so users do not think location is collected when not recording",
   "bg_location_dialog_continue": "Dialog button that goes on to Android's location permission screen",
+  "bg_location_settings_ios": "iOS dialog when iOS no longer shows its own prompt: asks the user to choose \"Always\" for Location in the Settings app (wording should match iOS Settings)",
+  "bg_location_off_ios": "iOS dialog when turning off the \"record GPS while the app is closed\" switch: the app cannot lower the permission itself, so it asks to choose \"While Using the App\" in Settings (wording should match iOS Settings)",
   "bg_location_card_title": "Meter: small heading of the card suggesting location \"All the time\" (shown after a trip started without GPS)",
   "bg_location_card_text": "Meter: card text",
   "bg_location_card_later": "Meter card button: do not set it up (the card is not shown again)",
