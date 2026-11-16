@@ -582,6 +582,7 @@
   "warn_sound": "警告音",
   "warn_sound_note": "警告になったときに1回鳴らします（メーター画面を表示しているときのみ）",
   "warn_sound_volume": "アラームの音量で鳴らします（マナーモードでも鳴ります）",
+  "warn_sound_volume_ios": "メディアの音量で鳴らします（消音モードでも鳴ります）",
   "warn_sound_test": "試しに鳴らす",
   "metric_list_hint": "アダプターに接続するとこの車で取れない値は選択できなくなります。",
   "metric_selected": "%1$s（選択中）",

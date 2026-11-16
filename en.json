@@ -586,6 +586,7 @@
   "warn_sound": "Warning sound",
   "warn_sound_note": "Plays once when the warning starts (while the meter is shown)",
   "warn_sound_volume": "Plays at alarm volume (even in silent mode)",
+  "warn_sound_volume_ios": "Plays at the media volume (also in silent mode).",
   "warn_sound_test": "Test",
   "metric_list_hint": "After you connect to an adapter, values this car cannot provide can no longer be selected.",
   "metric_selected": "%1$s (selected)",

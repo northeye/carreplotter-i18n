@@ -562,6 +562,7 @@
   "warn_sound": "Meter (dashboard) screen",
   "warn_sound_note": "Meter (dashboard) screen",
   "warn_sound_volume": "Meter (dashboard) screen",
+  "warn_sound_volume_ios": "iOS meter item settings, under the warning sound choice: how the sound is played on iPhone",
   "warn_sound_test": "Meter (dashboard) screen",
   "metric_list_hint": "Meter (dashboard) screen",
   "metric_selected": "Meter (dashboard) screen",
