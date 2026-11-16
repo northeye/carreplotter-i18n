@@ -635,6 +635,30 @@
   "trip_import_error_too_large": "The file is too large.",
   "trip_import_error_too_new": "This file was made with a newer version of the app. Update the app and try again.",
   "trip_import_failed": "Couldn't import the trip.",
+  "trips_export_list": "Trip list (CSV, one row per trip)",
+  "trip_import_many_title": {
+    "one": "Import %1$d trip?",
+    "other": "Import %1$d trips?"
+  },
+  "trip_import_many_range": "%1$s – %2$s",
+  "trip_import_many_duplicates": {
+    "one": "%1$d of them has already been imported and will be skipped.",
+    "other": "%1$d of them have already been imported and will be skipped."
+  },
+  "trip_import_all_duplicates": "All of these trips have already been imported.",
+  "trip_import_many_done": {
+    "one": "Imported %1$d trip.",
+    "other": "Imported %1$d trips."
+  },
+  "trip_import_many_hidden": "Trips older than the latest %1$d can be viewed with Premium.",
+  "trip_share_skipped": {
+    "one": "%1$d trip was too short to trim and was left out.",
+    "other": "%1$d trips were too short to trim and were left out."
+  },
+  "export_saved_many": {
+    "one": "Saved %1$d file to Downloads.",
+    "other": "Saved %1$d files to Downloads."
+  },
   "trip_imported_badge": "Imported",
   "route_recording": "Recording route",
   "trip_pending_resume": "Paused",

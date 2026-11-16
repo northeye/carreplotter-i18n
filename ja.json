@@ -630,6 +630,25 @@
   "trip_import_error_too_large": "ファイルが大きすぎます。",
   "trip_import_error_too_new": "新しい版のアプリで作られたファイルです。アプリを更新してから読み込んでください。",
   "trip_import_failed": "走行を読み込めませんでした。",
+  "trips_export_list": "走行の一覧（CSV、1 走行 1 行）",
+  "trip_import_many_title": {
+    "other": "%1$d 件の走行を読み込みますか？"
+  },
+  "trip_import_many_range": "%1$s – %2$s",
+  "trip_import_many_duplicates": {
+    "other": "うち %1$d 件はもう読み込んであるため飛ばします。"
+  },
+  "trip_import_all_duplicates": "どの走行ももう読み込んであります。",
+  "trip_import_many_done": {
+    "other": "%1$d 件の走行を読み込みました。"
+  },
+  "trip_import_many_hidden": "最新 %1$d 件より古い走行はプレミアムプランで表示できます。",
+  "trip_share_skipped": {
+    "other": "%1$d 件は走行が短すぎて削れないため入れませんでした。"
+  },
+  "export_saved_many": {
+    "other": "%1$d 件のファイルをダウンロードフォルダに保存しました。"
+  },
   "trip_imported_badge": "取り込み",
   "route_recording": "ルート記録中",
   "trip_pending_resume": "休憩中",
