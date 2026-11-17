@@ -872,6 +872,8 @@
   "ble_failed": "Cannot scan: %1$s",
   "ble_searching": "Searching…\nPlug the adapter into the car and turn the ignition on.",
   "ble_no_name": "(no name)",
+  "ble_known": "Your adapters",
+  "ble_others": "Other devices",
   "dbg_connection": "Connection",
   "dbg_state": "State",
   "dbg_target": "Connected to",

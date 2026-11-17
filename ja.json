@@ -855,6 +855,8 @@
   "ble_failed": "スキャンできません：%1$s",
   "ble_searching": "探しています…\nアダプターを車に挿し、イグニッションをONにしてください。",
   "ble_no_name": "(名前なし)",
+  "ble_known": "登録済みのアダプター",
+  "ble_others": "そのほかの機器",
   "dbg_connection": "接続",
   "dbg_state": "状態",
   "dbg_target": "接続先",
