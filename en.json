@@ -756,6 +756,7 @@
   "replay_pause": "Pause",
   "replay_play": "Play",
   "replay_next": "Next event",
+  "replay_chart_hint": "Drag the graph to move",
   "replay_estimated": "GPS was lost in this section (position is estimated)",
   "export_saved": "Saved to the Downloads folder: %1$s",
   "export_open": "Open %1$s",

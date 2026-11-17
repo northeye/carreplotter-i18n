@@ -746,6 +746,7 @@
   "replay_pause": "一時停止",
   "replay_play": "再生",
   "replay_next": "次のイベント",
+  "replay_chart_hint": "グラフをなぞって移動",
   "replay_estimated": "GPS が途切れた区間です（位置は推定）",
   "export_saved": "ダウンロードフォルダに保存しました：%1$s",
   "export_open": "%1$s を開く",
