@@ -728,6 +728,7 @@
   "summary_finished": "Trip finished",
   "summary_open": "Summary & share as image",
   "summary_share_image": "Share as image",
+  "summary_open_detail": "Open trip details",
   "summary_include_places": "Include start and end places",
   "summary_include_extras": "Include weather and vehicle",
   "summary_fuel": "Fuel",
