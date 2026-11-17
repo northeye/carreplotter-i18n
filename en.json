@@ -1077,6 +1077,7 @@
   "low_power_check_sending": "Putting the adapter to sleep…",
   "low_power_check_confirming": "Checking that the adapter is asleep…",
   "low_power_check_start_engine": "Start the engine. Waiting for the adapter to wake up…",
+  "low_power_check_remaining": "%1$d s left",
   "low_power_check_works": "It works. The adapter slept and woke up when you started the engine. Turn it on?",
   "low_power_check_unsupported": "This adapter doesn't support the sleep command.",
   "low_power_check_no_sleep": "The adapter accepted the command but kept advertising, so it can't be used.",

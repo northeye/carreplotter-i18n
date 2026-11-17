@@ -1060,6 +1060,7 @@
   "low_power_check_sending": "アダプターをスリープさせています…",
   "low_power_check_confirming": "スリープしたか確認しています…",
   "low_power_check_start_engine": "エンジンを始動してください。アダプターが起きるのを待っています…",
+  "low_power_check_remaining": "残り %1$d 秒",
   "low_power_check_works": "利用可能です。アダプターが正常にスリープし、エンジン始動で起きました。オンにしますか？",
   "low_power_check_unsupported": "このアダプターはスリープさせる命令（AT LP）に対応していません。",
   "low_power_check_no_sleep": "アダプターはスリープさせる命令（AT LP）を受け付けましたが、BLE の電波を送出したままでした。利用できません。",
