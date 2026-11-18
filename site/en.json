@@ -340,5 +340,16 @@
   "adapters.report.heading": "Tell us about your adapter",
   "adapters.report.body": "If you use an adapter with CarReplotter, please report whether it worked, even if it is already on this list. Reports are accepted as GitHub issues (a GitHub account is needed) and will be added to this page. Please don’t include your VIN, location or other personal information.",
   "adapters.report.button": "Report an adapter",
-  "adapters.user_only": "Reported by users only (not tested by the developer)"
+  "adapters.user_only": "Reported by users only (not tested by the developer)",
+  "nav.adapters": "Adapters",
+  "nav.faq": "FAQ",
+  "top.pricing.heading": "Pricing",
+  "top.pricing.free.title": "Free",
+  "top.pricing.free.body": "Recording and replay with no limits. The trip history shows the latest 10 trips, the meter has up to 6 items per page and 2 pages, and you can add up to 2 vehicles and 3 places. Export and import of your data are included.",
+  "top.pricing.premium.title": "Premium",
+  "top.pricing.premium.body": "No limits. Adds live driving events on the meter, more values for replay graphs, fuel economy correction with your fill-ups, battery voltage history, automatic backup and a meter page for expressways.",
+  "top.pricing.price": "Premium is a monthly or yearly subscription with a 7-day free trial. Prices depend on your country and are shown in Google Play and in the app. You can cancel anytime in Google Play, and your trips are never deleted.",
+  "adapters.ads.tag": "Ad",
+  "adapters.ads": "Some purchase links are affiliate links. If you buy through them, we may earn a commission. This does not affect the results or recommendations on this page, which are based only on actual tests.",
+  "adapters.ads.amazon": ""
 }
