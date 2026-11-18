@@ -351,5 +351,6 @@
   "top.pricing.price": "プレミアムプランは月額 200 円・年額 1,500 円の定期購読で、7 日間の無料体験があります。解約は Google Play からいつでもでき、解約しても走行の記録は消えません。",
   "adapters.ads.tag": "広告",
   "adapters.ads": "購入リンクには、アフィリエイトリンク（広告）が含まれます。リンクから購入されると、運営者が紹介料を受け取ることがあります。このページの結果とおすすめは、実際に試した結果だけに基づいており、紹介料の有無には左右されません。",
-  "adapters.ads.amazon": "Amazon のアソシエイトとして、CarReplotter は適格販売により収入を得ています。"
+  "adapters.ads.amazon": "Amazon のアソシエイトとして、CarReplotter は適格販売により収入を得ています。",
+  "adapters.store.official": "公式ストア"
 }

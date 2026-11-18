@@ -351,5 +351,6 @@
   "top.pricing.price": "Premium is a monthly or yearly subscription with a 7-day free trial. Prices depend on your country and are shown in Google Play and in the app. You can cancel anytime in Google Play, and your trips are never deleted.",
   "adapters.ads.tag": "Ad",
   "adapters.ads": "Some purchase links are affiliate links. If you buy through them, we may earn a commission. This does not affect the results or recommendations on this page, which are based only on actual tests.",
-  "adapters.ads.amazon": ""
+  "adapters.ads.amazon": "",
+  "adapters.store.official": "Official Store"
 }
