@@ -320,7 +320,7 @@
   "manual.faq.contact.p1": "Questions, bug reports and feedback: <a href=\"mailto:carreplotter@northeye.org\">carreplotter@northeye.org</a>",
   "manual.replay.fig.summary.caption": "A card with the route line (events as ▲), distance, time, fuel economy, average and top speed, fuel, time by speed, driving score and deductions, and eco figures. The version of the app that recorded the trip is shown at the top right.",
   "adapters.title": "Tested adapters",
-  "adapters.lead": "OBD2 adapters we have tested with CarReplotter. Other ELM327-compatible adapters with Bluetooth Low Energy (BLE) or Wi-Fi may also work.",
+  "adapters.lead": "OBD2 adapters tested with CarReplotter by the developer or by users. Other ELM327-compatible adapters with Bluetooth Low Energy (BLE) or Wi-Fi may also work.",
   "adapters.col.name": "Product",
   "adapters.col.type": "Connection",
   "adapters.col.sleep": "Sleep",
@@ -330,6 +330,15 @@
   "adapters.note.vgate": "It also shows up as \"Android-Vlink\" (Bluetooth Classic). CarReplotter uses \"IOS-Vlink\" (BLE).",
   "adapters.note.infocar": "It replies to AT LP but keeps advertising, so \"Put to sleep on disconnect\" can't be used.",
   "adapters.sleep_note": "Sleep: whether the adapter goes to sleep with \"Put to sleep on disconnect\" (AT LP) and wakes up when you start the engine. You can check it in the app from the adapter settings. Adapters without it may still sleep on their own some time after the engine is turned off.",
-  "adapters.disclaimer": "These are the results of our own tests. They may differ by vehicle, production lot or firmware version.",
-  "manual.start.what_you_need.adapters": "Adapters we have tested are listed on <a href=\"../adapters.html\">Tested adapters</a>."
+  "adapters.disclaimer": "These are the results of tests by the developer and users. They may differ by vehicle, production lot or firmware version.",
+  "manual.start.what_you_need.adapters": "Adapters we have tested are listed on <a href=\"../adapters.html\">Tested adapters</a>.",
+  "adapters.col.recommended": "Recommended",
+  "adapters.col.user": "User reports",
+  "adapters.sleep.unknown": "Not checked",
+  "adapters.recommended_note": "Recommended (●): adapters that can sleep. They drain the car battery less while parked.",
+  "adapters.user_note": "User reports: links to reports from users. The developer has tested every adapter on this list unless it is marked otherwise.",
+  "adapters.report.heading": "Tell us about your adapter",
+  "adapters.report.body": "If you use an adapter with CarReplotter, please report whether it worked, even if it is already on this list. Reports are accepted as GitHub issues (a GitHub account is needed) and will be added to this page. Please don’t include your VIN, location or other personal information.",
+  "adapters.report.button": "Report an adapter",
+  "adapters.user_only": "Reported by users only (not tested by the developer)"
 }

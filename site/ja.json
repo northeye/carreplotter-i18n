@@ -320,7 +320,7 @@
   "manual.faq.contact.p1": "ご質問・不具合の報告・ご意見は <a href=\"mailto:carreplotter@northeye.org\">carreplotter@northeye.org</a> までお送りください。",
   "manual.replay.fig.summary.caption": "ルートの線（イベントは ▲）・距離・時間・燃費・平均速度・最高速度・燃料・速度帯ごとの時間・運転スコアと減点・エコをまとめたカードです。右上には記録したアプリのバージョンが入ります。",
   "adapters.title": "動作確認済みアダプター",
-  "adapters.lead": "CarReplotter で動作を確認した OBD2 アダプターです。ここにないものでも、Bluetooth Low Energy（BLE）型・Wi-Fi 型の ELM327 互換アダプターなら使えることがあります。",
+  "adapters.lead": "開発者またはユーザーが CarReplotter で動作を確認した OBD2 アダプターです。ここにないものでも、Bluetooth Low Energy（BLE）型・Wi-Fi 型の ELM327 互換アダプターなら使えることがあります。",
   "adapters.col.name": "製品名",
   "adapters.col.type": "対応タイプ",
   "adapters.col.sleep": "スリープ対応",
@@ -330,6 +330,15 @@
   "adapters.note.vgate": "Bluetooth Classic の「Android-Vlink」も出ますが、CarReplotter では BLE の「IOS-Vlink」を使います。",
   "adapters.note.infocar": "AT LP に応答しますが電波を出し続けるため、「切断時にスリープ」は使えません。",
   "adapters.sleep_note": "スリープ対応：「切断時にスリープ」（AT LP）でアダプターがスリープし、エンジン始動で起きるか。アプリのアダプターの設定から確認できます。非対応のものでも、エンジンを停止してしばらくすると自分でスリープするものがあります。",
-  "adapters.disclaimer": "私たちが試した結果です。車種・製造ロット・ファームウェアの版によって異なることがあります。",
-  "manual.start.what_you_need.adapters": "動作を確認したアダプターは<a href=\"../adapters.html\">動作確認済みアダプター</a>のページにまとめています。"
+  "adapters.disclaimer": "開発者とユーザーが試した結果です。車種・製造ロット・ファームウェアの版によって異なることがあります。",
+  "manual.start.what_you_need.adapters": "動作を確認したアダプターは<a href=\"../adapters.html\">動作確認済みアダプター</a>のページにまとめています。",
+  "adapters.col.recommended": "おすすめ",
+  "adapters.col.user": "ユーザー確認",
+  "adapters.sleep.unknown": "未確認",
+  "adapters.recommended_note": "おすすめ（●）：スリープに対応しているもの。止めている間の車のバッテリーの消耗が少なくなります。",
+  "adapters.user_note": "ユーザー確認：ユーザーからの報告へのリンク。特に書いていないものは、開発者も確認しています。",
+  "adapters.report.heading": "動作確認の報告を募集しています",
+  "adapters.report.body": "CarReplotter で使ったアダプターが動いたかどうか、ぜひ教えてください（この一覧にあるものも歓迎です）。報告は GitHub の issue で受け付けています（GitHub のアカウントが必要です）。いただいた報告はこのページに載せます。車台番号（VIN）や位置など、個人を特定できる情報は書かないでください。",
+  "adapters.report.button": "アダプターを報告する",
+  "adapters.user_only": "ユーザーの報告のみ（開発者は未確認）"
 }
