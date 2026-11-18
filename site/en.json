@@ -327,7 +327,6 @@
   "adapters.col.buy": "Where to buy",
   "adapters.sleep.yes": "Yes",
   "adapters.sleep.no": "No",
-  "adapters.buy": "Buy",
   "adapters.note.vgate": "It also shows up as \"Android-Vlink\" (Bluetooth Classic). CarReplotter uses \"IOS-Vlink\" (BLE).",
   "adapters.note.infocar": "It replies to AT LP but keeps advertising, so \"Put to sleep on disconnect\" can't be used.",
   "adapters.sleep_note": "Sleep: whether the adapter goes to sleep with \"Put to sleep on disconnect\" (AT LP) and wakes up when you start the engine. You can check it in the app from the adapter settings. Adapters without it may still sleep on their own some time after the engine is turned off.",
