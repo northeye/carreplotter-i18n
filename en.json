@@ -217,6 +217,7 @@
   "settings_items_developer": "Debug info",
   "adapters_title": "Registered adapters",
   "adapters_description": "Adapters you connect to over BLE are registered automatically.",
+  "adapters_tested_link": "See tested adapters",
   "adapters_more": "When you open the app it connects to the last one (you can turn this off below). If you set up \"Connect automatically when nearby\", the app connects and starts recording when you start the engine and the adapter wakes up, even if the app is closed (if you have an adapter in each car, set up each one).",
   "connect_on_open_switch": "Connect when the app opens",
   "connect_on_open_description": "When you open the app, it connects to the last adapter you used.",
