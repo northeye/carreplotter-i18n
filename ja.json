@@ -181,7 +181,7 @@
   "plan_buy_lifetime": "買い切り %1$s",
   "plan_lifetime_sale": "期間限定（通常 %1$s、%2$s まで）",
   "plan_lifetime_sale_no_end": "期間限定（通常 %1$s）",
-  "plan_lifetime_description": "一度の購入で、ずっとプレミアムプランを使えます。自動更新はありません。",
+  "plan_lifetime_description": "一度の購入でずっと使えます（自動更新なし）",
   "plan_lifetime_switch": "買い切りに切り替えることもできます。購入したら、定期購読は「購読の管理」から解約してください（自動では止まりません）。",
   "plan_terms_lifetime": "買い切りは Google Play のアカウントに一度だけ請求され、自動更新はありません。",
   "plan_terms": "お支払いは Google Play のアカウントに請求されます。購読は自動で更新されます。解約は Play ストアでいつでも可能で、支払い済みの期間の終わりまでプレミアムを利用できます。",

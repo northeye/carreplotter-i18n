@@ -181,7 +181,7 @@
   "plan_buy_lifetime": "One-time purchase %1$s",
   "plan_lifetime_sale": "Limited-time price (regularly %1$s, until %2$s)",
   "plan_lifetime_sale_no_end": "Limited-time price (regularly %1$s)",
-  "plan_lifetime_description": "Pay once and keep Premium forever. It does not renew.",
+  "plan_lifetime_description": "Pay once, keep it forever. No renewals.",
   "plan_lifetime_switch": "You can also switch to a one-time purchase. After buying it, cancel your subscription in Manage subscription; it does not stop automatically.",
   "plan_terms_lifetime": "The one-time purchase is charged once to your Google Play account and does not renew.",
   "plan_terms": "Payment is charged to your Google Play account. The subscription renews automatically. You can cancel anytime in the Play Store, and Premium stays available until the end of the paid period.",
