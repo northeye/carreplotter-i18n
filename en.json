@@ -872,6 +872,7 @@
   "notice_vehicle_fallback": "car",
   "notice_recording_title": "Recording a trip in %1$s",
   "notice_recording_text": "Recording with GPS and %1$s",
+  "notice_recording_gps_only_title": "Recording a trip in %1$s (GPS only)",
   "notice_recording_gps_only_text": "Recording with GPS only (no adapter connected)",
   "notice_recording_open_ios": "Open the app to show the status on the Lock Screen.",
   "notice_recording_no_gps_title": "Recording a trip in %1$s (no GPS)",
