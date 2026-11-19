@@ -105,7 +105,7 @@
   "manual.recording.fig.settings_recording.mark4": "Record GPS from the start, even for trips that start while the app is closed (needs location “Allow all the time”)",
   "manual.recording.fig.settings_recording.mark5": "Trips shorter than this are not kept",
   "manual.recording.fig.settings_recording.caption": "Settings → Recording.",
-  "manual.recording.automatic_recording.p1": "While recording, the app shows a notification (Android requires this to keep recording in the background). You can also record manually with “Start recording” and “Stop” on the meter.",
+  "manual.recording.automatic_recording.p1": "While recording, the app shows a notification (Android requires this to keep recording in the background). You can also record manually with “Start recording” and “Stop” on the meter. A GPS-only recording (without an adapter) does not stop automatically, so tap “Stop” when you finish driving.",
   "manual.recording.gps.heading": "GPS (location)",
   "manual.recording.gps.list1.1": "With location set to “Allow only while using the app”, trips that start while the app is closed cannot use GPS. The route is recorded once you tap “Record GPS too” in the notification or open the app",
   "manual.recording.gps.list1.2": "Turn on “Record GPS while the app is closed” in Settings → Recording and allow location “All the time” to record the route from the start (optional)",

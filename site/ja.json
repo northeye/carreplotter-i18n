@@ -105,7 +105,7 @@
   "manual.recording.fig.settings_recording.mark4": "アプリを閉じている状態で始まった記録でも、最初から GPS を記録します（位置情報の権限を「常に許可」にする必要があります）",
   "manual.recording.fig.settings_recording.mark5": "これより短い走行記録は残しません",
   "manual.recording.fig.settings_recording.caption": "設定の「記録」ページです。",
-  "manual.recording.automatic_recording.p1": "記録中は通知を出します（Android の仕様でバックグラウンドで記録を続けるために必要です）。メーターの「記録開始」「停止」で手動でも記録開始できます。",
+  "manual.recording.automatic_recording.p1": "記録中は通知を出します（Android の仕様でバックグラウンドで記録を続けるために必要です）。メーターの「記録開始」「停止」で手動でも記録開始できます。アダプターなしで GPS だけで記録しているときは自動では止まらないので、走り終わったら「停止」で止めてください。",
   "manual.recording.gps.heading": "GPS（位置情報）",
   "manual.recording.gps.list1.1": "位置情報の権限が「アプリの使用中のみ許可」のときはアプリを閉じている状態で自動開始された記録では GPS を使えません。通知の「GPS も記録」をタップするか、アプリを開くことでGPSを使用したルートを記録できます",
   "manual.recording.gps.list1.2": "設定の「記録」ページの「アプリを閉じているときも GPS を記録」をオンにし、位置情報の権限を「常に許可」にすることで最初からルートを記録できます（任意）",
