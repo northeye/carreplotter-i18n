@@ -238,7 +238,7 @@
   "manual.vehicles.fig.settings_vehicles.mark1": "Battery voltage while parked (last reading)",
   "manual.vehicles.fig.settings_vehicles.mark2": "Voltage over the last 30 days (Premium)",
   "manual.vehicles.fig.settings_vehicles.mark3": "Shown in red when at or below the warning level",
-  "manual.vehicles.fig.settings_vehicles.mark4": "Use this vehicle (the one shown on the meter)",
+  "manual.vehicles.fig.settings_vehicles.mark4": "Vehicle menu: use this vehicle (show it on the meter), edit or delete",
   "manual.vehicles.fig.settings_vehicles.mark5": "Whether to notify you when the voltage is low",
   "manual.vehicles.fig.settings_vehicles.caption": "Settings → Vehicle management.",
   "manual.vehicles.intro.list1.1": "The engine displacement is used to estimate fuel economy from intake pressure in cars without a mass air flow (MAF) sensor",

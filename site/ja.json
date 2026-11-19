@@ -238,7 +238,7 @@
   "manual.vehicles.fig.settings_vehicles.mark1": "停止中のバッテリー電圧（最後に読んだ値）",
   "manual.vehicles.fig.settings_vehicles.mark2": "直近 30 日の電圧の推移（プレミアムプラン）",
   "manual.vehicles.fig.settings_vehicles.mark3": "警告の基準より低いと赤で出します",
-  "manual.vehicles.fig.settings_vehicles.mark4": "この車両を使う（メーターに出す車両）",
+  "manual.vehicles.fig.settings_vehicles.mark4": "車両のメニューから、この車両を使う（メーターに出す車両にする）・編集・削除",
   "manual.vehicles.fig.settings_vehicles.mark5": "電圧が低いときに通知で知らせるか",
   "manual.vehicles.fig.settings_vehicles.caption": "設定の「車両管理」ページです。",
   "manual.vehicles.intro.list1.1": "排気量は、吸入空気量（MAF）に対応していない車で推定燃費を吸気圧から計算するのに使います",
