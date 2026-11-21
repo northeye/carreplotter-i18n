@@ -792,7 +792,7 @@
   "place_name_label": "Name (e.g. Home)",
   "place_register_note": "Starts and destinations within %1$s are shown with this name without looking up the address.",
   "place_register": "Save",
-  "place_show_map": "Show on map",
+  "place_open_map_app": "Open in maps app",
   "replay_previous": "Previous event",
   "replay_pause": "Pause",
   "replay_play": "Play",

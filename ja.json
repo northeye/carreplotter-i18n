@@ -782,7 +782,7 @@
   "place_name_label": "名前（例：自宅）",
   "place_register_note": "半径 %1$s 以内の出発地・到着地は住所を問い合わせずにこの名前で表示します。",
   "place_register": "登録",
-  "place_show_map": "地図で表示",
+  "place_open_map_app": "地図アプリで開く",
   "replay_previous": "前のイベント",
   "replay_pause": "一時停止",
   "replay_play": "再生",
