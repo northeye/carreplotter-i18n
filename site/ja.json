@@ -317,7 +317,7 @@
   "manual.faq.data_and_privacy.faq3.q": "ほかの人に走行を送りたい",
   "manual.faq.data_and_privacy.faq3.a": "走行詳細の「エクスポート」→「CarReplotter 形式で共有」で、LINE・メール・Google ドライブなどに送れます。受け取った人は、zip のファイルをそのまま開くか、走行履歴の「走行を読み込む」で読み込みます（展開する必要はありません）。",
   "manual.faq.contact.heading": "お問い合わせ",
-  "manual.faq.contact.p1": "ご質問・不具合の報告・ご意見は <a href=\"mailto:carreplotter@northeye.org\">carreplotter@northeye.org</a> までお送りください。",
+  "manual.faq.contact.p1": "ご質問・不具合の報告・ご意見は <a href=\"mailto:carreplotter@northeye.net\">carreplotter@northeye.net</a> までお送りください。",
   "manual.replay.fig.summary.caption": "ルートの線（イベントは ▲）・距離・時間・燃費・平均速度・最高速度・燃料・速度帯ごとの時間・運転スコアと減点・エコをまとめたカードです。右上には記録したアプリのバージョンが入ります。",
   "adapters.title": "動作確認済みアダプター",
   "adapters.lead": "開発者またはユーザーが CarReplotter で動作を確認した OBD2 アダプターです。ここにないものでも、Bluetooth Low Energy（BLE）型・Wi-Fi 型の ELM327 互換アダプターなら使えることがあります。",
