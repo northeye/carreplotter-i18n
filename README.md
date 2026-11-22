@@ -17,7 +17,7 @@ help translate them. Pull requests are welcome!
 | `ko.json` | Korean |
 | `pt-BR.json` | Portuguese (Brazil) |
 
-The texts of the website [carreplotter.northeye.net](https://carreplotter.northeye.net/) (the top page and the
+The texts of the website [carreplotter.northeye.biz](https://carreplotter.northeye.biz/) (the top page and the
 user guide) are in `site/`, one file per language in the same way (`site/en.json` is the source).
 A language appears on the website once `site/<language>.json` exists; texts not translated yet are shown in English.
 

@@ -317,7 +317,7 @@
   "manual.faq.data_and_privacy.faq3.q": "Sending a trip to someone",
   "manual.faq.data_and_privacy.faq3.a": "In trip details, choose “Export” → “Share in CarReplotter format” to send it by a messaging app, email, Google Drive and so on. The recipient opens the zip file as it is, or imports it with “Import a trip” in Trips (there is no need to unzip it).",
   "manual.faq.contact.heading": "Contact",
-  "manual.faq.contact.p1": "Questions, bug reports and feedback: <a href=\"mailto:carreplotter@northeye.net\">carreplotter@northeye.net</a>",
+  "manual.faq.contact.p1": "Questions, bug reports and feedback: <a href=\"mailto:carreplotter@northeye.biz\">carreplotter@northeye.biz</a>",
   "manual.replay.fig.summary.caption": "A card with the route line (events as ▲), distance, time, fuel economy, average and top speed, fuel, time by speed, driving score and deductions, and eco figures. The version of the app that recorded the trip is shown at the top right.",
   "adapters.title": "Tested adapters",
   "adapters.lead": "OBD2 adapters tested with CarReplotter by the developer or by users. Other ELM327-compatible adapters with Bluetooth Low Energy (BLE) or Wi-Fi may also work.",
