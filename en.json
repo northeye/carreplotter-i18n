@@ -952,6 +952,7 @@
   "dbg_all_values": "All values",
   "dbg_address": "Address",
   "dbg_engine_ecu_only": " · engine ECU only (7E0)",
+  "dbg_idle_probe": "Idle check",
   "ob_welcome": "Welcome to %1$s",
   "ob_welcome_body": "An app that records your drives with an OBD2 adapter and GPS and replays them on a map.",
   "ob_welcome_auto": "Recording starts automatically when you start the engine and stops when you stop",
