@@ -936,6 +936,8 @@
   "dbg_address": "アドレス",
   "dbg_engine_ecu_only": "・エンジンの ECU だけ（7E0）",
   "dbg_idle_probe": "待機中の確認",
+  "dbg_live_signal": "電波（ライブ）",
+  "dbg_signal_connected": "接続中（電波は出ていません）",
   "ob_welcome": "%1$s へようこそ",
   "ob_welcome_body": "OBD2 アダプターと GPS で走行を記録して地図上でリプレイするアプリです。アダプターを使わずに GPS だけでも走行を記録できます。",
   "ob_welcome_auto": "エンジンを始動すると自動で記録し、停車すると自動で停止します。",
